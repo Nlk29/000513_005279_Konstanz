@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="4" BoundingR="528" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Kacheln\32_513500_5279500.ls3"/>
+<p X="500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="628" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Kacheln\32_513500_5277500.ls3"/>
+<p X="500" Y="-1500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="592" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Kacheln\32_513500_5278500.ls3"/>
+<p X="500" Y="-500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Ankerpunkt AnkerKat="2" Beschreibung="Alter Plan: Weiche verschoben" Farbe="00FFFF00">
+<p X="360.7324" Y="-325.0954" Z="398.0962"/>
+<phi Z="1.545933"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Alter Plan: Ehem. zweites Gleis" Farbe="00FFFF00">
+<p X="363.211" Y="-279.5331" Z="398.1157"/>
+<phi Z="1.595877"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Alter Plan: Trassierung mit Unterführung geändert" Farbe="00FFFF00">
+<p X="356.1442" Y="-423.0355" Z="397.9361"/>
+<phi Z="1.343887"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Nicht anders möglich. DKW 190 1:6.3 nicht vorhanden." Farbe="00FFFF00">
+<p X="270.7591" Y="-890.5228" Z="399.0468"/>
+<phi Z="1.394108"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Lokschuppen Zentrum" Farbe="00FFFF00">
+<p X="223.8937" Y="-972.3223" Z="399.7076"/>
+<phi Z="4.535705"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Kapitelhaus" Farbe="00FFFF00">
+<p X="402.0162" Y="71.1401" Z="398.3997"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Inselhotel" Farbe="00FFFF00">
+<p X="371.3771" Y="-0.5221" Z="398.6521"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ Inselhotel" Farbe="00FFFF00">
+<p X="333.8696" Y="12.0549" Z="400.0792"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Theater" Farbe="00FFFF00">
+<p X="301.4583" Y="-38.7992" Z="398.6603"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Kirche" Farbe="00FFFF00">
+<p X="300.3876" Y="-58.9802" Z="398.7635"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="VSig F Konstanz-Petershausen" Farbe="00FFFF00">
+<p X="339.3321" Y="-33.4139" Z="399.5473"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Ne3" Farbe="00FFFF00">
+<p X="349.5674" Y="-132.7328" Z="398.8864"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Ne3" Farbe="00FFFF00">
+<p X="357.2754" Y="-207.4774" Z="398.3661"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Ne3" Farbe="00FFFF00">
+<p X="361.2799" Y="-270.4675" Z="397.9773"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Gemeindehaus" Farbe="00FFFF00">
+<p X="345.5565" Y="-265.3878" Z="397.7033"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Gemeindehaus" Farbe="00FFFF00">
+<p X="344.8141" Y="-283.5694" Z="398.0984"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ Konzistraße" Farbe="00FFFF00">
+<p X="360.1104" Y="-317.2767" Z="398.0392"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Konzil" Farbe="00FFFF00">
+<p X="376.5828" Y="-365.5865" Z="398.0434"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Güterabfertigung" Farbe="00FFFF00">
+<p X="375.4149" Y="-498.8686" Z="397.3878"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Gutabgabe" Farbe="00FFFF00">
+<p X="364.1491" Y="-561.5759" Z="397.4279"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Aufenthaltsräume" Farbe="00FFFF00">
+<p X="318.4737" Y="-507.8327" Z="397.8795"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Heute Bäcker früher ?" Farbe="00FFFF00">
+<p X="311.2348" Y="-539.9959" Z="397.8971"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Übergang" Farbe="00FFFF00">
+<p X="334.1774" Y="-497.1331" Z="397.41"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Empfangegbäude mit Gaststätte" Farbe="00FFFF00">
+<p X="296.933" Y="-607.6041" Z="398.1654"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Schweizer Bf" Farbe="00FFFF00">
+<p X="284.5535" Y="-684.7241" Z="397.8789"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Übergang" Farbe="00FFFF00">
+<p X="316.8328" Y="-595.4963" Z="397.5025"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Übergang" Farbe="00FFFF00">
+<p X="308.3537" Y="-640.6192" Z="397.4933"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Übergang" Farbe="00FFFF00">
+<p X="305.2134" Y="-660.733" Z="397.518"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Lager Bahnmeisterei" Farbe="00FFFF00">
+<p X="229.4758" Y="-731.3833" Z="398.1748"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Lager Werkstatt" Farbe="00FFFF00">
+<p X="213.5182" Y="-895.914" Z="398.3991"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Übernachtungsheim" Farbe="00FFFF00">
+<p X="202.4483" Y="-1029.682" Z="398.3914"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Lager" Farbe="00FFFF00">
+<p X="210.2628" Y="-1076.076" Z="398.4568"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Stw5" Farbe="00FFFF00">
+<p X="264.0988" Y="-1126.887" Z="399.1821"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Abfallbansen" Farbe="00FFFF00">
+<p X="276.8758" Y="-1282.724" Z="399.7244"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Büro" Farbe="00FFFF00">
+<p X="286.7184" Y="-1307.339" Z="399.787"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Werkstatt" Farbe="00FFFF00">
+<p X="281.7754" Y="-1321.547" Z="399.6581"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Heizöl" Farbe="00FFFF00">
+<p X="297.1265" Y="-1324.886" Z="399.6197"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Ölauffangwanne" Farbe="00FFFF00">
+<p X="339.7882" Y="-1244.839" Z="399.6099"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Zollhaus CH" Farbe="00FFFF00">
+<p X="328.2336" Y="-1052.72" Z="398.3253"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Zollhaus DE" Farbe="00FFFF00">
+<p X="331.2814" Y="-1029.2939" Z="398.113"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Wasserturm" Farbe="00FFFF00">
+<p X="326.2183" Y="-855.3624" Z="397.6506"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Haus Fa. Donzas" Farbe="00FFFF00">
+<p X="384.1283" Y="-743.5112" Z="397.5072"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Werkstatt" Farbe="00FFFF00">
+<p X="449.9411" Y="-742.9911" Z="397.2208"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Werkstatt" Farbe="00FFFF00">
+<p X="478.6902" Y="-722.7656" Z="396.998"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Werkstatt" Farbe="00FFFF00">
+<p X="494.676" Y="-717.8072" Z="397.248"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Blauer Enzian" Farbe="00FFFF00">
+<p X="470.959" Y="-715.3121" Z="397.2046"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Kran" Farbe="00FFFF00">
+<p X="466.301" Y="-742.9583" Z="397.0205"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hafenmeister" Farbe="00FFFF00">
+<p X="411.7408" Y="-527.4545" Z="397.6617"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Stw Kof" Farbe="00FFFF00">
+<p X="350.3531" Y="-715.3227" Z="397.6068"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Zollamt Güterbahnhof" Farbe="00FFFF00">
+<p X="337.6307" Y="-775.7445" Z="397.5391"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Bü Hafenstraße" Farbe="00FFFF00">
+<p X="305.7529" Y="-725.5833" Z="397.761"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Überführung" Farbe="00FFFF00">
+<p X="307.9695" Y="-721.9574" Z="397.4909"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Überweg" Farbe="00FFFF00">
+<p X="296.7456" Y="-711.089" Z="397.7124"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ Freie Straße" Farbe="00FFFF00">
+<p X="274.8095" Y="-1101.4969" Z="399.0171"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Überführung" Farbe="00FFFF00">
+<p X="282.2058" Y="-1122.314" Z="398.9644"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Laderampe?" Farbe="00FFFF00">
+<p X="326.4741" Y="-832.58" Z="398.5648"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Güterbahnhpf" Farbe="00FFFF00">
+<p X="354.1655" Y="-684.1712" Z="397.4303"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Zollamt" Farbe="00FFFF00">
+<p X="360.3857" Y="-649.317" Z="397.531"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="BÜ Marktstätte" Farbe="00FFFF00">
+<p X="357.8295" Y="-417.7383" Z="393.7019"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Güterbahnhof" Farbe="00FFFF00">
+<p X="384.4514" Y="-448.5811" Z="397.7403"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Imperia oder Moleturm" Farbe="00FFFF00">
+<p X="597.4683" Y="-388.1038" Z="394.8741"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Moleturm" Farbe="00FFFF00">
+<p X="659.5469" Y="-417.5874" Z="394.9128"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hafenmauer" Farbe="00FFFF00">
+<p X="630.8261" Y="-564.6704" Z="394.895"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hafenmauer" Farbe="00FFFF00">
+<p X="480.9135" Y="-788.9636" Z="397.6572"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig A" Farbe="00FFFF00">
+<p X="339.036" Y="69.9675" Z="400.4074"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Ra10" Farbe="00FFFF00">
+<p X="349.8045" Y="-167.6748" Z="398.7011"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hs1" Farbe="00FFFF00">
+<p X="359.5269" Y="-321.8888" Z="397.903"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Asig P1" Farbe="00FFFF00">
+<p X="348.9134" Y="-431.4483" Z="396.561"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Asig P2" Farbe="00FFFF00">
+<p X="353.7358" Y="-432.8191" Z="397.7354"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Asig P3" Farbe="00FFFF00">
+<p X="357.6512" Y="-433.6061" Z="398.0233"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="ASig P5" Farbe="00FFFF00">
+<p X="364.7971" Y="-435.5867" Z="397.6033"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Asig P6" Farbe="00FFFF00">
+<p X="368.256" Y="-436.6448" Z="397.5963"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hs5I" Farbe="00FFFF00">
+<p X="354.926" Y="-510.282" Z="397.5023"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hs 4" Farbe="00FFFF00">
+<p X="349.4541" Y="-515.1384" Z="397.4323"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Unbekanntes Esig P5?" Farbe="00FFFF00">
+<p X="282.74" Y="-1076.536" Z="398.6646"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig N1" Farbe="00FFFF00">
+<p X="291.8252" Y="-714.8558" Z="398.0573"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig N2" Farbe="00FFFF00">
+<p X="296.5643" Y="-715.8552" Z="397.5239"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig N3" Farbe="00FFFF00">
+<p X="305.8376" Y="-718.4092" Z="398.1108"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig N4" Farbe="00FFFF00">
+<p X="311.0097" Y="-718.7179" Z="397.587"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="HS3II" Farbe="00FFFF00">
+<p X="303.2828" Y="-736.7999" Z="397.9489"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Unbekanntes Hs Hs4II?" Farbe="00FFFF00">
+<p X="295.5767" Y="-808.0415" Z="397.7424"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hs5II" Farbe="00FFFF00">
+<p X="278.4139" Y="-934.5374" Z="398.0427"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Unbekanntes Hs Hs2II?" Farbe="00FFFF00">
+<p X="276.2824" Y="-832.6354" Z="397.6123"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Reparaturwerkstatt" Farbe="00FFFF00">
+<p X="257.652" Y="-915.6695" Z="398.4141"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Ra10" Farbe="00FFFF00">
+<p X="266.716" Y="-1143.087" Z="399.1694"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hs7" Farbe="00FFFF00">
+<p X="304.9767" Y="-1165.326" Z="399.1766"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hs5III" Farbe="00FFFF00">
+<p X="298.4695" Y="-1167.557" Z="399.2364"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hs24I" Farbe="00FFFF00">
+<p X="264.235" Y="-975.8619" Z="398.2502"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Hs6II" Farbe="00FFFF00">
+<p X="278.0428" Y="-957.8421" Z="398.0265"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="GsXXI" Farbe="00FFFF00">
+<p X="278.8514" Y="-775.9222" Z="398.3192"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig F Verlegen an den Streckenanfang!" Farbe="00FFFF00">
+<p X="257.4074" Y="-1202.462" Z="399.8719"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Esig Genaue Position u. Bezeichnung unbekannt" Farbe="00FFFF00">
+<p X="377.4732" Y="-1318.333" Z="399.9249"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Stw3" Farbe="00FFFF00">
+<p X="284.8523" Y="-1106.085" Z="398.9085"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Stw2" Farbe="00FFFF00">
+<p X="317.9796" Y="-743.9969" Z="397.5202"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Stw1" Farbe="00FFFF00">
+<p X="355.1038" Y="-341.7342" Z="398.0349"/>
+<phi/>
+</Ankerpunkt>
+</Landschaft>
+</Zusi>
