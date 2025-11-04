@@ -10,14 +10,122 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str23.lod.ls3"/>
-<p X="-190.0741" Y="-370.207" Z="397.4991"/>
-<phi Z="2.328687"/>
+<p X="-191.9139" Y="-370.5351" Z="397.4991"/>
+<phi Z="2.547126"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="332" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Kasinostr\AC_WH_Kasinostr21.lod.ls3"/>
-<p X="-192.8476" Y="-440.789" Z="398.5297"/>
-<phi Z="-0.361644"/>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-236.8057" Y="-434.5889" Z="400.2674"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-232.0902" Y="-432.9263" Z="400.1823"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-227.3747" Y="-431.2637" Z="400.0973"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-222.6592" Y="-429.6011" Z="400.0122"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-217.9437" Y="-427.9385" Z="399.9272"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-213.2283" Y="-426.2759" Z="399.8421"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-208.5128" Y="-424.6133" Z="399.7571"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-203.7973" Y="-422.9507" Z="399.672"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-199.0818" Y="-421.2881" Z="399.587"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-194.3663" Y="-419.6255" Z="399.5019"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-189.6508" Y="-417.963" Z="399.4169"/>
+<phi Z="0.338974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-186.4632" Y="-414.1994" Z="399.409"/>
+<phi Z="0.87699"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-186.29" Y="-409.2102" Z="399.3112"/>
+<phi Z="1.493799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-186.3346" Y="-404.2104" Z="399.1059"/>
+<phi Z="1.579702"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-186.3791" Y="-399.2106" Z="398.9006"/>
+<phi Z="1.579702"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-186.4236" Y="-394.2108" Z="398.6953"/>
+<phi Z="1.579702"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-186.4681" Y="-389.211" Z="398.49"/>
+<phi Z="1.579702"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
+<p X="-186.5107" Y="-384.2154" Z="398.2851"/>
+<phi Z="1.576817"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Spitalkellerei\Spitalkellerei.lod.ls3"/>
+<p X="-195.789" Y="-441.7617" Z="398.5297"/>
+<phi Z="1.707389"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
