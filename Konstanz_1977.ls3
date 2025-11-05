@@ -2,7 +2,7 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="4" BoundingR="528" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="556" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Kacheln\32_513500_5279500.ls3"/>
 <p X="500" Y="500"/>
 <phi/>
@@ -17,6 +17,12 @@
 <Verknuepfte Flags="4" BoundingR="592" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Kacheln\32_513500_5278500.ls3"/>
 <p X="500" Y="-500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte GruppenName="Nachbarmodul" BoundingR="2829" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.ls3"/>
+<p X="-2000" Y="2000"/>
 <phi/>
 <sk/>
 </Verknuepfte>

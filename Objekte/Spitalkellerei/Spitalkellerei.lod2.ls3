@@ -48,10 +48,10 @@
 <Datei Dateiname="Siegel.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFA3A3A3" MeshV="22" MeshI="36">
+<SubSet Cd="FFFFFFFF" MeshV="22" MeshI="36">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Spitalkellerei\Spitalkellerei_lod2\texture6.jpg"/>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\ZiegelDunkelRot.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
