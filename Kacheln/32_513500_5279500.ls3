@@ -124,7 +124,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Spitalkellerei\Spitalkellerei.lod.ls3"/>
-<p X="-195.789" Y="-441.7617" Z="398.5297"/>
+<p X="-195.789" Y="-441.7617" Z="399.3969"/>
 <phi Z="1.707389"/>
 <sk/>
 </Verknuepfte>
@@ -132,6 +132,54 @@
 <Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
 <p X="-186.537" Y="-379.8586" Z="398.1089"/>
 <phi Z="1.576818"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\09a_Haus\DriburgHaus09a.lod.ls3"/>
+<p X="-206.6579" Y="-383.8508" Z="399.0771"/>
+<phi Z="6.795235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\09a_Haus\DriburgHaus09a.lod.ls3"/>
+<p X="-227.6279" Y="-395.4536" Z="399.0852"/>
+<phi Z="6.795235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\09a_Haus\DriburgHaus09a.lod.ls3"/>
+<p X="-225.3729" Y="-426.0435" Z="399.9861"/>
+<phi Z="6.622159"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\09a_Haus\DriburgHaus09a.lod.ls3"/>
+<p X="-222.501" Y="-411.6948" Z="399.6859"/>
+<phi Z="2.018193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="41" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005691_Hagen_Hbf\Objekte\Hagen_Hbf_21_Stadtkulisse\Hagen_Hbf_21_Boeler-Block-8-1b.lod.ls3"/>
+<p X="-221.001" Y="-444.519" Z="399.475"/>
+<phi Z="1.792392"/>
+<sk X="1" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
+<p X="-203.3828" Y="-363.8867" Z="397.6018"/>
+<phi Z="2.53323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
+<p X="-211.1184" Y="-358.5371" Z="397.6018"/>
+<phi Z="2.53323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="369" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000415_005704_Froendenberg\Objekte\Froendenberg_22_Bismarkstr\Froendenberg_22_WH_15\Froendenberg_22_WH_15.lod.ls3"/>
+<p X="-214.6148" Y="-321.9277" Z="400.0389"/>
+<phi Z="-2.295858"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -156,7 +204,7 @@
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="56" MeshI="162">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" zBias="-1" MeshV="56" MeshI="162">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
@@ -181,6 +229,12 @@
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\General\Water\river_10m_water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="22" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+  <Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1"/>
+  <Landschaft>
+    <lsb Dateiname="Rheintorturm.lod3.lsb"/>
+    <SubSet Cd="FFA3A3A3" MeshV="272" MeshI="594">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Rheintorturm\Rheintorturm\texture0.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="55" MeshI="111">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Rheintorturm\Rheintorturm\texture1.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFFFFFFF" MeshV="20" MeshI="36">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="527" MeshI="627">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Rheintorturm\Rheintorturm\texture2.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="704" MeshI="1551">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Rheintorturm\Rheintorturm\texture3.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="760" MeshI="1734">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Rheintorturm\Rheintorturm\texture4.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="402" MeshI="504">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Rheintorturm\Rheintorturm\texture5.jpg"/>
+      </Textur>
+    </SubSet>
+  </Landschaft>
+</Zusi>
