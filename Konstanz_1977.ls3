@@ -2,7 +2,7 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="4" BoundingR="556" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="4" BoundingR="662" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Kacheln\32_513500_5279500.ls3"/>
 <p X="500" Y="500"/>
 <phi/>
@@ -20,15 +20,9 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte GruppenName="Nachbarmodul" BoundingR="2829" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.ls3"/>
-<p X="-2000" Y="2000"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <Ankerpunkt AnkerKat="2" Beschreibung="Alter Plan: Weiche verschoben" Farbe="00FFFF00">
 <p X="360.7324" Y="-325.0954" Z="398.0962"/>
-<phi Z="1.545933"/>
+<phi Z="1.545932"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Alter Plan: Ehem. zweites Gleis" Farbe="00FFFF00">
 <p X="363.211" Y="-279.5331" Z="398.1157"/>
@@ -36,7 +30,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Alter Plan: Trassierung mit Unterführung geändert" Farbe="00FFFF00">
 <p X="356.1442" Y="-423.0355" Z="397.9361"/>
-<phi Z="1.343887"/>
+<phi Z="1.343888"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Nicht anders möglich. DKW 190 1:6.3 nicht vorhanden." Farbe="00FFFF00">
 <p X="270.7591" Y="-890.5228" Z="399.0468"/>
@@ -44,7 +38,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Lokschuppen Zentrum" Farbe="00FFFF00">
 <p X="223.8937" Y="-972.3223" Z="399.7076"/>
-<phi Z="4.535705"/>
+<phi Z="4.535706"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Kapitelhaus" Farbe="00FFFF00">
 <p X="402.0162" Y="71.1401" Z="398.3997"/>
