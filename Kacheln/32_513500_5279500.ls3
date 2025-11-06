@@ -182,6 +182,12 @@
 <phi Z="-2.295858"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_17_WHaeuser_Leostr_77\04_17_Wh_Leo77_a.lod.ls3"/>
+<p X="-192.6514" Y="-506.2454" Z="399.7"/>
+<phi Z="0.110116"/>
+<sk X="1" Y="1.2" Z="1.2"/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="67" MeshI="195">
 <RenderFlags TexVoreinstellung="3"/>

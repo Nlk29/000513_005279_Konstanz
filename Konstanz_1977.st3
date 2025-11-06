@@ -2981,9 +2981,9 @@
 </StrElement>
 <StrElement Nr="307" spTrass="27.7778" Fkt="2">
 <g X="280.1875" Y="-46.5" Z="399.2103"/>
-<b X="329.5" Y="-54.5" Z="398.545"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.05" pos="1"/>
+<b X="324.6028" Y="-53.7055" Z="398.6111"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.045" pos="1"/>
+<NachNorm Nr="4327"/>
 </StrElement>
 <StrElement Nr="308" spTrass="27.7778" Fkt="2">
 <g X="369.75" Y="162.5" Z="401.385"/>
@@ -53788,8 +53788,8 @@
 </StrElement>
 <StrElement Nr="4287" spTrass="11.1111" Anschluss="256" Fkt="2">
 <g X="355.3784" Y="-317.2138" Z="398.0905"/>
-<b X="341.9375" Y="-317" Z="398.2406"/>
-<InfoNormRichtung vMax="11.1111"/>
+<b X="347.3799" Y="-317.0866" Z="398.1798"/>
+<NachNorm Nr="4328"/>
 <NachGegen Nr="4288"/>
 </StrElement>
 <StrElement Nr="4288" spTrass="11.1111" Anschluss="256" Fkt="2">
@@ -54734,6 +54734,18 @@
 <StrElement Nr="4326" spTrass="27.7778" Fkt="2">
 <g X="282.6347" Y="16.2741" Z="400.0533"/>
 <b X="255.2048" Y="25.3749" Z="401.3123"/>
+</StrElement>
+<StrElement Nr="4327" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="324.6028" Y="-53.7055" Z="398.6111"/>
+<b X="329.5" Y="-54.5" Z="398.545"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachGegen Nr="307"/>
+</StrElement>
+<StrElement Nr="4328" spTrass="11.1111" Anschluss="256" Fkt="2">
+<g X="347.3799" Y="-317.0866" Z="398.1798"/>
+<b X="341.9375" Y="-317" Z="398.2406"/>
+<InfoNormRichtung vMax="11.1111"/>
+<NachGegen Nr="4287"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="782.0208">
 <FahrstrStart Ref="10">
