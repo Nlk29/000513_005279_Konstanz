@@ -3575,8 +3575,8 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0866" pos="1"/>
 </StrElement>
 <StrElement Nr="401" spTrass="27.7778" Fkt="2">
-<g X="271.6875" Y="-222" Z="397.9369"/>
-<b X="326.125" Y="-235.5" Z="397.59"/>
+<g X="267.6176" Y="-218.881" Z="397.9333"/>
+<b X="322.0551" Y="-232.381" Z="397.5865"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0561" pos="1"/>
 </StrElement>
