@@ -3580,19 +3580,6 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0561" pos="1"/>
 </StrElement>
-<StrElement Nr="402" spTrass="27.7778" Fkt="2">
-<g X="319.0625" Y="-260.5" Z="397.771"/>
-<b X="268.6563" Y="-243" Z="397.93"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0534" pos="1"/>
-</StrElement>
-<StrElement Nr="403" spTrass="27.7778" Fkt="2">
-<g X="258.6563" Y="-278.5" Z="398.3119"/>
-<b X="298.4375" Y="-290" Z="397.91"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0414" pos="1"/>
-<NachNorm Nr="425"/>
-</StrElement>
 <StrElement Nr="404" spTrass="27.7778" Fkt="2">
 <g X="333.9375" Y="-304" Z="398.2412"/>
 <b X="332.5938" Y="-303" Z="398.2581"/>
@@ -3732,12 +3719,12 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
 </StrElement>
 <StrElement Nr="425" spTrass="27.7778" Anschluss="257" Fkt="2">
-<g X="298.4375" Y="-290" Z="397.91"/>
-<b X="322.4688" Y="-297" Z="398.2594"/>
+<g X="298.4374" Y="-289.9999" Z="397.9099"/>
+<b X="322.4687" Y="-296.9999" Z="398.2593"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.025" pos="1"/>
 <NachNorm Nr="410"/>
-<NachGegen Nr="403"/>
+<NachGegen Nr="4330"/>
 </StrElement>
 <StrElement Nr="426" spTrass="11.1111" Fkt="2">
 <g X="373.375" Y="-317.5" Z="397.8894"/>
@@ -3769,18 +3756,13 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0194" pos="1"/>
 </StrElement>
-<StrElement Nr="431" spTrass="27.7778" Fkt="2">
-<g X="309.9375" Y="-293.5" Z="397.989"/>
-<b X="300.7813" Y="-331" Z="397.86"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0386" pos="1"/>
-</StrElement>
 <StrElement Nr="432" spTrass="27.7778" Fkt="2">
 <g X="275.4375" Y="-346" Z="397.5756"/>
 <b X="306.5" Y="-337.5" Z="397.785"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0322" pos="1"/>
 <NachNorm Nr="433"/>
+<NachGegen Nr="4333"/>
 </StrElement>
 <StrElement Nr="433" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="306.5" Y="-337.5" Z="397.785"/>
@@ -3797,12 +3779,13 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0039" pos="1"/>
 <NachGegen Nr="433"/>
 </StrElement>
-<StrElement Nr="435" spTrass="27.7778" Fkt="2">
+<StrElement Nr="435" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="313.875" Y="-335.5" Z="397.9275"/>
 <b X="317.5938" Y="-335" Z="397.9719"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0038" pos="1"/>
 <NachNorm Nr="436"/>
+<NachGegen Nr="434"/>
 </StrElement>
 <StrElement Nr="436" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="317.5938" Y="-335" Z="397.9719"/>
@@ -3819,12 +3802,13 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0038" pos="1"/>
 <NachGegen Nr="436"/>
 </StrElement>
-<StrElement Nr="438" spTrass="27.7778" Fkt="2">
+<StrElement Nr="438" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="325.125" Y="-334" Z="398.0587"/>
 <b X="328.875" Y="-334" Z="398.1075"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0037" pos="1"/>
 <NachNorm Nr="439"/>
+<NachGegen Nr="437"/>
 </StrElement>
 <StrElement Nr="439" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="328.875" Y="-334" Z="398.1075"/>
@@ -3841,12 +3825,13 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0038" pos="1"/>
 <NachGegen Nr="439"/>
 </StrElement>
-<StrElement Nr="441" spTrass="27.7778" Fkt="2">
+<StrElement Nr="441" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="336.4375" Y="-334" Z="398.24"/>
 <b X="340.2188" Y="-334.5" Z="398.1709"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0038" pos="1"/>
 <NachNorm Nr="442"/>
+<NachGegen Nr="440"/>
 </StrElement>
 <StrElement Nr="442" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="340.2188" Y="-334.5" Z="398.1709"/>
@@ -53886,7 +53871,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -53898,7 +53883,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -53936,7 +53921,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -53948,7 +53933,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54746,6 +54731,33 @@
 <b X="341.9375" Y="-317" Z="398.2406"/>
 <InfoNormRichtung vMax="11.1111"/>
 <NachGegen Nr="4287"/>
+</StrElement>
+<StrElement Nr="4329" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="314.3391" Y="-258.8601" Z="397.7859"/>
+<b X="268.6563" Y="-243" Z="397.93"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachGegen Nr="402"/>
+</StrElement>
+<StrElement Nr="4330" spTrass="27.7778" Fkt="2">
+<g X="278.5469" Y="-284.25" Z="398.111"/>
+<b X="298.4375" Y="-290" Z="397.91"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="425"/>
+<NachGegen Nr="4331"/>
+</StrElement>
+<StrElement Nr="4331" spTrass="27.7778" Fkt="2">
+<g X="278.5469" Y="-284.25" Z="398.111"/>
+<b X="257.4063" Y="-274.0607" Z="398.2991"/>
+</StrElement>
+<StrElement Nr="4332" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="310.8967" Y="-297.2726" Z="397.9778"/>
+<b X="302.4521" Y="-331.8582" Z="397.8589"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachGegen Nr="431"/>
+</StrElement>
+<StrElement Nr="4333" spTrass="27.7778" Fkt="2">
+<g X="275.4375" Y="-346" Z="397.5756"/>
+<b X="251.0275" Y="-358.2038" Z="397.7256"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="782.0208">
 <FahrstrStart Ref="10">

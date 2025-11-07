@@ -98,10 +98,22 @@
 <phi Z="4.712389"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="436" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000449_005689_Meschede\Objekte\Mesch06_Wassergewinnung\Mesch06_Scheune.lod.ls3"/>
 <p X="-154.4435" Y="250.0341" Z="397.5158"/>
 <phi Z="3.141593"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\23_Peine-Kirchhofstr-16\23_Peine-Kirchhofstr-16.lod.ls3"/>
+<p X="-217.5" Y="230.1094" Z="398.41"/>
+<phi Z="7.572572"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_13_WGHaus_Borchener\04_13_WGHaus.lod.ls3"/>
+<p X="-219.2343" Y="201.3593" Z="397.93"/>
+<phi Z="-1.811128"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
@@ -298,6 +310,39 @@
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_24_Rampe\Wenn_24_Pflaster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="4" MeterProTex2="5" MeshV="20" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
