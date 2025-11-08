@@ -2,44 +2,44 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<lsb Dateiname="Rheintorturm.lod3.lsb"/>
-<SubSet Cd="FFFFFFFF" Ca="FFC8C8C8" MeshV="272" MeshI="594">
+<lsb Dateiname="Rheintorturm.lod1.lsb"/>
+<SubSet Cd="FFFFFFFF" Ca="FFC8C8C8" MeshV="521" MeshI="1278">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Sandstein.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="55" MeshI="111">
+<SubSet Cd="FFFFFFFF" MeshV="423" MeshI="867">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="20" MeshI="36">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="527" MeshI="627">
+<SubSet Cd="FFFFFFFF" MeshV="967" MeshI="1653">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\Dachziegel.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="704" MeshI="1551">
+<SubSet Cd="FFFFFFFF" MeshV="1635" MeshI="3726">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="760" MeshI="1734">
+<SubSet Cd="FFFFFFFF" MeshV="3864" MeshI="6324">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="402" MeshI="504">
+<SubSet Cd="FF515151" MeshV="100" MeshI="150">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="48" MeshI="84">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\ZiegelDunkelRot.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

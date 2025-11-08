@@ -3758,10 +3758,9 @@
 </StrElement>
 <StrElement Nr="432" spTrass="27.7778" Fkt="2">
 <g X="275.4375" Y="-346" Z="397.5756"/>
-<b X="306.5" Y="-337.5" Z="397.785"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0322" pos="1"/>
-<NachNorm Nr="433"/>
+<b X="299.5505" Y="-339.4017" Z="397.7382"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.025" pos="1"/>
+<NachNorm Nr="4334"/>
 <NachGegen Nr="4333"/>
 </StrElement>
 <StrElement Nr="433" spTrass="27.7778" Anschluss="256" Fkt="2">
@@ -3770,7 +3769,7 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0038" pos="1"/>
 <NachNorm Nr="434"/>
-<NachGegen Nr="432"/>
+<NachGegen Nr="4334"/>
 </StrElement>
 <StrElement Nr="434" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="310.1563" Y="-336.5" Z="397.8508"/>
@@ -53871,7 +53870,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -53883,7 +53882,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -53921,7 +53920,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -53933,7 +53932,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54758,6 +54757,13 @@
 <StrElement Nr="4333" spTrass="27.7778" Fkt="2">
 <g X="275.4375" Y="-346" Z="397.5756"/>
 <b X="251.0275" Y="-358.2038" Z="397.7256"/>
+</StrElement>
+<StrElement Nr="4334" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="299.5505" Y="-339.4017" Z="397.7382"/>
+<b X="306.5" Y="-337.5" Z="397.785"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="433"/>
+<NachGegen Nr="432"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="782.0208">
 <FahrstrStart Ref="10">
