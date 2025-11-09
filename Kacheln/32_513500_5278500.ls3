@@ -128,18 +128,6 @@
 <phi Z="0.08276"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="32" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_11_Wh_Bahnhofstr\Bestwig_11_WHaus_1c.lod.ls3"/>
-<p X="-175.852" Y="91.8695" Z="397.1328"/>
-<phi Z="-1.339706"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="32" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_11_Wh_Bahnhofstr\Bestwig_11_WHaus_1c.lod.ls3"/>
-<p X="-187.5285" Y="89.1274" Z="397.1328"/>
-<phi Z="-1.339706"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Lochnerstr\AC_WH_Lochnerstr34.lod.ls3"/>
 <p X="-216.4336" Y="97.9375" Z="397.6935"/>
@@ -176,10 +164,70 @@
 <phi Z="1.394612"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="787" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="71" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Ubernachtung\Altenbekenuebernacht.lod.ls3"/>
 <p X="-335.2832" Y="-218.4867" Z="397.9862"/>
 <phi Z="2.965409"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="51" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_04_Hameckestr\Hagen_Gbf_04_Hameckestrasse.lod.ls3"/>
+<p X="-234.3929" Y="-56.934" Z="397.9131"/>
+<phi Z="-0.167829"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="132" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\Kulissenhaeuser\Kulisse_Wallstr1-29.lod.ls3"/>
+<p X="-380.6229" Y="70.8117" Z="398.5279"/>
+<phi Z="-0.74273"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="52" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Lochnerstr1-27.lod.ls3"/>
+<p X="-316.2085" Y="43.7344" Z="398.3345"/>
+<phi Z="0.063776"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_11_Schwerte-Str\Hagen_Gbf_11_WHaus_14\Hagen_Gbf_11_WHaus_14.lod.ls3"/>
+<p X="-228.7323" Y="-129.6456" Z="397.6702"/>
+<phi Z="7.679372"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Welkenratherstr\AC_WH_Welkenratherstr11-19.lod.ls3"/>
+<p X="-273.8848" Y="-194.2969" Z="397.88"/>
+<phi Z="12.516197"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005691_Hagen_Hbf\Objekte\Hagen01_Petri\Hagen01_Wohnhaus.lod.ls3"/>
+<p X="-187.6083" Y="102.4914" Z="397.7176"/>
+<phi Z="1.801887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\Kulissenhaeuser\Kulisse_Lochnerstr22-26.lod.ls3"/>
+<p X="-248.332" Y="-150.4374" Z="398.295"/>
+<phi Z="1.415822"/>
+<sk X="1.2" Y="1.2" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="53" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005641_Herzogenrath\Objekte\City\AmSchuerhof_1\AmSchuerhof_1.lod.ls3"/>
+<p X="-390.2769" Y="32.1187" Z="399.006"/>
+<phi Z="3.015155"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="60" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Christuskirche\Christuskirche.lod.ls3"/>
+<p X="-210.862" Y="406.1254" Z="398.5263"/>
+<phi Z="4.524249"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="499" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Stellwerk Konstanz 1\StellwerkKonstanz1.lod.ls3"/>
+<p X="-145.0228" Y="160.1627" Z="397.927"/>
+<phi Z="-0.037066"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>

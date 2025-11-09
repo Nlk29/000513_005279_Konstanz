@@ -9266,12 +9266,9 @@
 </StrElement>
 <StrElement Nr="1124" spTrass="11.1111" Oberbau="Holz K-Oberbau">
 <g X="362.4879" Y="-352.4425" Z="398.096"/>
-<b X="363.1376" Y="-327.3071" Z="398.0962"/>
-<InfoNormRichtung vMax="11.1111" km="414.0714" Reg="5008">
-<Ereignis Er="3"/>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="11.1111" km="414.0463" pos="1" Reg="5008"/>
-<NachNorm Nr="1125"/>
+<b X="362.8127" Y="-339.8748" Z="398.0961"/>
+<InfoGegenRichtung vMax="11.1111" km="414.0589" pos="1" Reg="5008"/>
+<NachNorm Nr="4335"/>
 <NachGegen Nr="1281"/>
 </StrElement>
 <StrElement Nr="1125" kr="0.001157" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -9280,7 +9277,7 @@
 <InfoNormRichtung vMax="11.1111" km="414.0508"/>
 <InfoGegenRichtung vMax="11.1111" km="414.0435" pos="1"/>
 <NachNorm Nr="1126"/>
-<NachGegen Nr="1124"/>
+<NachGegen Nr="4335"/>
 </StrElement>
 <StrElement Nr="1126" kr="0.001157" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="363.2963" Y="-319.9779" Z="398.0962"/>
@@ -10165,12 +10162,38 @@
 </StrElement>
 <StrElement Nr="1179" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="358.6749" Y="-327.3231" Z="398.0962"/>
-<b X="358.004" Y="-351.8279" Z="398.0962"/>
-<InfoNormRichtung vMax="16.6667" km="414.051" pos="1" Reg="5012"/>
-<InfoGegenRichtung vMax="16.6667" km="414.0755" Reg="5012">
+<b X="358.6475" Y="-328.3227" Z="398.0962"/>
+<InfoNormRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="356.5482" Y="-328.2651" Z="398"/>
+<phi Z="-1.598205"/>
+<SignalFrame>
+<p X="-0.24" Z="2.96"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Zs3_Tafel-SpitzeUnten.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.24" Z="2.96"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Ziffern\Zs3_Tafel-2.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\DB_Lf6_transparent_gas.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="7" MatrixGeschw="5.5556"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="16.6667" km="414.052" Reg="5012">
 <Ereignis Er="3"/>
 </InfoGegenRichtung>
-<NachNorm Nr="1180"/>
+<NachNorm Nr="4336"/>
 <NachGegen Nr="1167"/>
 </StrElement>
 <StrElement Nr="1180" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
@@ -10179,7 +10202,7 @@
 <InfoNormRichtung vMax="16.6667" km="414.071" pos="1"/>
 <InfoGegenRichtung vMax="16.6667" km="414.0742"/>
 <NachNorm Nr="1181"/>
-<NachGegen Nr="1179"/>
+<NachGegen Nr="4336"/>
 </StrElement>
 <StrElement Nr="1181" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="357.9179" Y="-354.9746" Z="398.0952"/>
@@ -54764,6 +54787,49 @@
 <InfoNormRichtung vMax="27.7778"/>
 <NachNorm Nr="433"/>
 <NachGegen Nr="432"/>
+</StrElement>
+<StrElement Nr="4335" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="362.8127" Y="-339.8748" Z="398.0961"/>
+<b X="363.1376" Y="-327.3071" Z="398.0962"/>
+<InfoNormRichtung vMax="11.1111" km="414.0588" Reg="5008">
+<Ereignis Er="3"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="360.7131" Y="-339.8296" Z="398"/>
+<phi Z="-1.605703"/>
+<SignalFrame>
+<p X="-0.24" Z="2.96"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Zs3_Tafel-SpitzeUnten.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.24" Z="2.96"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Blechtafeln\Ziffern\Zs3_Tafel-2.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\DB_Lf6_transparent_gas.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="7" MatrixGeschw="5.5556"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="1125"/>
+<NachGegen Nr="1124"/>
+</StrElement>
+<StrElement Nr="4336" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<g X="358.6475" Y="-328.3227" Z="398.0962"/>
+<b X="358.004" Y="-351.8279" Z="398.0962"/>
+<InfoNormRichtung vMax="16.6667" km="414.052" pos="1" Reg="5012"/>
+<NachNorm Nr="1180"/>
+<NachGegen Nr="1179"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="782.0208">
 <FahrstrStart Ref="10">
