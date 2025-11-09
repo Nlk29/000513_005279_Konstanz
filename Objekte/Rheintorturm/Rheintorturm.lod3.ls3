@@ -3,43 +3,34 @@
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
 <lsb Dateiname="Rheintorturm.lod3.lsb"/>
-<SubSet Cd="FFFFFFFF" Ca="FFC8C8C8" MeshV="272" MeshI="594">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Sandstein.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="55" MeshI="111">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="20" MeshI="36">
+<SubSet Cd="FFFFFFFF" MeshV="192" MeshI="387">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="527" MeshI="627">
+<SubSet Cd="FF3A3A3A" MeshV="10" MeshI="18">
 <RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\Dachziegel.dds"/>
-</Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="704" MeshI="1551">
+<SubSet Cd="FF1E1E1E" MeshV="16" MeshI="18">
 <RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
-</Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="760" MeshI="1734">
+<SubSet Cd="FF9B3D1E" MeshV="8" MeshI="12">
 <RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
-</Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="402" MeshI="504">
+<SubSet Cd="FF565656" MeshV="61" MeshI="105">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF000000" MeshV="23" MeshI="51">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFAAAAAA" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF8E8E8E" MeshV="82" MeshI="153">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="487" MeshI="786">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
+<Datei Dateiname="Rheintorturm_lod3.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

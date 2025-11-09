@@ -188,10 +188,10 @@
 <phi Z="-0.011866"/>
 <sk X="1" Y="1.4" Z="1.4"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="369" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="28" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Rheintorturm\Rheintorturm.lod.ls3"/>
-<p X="-173.625" Y="-305.5859" Z="397.1128"/>
-<phi Z="0.817701"/>
+<p X="-185.4023" Y="-296.7148" Z="399.8784"/>
+<phi Z="-1.575309"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -219,10 +219,7 @@
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" zBias="-1" MeshV="56" MeshI="150">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm.dds"/>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_1050cm.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
@@ -252,17 +249,11 @@
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="63">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
-<Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="23" MeshI="60">
 <RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
 </Textur>

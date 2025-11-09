@@ -134,10 +134,52 @@
 <phi Z="-1.339706"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="516" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="32" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_11_Wh_Bahnhofstr\Bestwig_11_WHaus_1c.lod.ls3"/>
 <p X="-187.5285" Y="89.1274" Z="397.1328"/>
 <phi Z="-1.339706"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Lochnerstr\AC_WH_Lochnerstr34.lod.ls3"/>
+<p X="-216.4336" Y="97.9375" Z="397.6935"/>
+<phi Z="1.817397"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Kasinostr\AC_WH_Kasinostr21.lod.ls3"/>
+<p X="-249.5078" Y="90.5664" Z="397.6437"/>
+<phi Z="-1.401065"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Theater Konstanz\TheaterKonstanz.lod.ls3"/>
+<p X="-200.7917" Y="462.9912" Z="398.8173"/>
+<phi Z="-1.727394"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Gueterschuppen_Nord\AHM_Gueterschuppen.lod.ls3"/>
+<p X="-231.8371" Y="-237.0774" Z="397.9441"/>
+<phi Z="4.536205"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bw_Personalraeume\Personalraeume.lod.ls3"/>
+<p X="-254.1531" Y="-232.8984" Z="397.9101"/>
+<phi Z="4.536205"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Rangiererbude\rangiererbude_af.lod.ls3"/>
+<p X="-256.7147" Y="-254.0895" Z="398.2464"/>
+<phi Z="1.394612"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="787" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Ubernachtung\Altenbekenuebernacht.lod.ls3"/>
+<p X="-335.2832" Y="-218.4867" Z="397.9862"/>
+<phi Z="2.965409"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
@@ -306,11 +348,8 @@
 <Datei Dateiname="Terrain\General\Water\river_10m_water01.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="128" MeshI="378">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="128" MeshI="282">
 <RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_1050cm.dds"/>
 </Textur>
@@ -358,6 +397,33 @@
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_24_Rampe\Wenn_24_Pflaster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="28" MeshI="78">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_1050cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_1050cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="28" MeshI="78">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\terrain.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

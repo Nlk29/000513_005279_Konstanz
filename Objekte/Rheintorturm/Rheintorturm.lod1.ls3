@@ -3,43 +3,61 @@
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
 <lsb Dateiname="Rheintorturm.lod1.lsb"/>
-<SubSet Cd="FFFFFFFF" Ca="FFC8C8C8" MeshV="521" MeshI="1278">
+<SubSet Cd="FFFFFFFF" MeshV="3171" MeshI="5391">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Sandstein.dds"/>
+<Datei Dateiname="Rheintorturm.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="423" MeshI="867">
+<SubSet Cd="FF3A3A3A" MeshV="670" MeshI="1239">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="189" MeshI="369">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF8E8E8E" MeshV="79" MeshI="129">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF555555" MeshV="58" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF000000" MeshV="21" MeshI="45">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFAAAAAA" MeshV="21" MeshI="39">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF9B3D1E" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="16" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Rheintorturm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="103" MeshI="120">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="967" MeshI="1653">
+<SubSet Cd="FFFFFFFF" MeshV="6" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\Dachziegel.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="1635" MeshI="3726">
+<SubSet Cd="FFFFFFFF" MeshV="20" MeshI="30">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="3864" MeshI="6324">
+<SubSet Cd="FFFFFFFF" MeshV="51" MeshI="69">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="FF515151" MeshV="100" MeshI="150">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="48" MeshI="84">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\ZiegelDunkelRot.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
