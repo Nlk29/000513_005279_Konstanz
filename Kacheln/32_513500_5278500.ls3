@@ -146,11 +146,11 @@
 <phi Z="-1.727394"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Gueterschuppen_Nord\AHM_Gueterschuppen.lod.ls3"/>
-<p X="-231.8371" Y="-237.0774" Z="397.9441"/>
+<p X="-234.6965" Y="-237.3235" Z="397.9441"/>
 <phi Z="4.536205"/>
-<sk/>
+<sk X="1.3" Y="1.3" Z="1.3"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bw_Personalraeume\Personalraeume.lod.ls3"/>
@@ -224,10 +224,88 @@
 <phi Z="4.524249"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="499" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Stellwerk Konstanz 1\StellwerkKonstanz1.lod.ls3"/>
 <p X="-145.0228" Y="160.1627" Z="397.927"/>
 <phi Z="-0.037066"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005691_Hagen_Hbf\Objekte\Hagen_Hbf_21_Stadtkulisse\Hagen_Hbf_21_Fehrbellinerstr_30.lod.ls3"/>
+<p X="-321.8785" Y="-423.8318" Z="398.1561"/>
+<phi Z="6.4498"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005691_Hagen_Hbf\Objekte\Hagen_Hbf_21_Stadtkulisse\Hagen_Hbf_21_Fehrbellinerstr_30.lod.ls3"/>
+<p X="-327.7028" Y="-390.0935" Z="398.1913"/>
+<phi Z="6.4498"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\04_Werkstatt\DriburgWerkstatt.lod.ls3"/>
+<p X="-288.832" Y="-353.6602" Z="398.3671"/>
+<phi Z="1.391133"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000442_005692_Freienohl\Objekte\Freienohl_14_Bahnhofstr\Freienohl_14_Saegewerk_3.lod.ls3"/>
+<p X="-267.3008" Y="-322.3633" Z="398.3214"/>
+<phi Z="2.94995"/>
+<sk X="1.1" Y="1.2" Z="1.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000442_005692_Freienohl\Objekte\Freienohl_14_Bahnhofstr\Freienohl_14_Saegewerk_3.lod.ls3"/>
+<p X="-294.156" Y="-320.0389" Z="398.4305"/>
+<phi Z="9.233135"/>
+<sk X="1" Y="1" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005641_Herzogenrath\Objekte\Glaswerke\Sekurit-Schornstein2.lod.ls3"/>
+<p X="-271.7732" Y="-335.8006" Z="398.7703"/>
+<phi Z="4.646508"/>
+<sk X="0.5" Y="0.5" Z="0.4"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000555_005781_Nordstemmen\Objekte\05_Marienbergstrasse\Marienbergstr1.lod.ls3"/>
+<p X="-292.4125" Y="-300.2997" Z="398.2786"/>
+<phi Z="1.46326"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Wiegmann_3.lod.ls3"/>
+<p X="-344.5703" Y="-282.8164" Z="398.2961"/>
+<phi Z="-2.996439"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harles_11_Wiegmann_3.lod.ls3"/>
+<p X="-340.9844" Y="-307.5313" Z="398.2961"/>
+<phi Z="-2.996439"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_24-26_WHaeuser_Le_Mans_Wall\04_24_WHaus_a.lod.ls3"/>
+<p X="-347.939" Y="-253.5536" Z="397.8391"/>
+<phi Z="0.166006"/>
+<sk X="1.2" Y="1.2" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000471_005689_Brilon_Wald\Objekte\Brilon12_WerkstattamStw-Bo\Brilon12_Werkstatt.lod.ls3"/>
+<p X="-264.4312" Y="-271.7881" Z="398.2376"/>
+<phi Z="9.261899"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Aufenthaltsgebaeude\AHM_Aufenthaltsgebaeude_Bstg_2.lod.ls3"/>
+<p X="-302.6812" Y="-281.6551" Z="398.2845"/>
+<phi Z="1.394087"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="777" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\EG Schweizer Bf\EGSchweizerBf.lod.ls3"/>
+<p X="-218.1914" Y="-184.6953" Z="398.1161"/>
+<phi Z="-1.743685"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
