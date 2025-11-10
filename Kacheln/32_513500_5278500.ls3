@@ -224,10 +224,28 @@
 <phi Z="4.524249"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="499" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Stellwerk Konstanz 1\StellwerkKonstanz1.lod.ls3"/>
-<p X="-145.0228" Y="160.1627" Z="397.927"/>
-<phi Z="-0.037066"/>
+<p X="-145.6634" Y="160.1627" Z="398.1"/>
+<phi Z="-0.020703"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Junkerstr\AC_WH_Junkerstr67-69.lod.ls3"/>
+<p X="-257.4843" Y="-78.5782" Z="397.7497"/>
+<phi Z="1.352204"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Junkerstr\AC_WH_Junkerstr67-69.lod.ls3"/>
+<p X="-284.4687" Y="-72.7188" Z="397.2497"/>
+<phi Z="1.352204"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="690" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Welkenratherstr\AC_WH_Welkenratherstr11-19.lod.ls3"/>
+<p X="-271.125" Y="-119.5485" Z="398.6318"/>
+<phi Z="2.964934"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
@@ -435,7 +453,7 @@
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_24_Rampe\Wenn_24_Pflaster.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_24_Rampe\Wenn_24_Pflaster.dds"/>
@@ -470,6 +488,18 @@
 <Textur>
 <Datei Dateiname="Terrain\Default\terrain.dds"/>
 </Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
 </Textur>

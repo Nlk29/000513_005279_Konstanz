@@ -596,6 +596,14 @@
 <ReferenzElemente ReferenzNr="577" StrElement="4301" StrNorm="1" RefTyp="4" Info="Signal: Konstanz N1"/>
 <ReferenzElemente ReferenzNr="578" StrElement="4301" StrNorm="1" RefTyp="2" Info="Register-Nr. 5132"/>
 <ReferenzElemente ReferenzNr="579" StrElement="4301" RefTyp="2" Info="Register-Nr. 5132"/>
+<ReferenzElemente ReferenzNr="580" StrElement="4347" RefTyp="4" Info="Sicherungsanlage Bü km 414,547 (Master)"/>
+<ReferenzElemente ReferenzNr="581" StrElement="4347" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 414,547 (Slave)"/>
+<ReferenzElemente ReferenzNr="582" StrElement="2227" RefTyp="4" Info="Bü km 414,547"/>
+<ReferenzElemente ReferenzNr="583" StrElement="2227" StrNorm="1" RefTyp="4" Info="Bü km 414,547"/>
+<ReferenzElemente ReferenzNr="584" StrElement="2237" RefTyp="4" Info="Bü km 414,547"/>
+<ReferenzElemente ReferenzNr="585" StrElement="2237" StrNorm="1" RefTyp="4" Info="Bü km 414,547"/>
+<ReferenzElemente ReferenzNr="586" StrElement="2242" RefTyp="4" Info="Bü km 414,547"/>
+<ReferenzElemente ReferenzNr="587" StrElement="2242" StrNorm="1" RefTyp="4" Info="Bü km 414,547"/>
 <StrElement Nr="1" spTrass="16.6667" Oberbau="Holz K-Oberbau">
 <g X="339.5313" Y="-64.5" Z="399.4959"/>
 <b X="345.0313" Y="-113.5" Z="399.1725"/>
@@ -2038,8 +2046,8 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0814" pos="1"/>
 </StrElement>
 <StrElement Nr="192" spTrass="27.7778" Fkt="2">
-<g X="356.5313" Y="-734.5" Z="397.5037"/>
-<b X="288.25" Y="-722.5" Z="398.065"/>
+<g X="356.5313" Y="-734.5" Z="397.8"/>
+<b X="288.25" Y="-722.5" Z="397.75"/>
 <InfoNormRichtung vMax="27.7778">
 <Signal NameBetriebsstelle="BÜ Hafenstraße" Stellwerk="BÜ Hafenstraße" Signalname="BÜ Hafenstraße" SignalTyp="4" BoundingR="10">
 <p X="340.7729" Y="-731.7304" Z="397.5037"/>
@@ -2113,6 +2121,7 @@
 <MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
+<NachNorm Nr="4338"/>
 </StrElement>
 <StrElement Nr="193" spTrass="27.7778" Fkt="2">
 <g X="325.7813" Y="-597" Z="397.52"/>
@@ -2145,27 +2154,26 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0142" pos="1"/>
 </StrElement>
 <StrElement Nr="198" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="314.0625" Y="-1062" Z="398.3781"/>
-<b X="325.7813" Y="-994" Z="397.71"/>
+<g X="314.0625" Y="-1062" Z="400.35"/>
+<b X="325.7813" Y="-994" Z="399.9225"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.069" pos="1"/>
 <NachNorm Nr="199"/>
 <NachGegen Nr="211"/>
 </StrElement>
 <StrElement Nr="199" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="325.7813" Y="-994" Z="397.71"/>
-<b X="337.5313" Y="-926.5" Z="397.7372"/>
+<g X="325.7813" Y="-994" Z="399.9225"/>
+<b X="337.5313" Y="-926.5" Z="398.9737"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0685" pos="1"/>
 <NachNorm Nr="200"/>
 <NachGegen Nr="198"/>
 </StrElement>
 <StrElement Nr="200" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="337.5313" Y="-926.5" Z="397.7372"/>
-<b X="349.25" Y="-858.5" Z="397.4275"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.069" pos="1"/>
-<NachNorm Nr="935"/>
+<g X="337.5313" Y="-926.5" Z="398.9737"/>
+<b X="350.0985" Y="-853.5763" Z="398.53"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.064" pos="1"/>
+<NachNorm Nr="4346"/>
 <NachGegen Nr="199"/>
 </StrElement>
 <StrElement Nr="201" spTrass="27.7778" Fkt="2">
@@ -7150,7 +7158,7 @@
 <NachGegen Nr="942"/>
 </StrElement>
 <StrElement Nr="944" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="344.4063" Y="-810" Z="397.6237"/>
+<g X="344.4063" Y="-810" Z="398.4"/>
 <b X="352.7188" Y="-758.5" Z="397.5556"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0522" pos="1"/>
@@ -29704,8 +29712,36 @@
 <StrElement Nr="2227" kr="-0.00637" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="346.3155" Y="-832.8271" Z="398.5251"/>
 <b X="349.3248" Y="-828.8034" Z="398.4917"/>
-<InfoNormRichtung vMax="11.1111" km="414.5507"/>
-<InfoGegenRichtung vMax="11.1111" km="414.5457" pos="1"/>
+<InfoNormRichtung vMax="11.1111" km="414.5507">
+<Ereignis Er="1000027" Wert="583"/>
+<Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
+<p X="347.02" Y="-831.89" Z="398.52"/>
+<phi/>
+<KoppelSignal ReferenzNr="580">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="11.1111" km="414.5457" pos="1">
+<Ereignis Er="1000027" Wert="582"/>
+<Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
+<p X="347.02" Y="-831.89" Z="398.52"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="580">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="2228"/>
 <NachGegen Nr="2226"/>
 </StrElement>
@@ -29978,10 +30014,38 @@
 <NachGegen Nr="2234"/>
 </StrElement>
 <StrElement Nr="2237" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau">
-<g X="337.446" Y="-842.3655" Z="398.6066"/>
-<b X="345.5204" Y="-824.2593" Z="398.4633"/>
-<InfoNormRichtung vMax="-1" km="414.5616" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="414.5418" pos="1"/>
+<g X="337.446" Y="-842.3654" Z="398.6066"/>
+<b X="345.5204" Y="-824.2592" Z="398.4633"/>
+<InfoNormRichtung vMax="-1" km="414.5616" pos="1">
+<Ereignis Er="1000027" Wert="585"/>
+<Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
+<p X="345.33" Y="-824.68" Z="398.47"/>
+<phi/>
+<KoppelSignal ReferenzNr="580">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1" km="414.5418" pos="1">
+<Ereignis Er="1000027" Wert="584"/>
+<Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
+<p X="345.33" Y="-824.68" Z="398.47"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="580">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="2245"/>
 <NachGegen Nr="2236"/>
 </StrElement>
@@ -30024,8 +30088,36 @@
 <StrElement Nr="2242" kr="-0.0035" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau">
 <g X="344.341" Y="-828.6693" Z="398.4972"/>
 <b X="346.5555" Y="-824.7913" Z="398.4659"/>
-<InfoNormRichtung vMax="-1" km="414.547" pos="1"/>
-<InfoGegenRichtung vMax="-1" km="414.5425" pos="1"/>
+<InfoNormRichtung vMax="-1" km="414.547" pos="1">
+<Ereignis Er="1000027" Wert="587"/>
+<Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
+<p X="345.71" Y="-826.28" Z="398.48"/>
+<phi/>
+<KoppelSignal ReferenzNr="580">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1" km="414.5425" pos="1">
+<Ereignis Er="1000027" Wert="586"/>
+<Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
+<p X="345.71" Y="-826.28" Z="398.48"/>
+<phi Z="3.141593"/>
+<KoppelSignal ReferenzNr="580">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<HsigBegriff FahrstrTyp="1"/>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag/>
+<MatrixEintrag MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="2243"/>
 <NachGegen Nr="2241"/>
 </StrElement>
@@ -49875,11 +49967,11 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0163" pos="1"/>
 </StrElement>
 <StrElement Nr="3805" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="300.7813" Y="-1083" Z="400.5"/>
-<b X="264.0898" Y="-1109.0525" Z="400.5"/>
+<g X="300.7813" Y="-1083" Z="400.35"/>
+<b X="264.0898" Y="-1109.0525" Z="400.55"/>
 <InfoNormRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Freie Straße" Stellwerk="BÜ Freie Straße" Signalname="BÜ Freie Straße" SignalTyp="4" BoundingR="10">
-<p X="302.7813" Y="-1083" Z="400.5"/>
+<p X="302.7813" Y="-1081" Z="400.5"/>
 <phi Z="-3.141593"/>
 <SignalFrame>
 <p Y="-5.25"/>
@@ -49914,7 +50006,7 @@
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.045" pos="1">
 <Signal NameBetriebsstelle="BÜ Freie Straße" Stellwerk="BÜ Freie Straße" Signalname="BÜ Freie Straße" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="264.0898" Y="-1109.0525" Z="400.5"/>
+<p X="264.0898" Y="-1109.5525" Z="400.5"/>
 <phi/>
 <KoppelSignal ReferenzNr="512">
 <Datei NurInfo="1"/>
@@ -49951,6 +50043,7 @@
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="4292"/>
+<NachGegen Nr="4340"/>
 </StrElement>
 <StrElement Nr="3806" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="222.3774" Y="-1138.67" Z="400.5"/>
@@ -53988,7 +54081,7 @@
 <NachGegen Nr="4290"/>
 </StrElement>
 <StrElement Nr="4292" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="264.0898" Y="-1109.0525" Z="400.5"/>
+<g X="264.0898" Y="-1109.0525" Z="400.55"/>
 <b X="222.3774" Y="-1138.67" Z="400.5"/>
 <InfoNormRichtung vMax="27.7778"/>
 <NachNorm Nr="3806"/>
@@ -54830,6 +54923,121 @@
 <InfoNormRichtung vMax="16.6667" km="414.052" pos="1" Reg="5012"/>
 <NachNorm Nr="1180"/>
 <NachGegen Nr="1179"/>
+</StrElement>
+<StrElement Nr="4338" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="288.25" Y="-722.5" Z="397.75"/>
+<b X="260.6731" Y="-717.6535" Z="398.2217"/>
+<NachNorm Nr="4339"/>
+<NachGegen Nr="192"/>
+</StrElement>
+<StrElement Nr="4340" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="300.7813" Y="-1083" Z="400.35"/>
+<b X="317.0887" Y="-1071.4211" Z="400.35"/>
+<NachGegen Nr="3805"/>
+</StrElement>
+<StrElement Nr="4344" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="344.4114" Y="-820.7597" Z="398.35"/>
+<b X="344.4063" Y="-810" Z="398.4"/>
+<NachNorm Nr="944"/>
+<NachGegen Nr="4347"/>
+</StrElement>
+<StrElement Nr="4346" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="350.0985" Y="-853.5763" Z="398.53"/>
+<b X="349.8072" Y="-843.7773" Z="398.4825"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="4347"/>
+<NachGegen Nr="200"/>
+</StrElement>
+<StrElement Nr="4347" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="349.8072" Y="-843.7773" Z="398.4825"/>
+<b X="344.4114" Y="-820.7597" Z="398.35"/>
+<InfoNormRichtung vMax="-1">
+<Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="4" BoundingR="10">
+<p X="348.5482" Y="-837.4993" Z="398.4825"/>
+<phi Z="2.443461"/>
+<SignalFrame>
+<p Y="-10.725"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="10.725"/>
+<phi Z="-3.141593"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-10.725" Z="1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="10.725" Z="1"/>
+<phi Z="-3.141593"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-10.725"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="87"/>
+<MatrixEintrag Signalbild="107" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalFlags="8" SignalTyp="4" BoundingR="10">
+<p X="344.9114" Y="-819.8937" Z="398.35"/>
+<phi Z="-0.523599"/>
+<KoppelSignal ReferenzNr="581">
+<Datei NurInfo="1"/>
+</KoppelSignal>
+<SignalFrame>
+<p Y="-10.725"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="10.725"/>
+<phi Z="-3.141593"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-10.725" Z="1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="10.725" Z="1"/>
+<phi Z="-3.141593"/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-10.725"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="87"/>
+<MatrixEintrag Signalbild="107" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="4344"/>
+<NachGegen Nr="4343"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="782.0208">
 <FahrstrStart Ref="10">
