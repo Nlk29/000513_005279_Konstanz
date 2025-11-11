@@ -210,7 +210,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="134" MeshI="390">
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="134" MeshI="195">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
@@ -280,6 +280,36 @@
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_24_Rampe\Wenn_24_Pflaster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="4" MeterProTex2="4" MeshV="96" MeshI="414">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="\Terrain\Deutschland\Mauern\Ziegel\MauerZiegel01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="54" MeshI="156">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="4" MeterProTex2="4" MeshV="15" MeshI="45">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="\Terrain\Deutschland\Mauern\Ziegel\MauerZiegel01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

@@ -2675,19 +2675,17 @@
 </StrElement>
 <StrElement Nr="266" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="322.375" Y="6" Z="399.98"/>
-<b X="321.9063" Y="12" Z="400.0291"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.006" pos="1"/>
-<NachNorm Nr="267"/>
+<b X="322.1407" Y="9" Z="400.0045"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.003" pos="1"/>
+<NachNorm Nr="4349"/>
 <NachGegen Nr="265"/>
 </StrElement>
 <StrElement Nr="267" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="321.9063" Y="12" Z="400.0291"/>
-<b X="321.625" Y="18" Z="400.0738"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.006" pos="1"/>
-<NachNorm Nr="268"/>
-<NachGegen Nr="266"/>
+<b X="321.7657" Y="15" Z="400.0515"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.003" pos="1"/>
+<NachNorm Nr="4348"/>
+<NachGegen Nr="4349"/>
 </StrElement>
 <StrElement Nr="268" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="321.625" Y="18" Z="400.0738"/>
@@ -2695,7 +2693,7 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.006" pos="1"/>
 <NachNorm Nr="269"/>
-<NachGegen Nr="267"/>
+<NachGegen Nr="4348"/>
 </StrElement>
 <StrElement Nr="269" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="321.5313" Y="24" Z="400.08"/>
@@ -29713,7 +29711,7 @@
 <g X="346.3155" Y="-832.8271" Z="398.5251"/>
 <b X="349.3248" Y="-828.8034" Z="398.4917"/>
 <InfoNormRichtung vMax="11.1111" km="414.5507">
-<Ereignis Er="1000027" Wert="583"/>
+<Ereignis Er="1000027" Wert="583" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
 <p X="347.02" Y="-831.89" Z="398.52"/>
 <phi/>
@@ -29728,7 +29726,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.5457" pos="1">
-<Ereignis Er="1000027" Wert="582"/>
+<Ereignis Er="1000027" Wert="582" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
 <p X="347.02" Y="-831.89" Z="398.52"/>
 <phi Z="3.141593"/>
@@ -30017,7 +30015,7 @@
 <g X="337.446" Y="-842.3654" Z="398.6066"/>
 <b X="345.5204" Y="-824.2592" Z="398.4633"/>
 <InfoNormRichtung vMax="-1" km="414.5616" pos="1">
-<Ereignis Er="1000027" Wert="585"/>
+<Ereignis Er="1000027" Wert="585" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
 <p X="345.33" Y="-824.68" Z="398.47"/>
 <phi/>
@@ -30032,7 +30030,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.5418" pos="1">
-<Ereignis Er="1000027" Wert="584"/>
+<Ereignis Er="1000027" Wert="584" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
 <p X="345.33" Y="-824.68" Z="398.47"/>
 <phi Z="3.141593"/>
@@ -30089,7 +30087,7 @@
 <g X="344.341" Y="-828.6693" Z="398.4972"/>
 <b X="346.5555" Y="-824.7913" Z="398.4659"/>
 <InfoNormRichtung vMax="-1" km="414.547" pos="1">
-<Ereignis Er="1000027" Wert="587"/>
+<Ereignis Er="1000027" Wert="587" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
 <p X="345.71" Y="-826.28" Z="398.48"/>
 <phi/>
@@ -30104,7 +30102,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.5425" pos="1">
-<Ereignis Er="1000027" Wert="586"/>
+<Ereignis Er="1000027" Wert="586" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Hafenstraße 2" Stellwerk="BÜ Hafenstraße 2" Signalname="BÜ Hafenstraße 2" SignalTyp="14" BoundingR="1">
 <p X="345.71" Y="-826.28" Z="398.48"/>
 <phi Z="3.141593"/>
@@ -53986,7 +53984,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -53998,7 +53996,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54036,7 +54034,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54048,7 +54046,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54963,7 +54961,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54975,7 +54973,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55007,7 +55005,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55019,7 +55017,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55038,6 +55036,20 @@
 </InfoGegenRichtung>
 <NachNorm Nr="4344"/>
 <NachGegen Nr="4343"/>
+</StrElement>
+<StrElement Nr="4348" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="321.7657" Y="15" Z="400.0515"/>
+<b X="321.625" Y="18" Z="400.0738"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="268"/>
+<NachGegen Nr="267"/>
+</StrElement>
+<StrElement Nr="4349" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="322.1407" Y="9" Z="400.0045"/>
+<b X="321.9063" Y="12" Z="400.0291"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="267"/>
+<NachGegen Nr="266"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="782.0208">
 <FahrstrStart Ref="10">

@@ -242,7 +242,7 @@
 <phi Z="1.352204"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="690" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Welkenratherstr\AC_WH_Welkenratherstr11-19.lod.ls3"/>
 <p X="-271.125" Y="-119.5485" Z="398.6318"/>
 <phi Z="2.964934"/>
@@ -320,7 +320,7 @@
 <phi Z="1.394087"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="777" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="34" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\EG Schweizer Bf\EGSchweizerBf.lod.ls3"/>
 <p X="-218.1914" Y="-184.6953" Z="398.1161"/>
 <phi Z="-1.743685"/>
@@ -444,7 +444,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="1727" MeshI="4671">
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="1727" MeshI="4545">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
@@ -580,6 +580,18 @@
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="4" MeterProTex2="4" MeshV="91" MeshI="387">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="\Terrain\Deutschland\Mauern\Ziegel\MauerZiegel01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="43" MeshI="123">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
