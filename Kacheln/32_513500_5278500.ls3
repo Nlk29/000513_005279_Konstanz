@@ -140,7 +140,7 @@
 <phi Z="-1.401065"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="708" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Theater Konstanz\TheaterKonstanz.lod.ls3"/>
 <p X="-200.7917" Y="462.9912" Z="398.8173"/>
 <phi Z="-1.727394"/>
@@ -325,6 +325,36 @@
 <p X="-218.1914" Y="-184.6953" Z="398.1161"/>
 <phi Z="-1.743685"/>
 <sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000474_005303_Aulfingen\ObjekteLeipferdingen\08_Wohnhaus\08_Leipferdingen_EFH.lod.ls3"/>
+<p X="-344.8763" Y="-463.567" Z="399.5895"/>
+<phi Z="0.158989"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="64" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\ATAT_Muehlengraben_22a\Muehlengraben_22a.lod.ls3"/>
+<p X="-57.4967" Y="-288.4833" Z="402.2319"/>
+<phi Z="0.320473"/>
+<sk X="4" Y="3" Z="4"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="57" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\02_03_Backstein_Fabrikhallen\02_03_Back_Fabrik.lod.ls3"/>
+<p X="-116.3095" Y="-445.8925" Z="399.4481"/>
+<phi Z="-0.163336"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000499_005737_Langeland\Objekte\10_Schuppen\10-Schuppen.lod.ls3"/>
+<p X="-106.8334" Y="-368.75" Z="398.4825"/>
+<phi Z="1.431166"/>
+<sk X="2" Y="3" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="914" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000499_005737_Langeland\Objekte\10_Schuppen\10-Schuppen.lod.ls3"/>
+<p X="-130.6342" Y="-504.289" Z="399.8653"/>
+<phi Z="1.389442"/>
+<sk X="2" Y="3" Z="1.5"/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="1428" MeshI="2934">

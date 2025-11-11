@@ -32,6 +32,120 @@
 <phi Z="7.847597"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000434_005696_Arnsberg\Objekte\Arnsberg_07_Wintroper_Weg\Arnsberg_07_WHaus_2.lod.ls3"/>
+<p X="-296.8281" Y="470.5507" Z="400.1702"/>
+<phi Z="0.17576"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000500_005707_Wrexen\Objekte\Wrexen_06_Lagerhalle_km_280_560\Wrexen_06.lod.ls3"/>
+<p X="-289.6046" Y="413.5551" Z="400.375"/>
+<phi Z="0.174394"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000635_005387_Nordendorf\Objekte\MNOD_Bf_Nebengebaeude\MNOD_Bf_Nebengebaeude.lod.ls3"/>
+<p X="-290.4179" Y="431.3163" Z="400.4128"/>
+<phi Z="0.166599"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Schuppen_Verlag\AHM_Schuppen_Verlag.lod.ls3"/>
+<p X="-161.4779" Y="266.083" Z="400.9301"/>
+<phi Z="-5.783818"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000537_005669_Koerle_West\Objekte\Haus_1\Haus_1.lod.ls3"/>
+<p X="-117.5728" Y="289.5525" Z="400.9301"/>
+<phi Z="5.354321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-124.0452" Y="217.0849" Z="400.9301"/>
+<phi Z="2.3931"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-134.9246" Y="232.4127" Z="400.9301"/>
+<phi Z="-3.081023"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-105.1589" Y="232.5885" Z="400.9301"/>
+<phi Z="1.074224"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-123.0971" Y="242.8971" Z="400.9301"/>
+<phi Z="1.346003"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-111.357" Y="249.8838" Z="400.9301"/>
+<phi Z="1.67739"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-117.5129" Y="268.2961" Z="400.9301"/>
+<phi Z="6.806977"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-128.0246" Y="262.1438" Z="400.9301"/>
+<phi Z="7.717548"/>
+<sk X="0.7" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-146.0129" Y="250.6125" Z="400.9301"/>
+<phi Z="7.619373"/>
+<sk X="0.55" Y="0.55" Z="0.55"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-150.8935" Y="258.2818" Z="400.9301"/>
+<phi Z="7.754058"/>
+<sk X="0.55" Y="0.55" Z="0.55"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-141.9638" Y="262.8873" Z="400.9301"/>
+<phi Z="7.476714"/>
+<sk X="0.55" Y="0.55" Z="0.55"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000640_005369_Gablingen\Objekte\MGAL_Linde\MGAL_Linde_Tank.lod.ls3"/>
+<p X="-137.716" Y="254.7844" Z="400.9301"/>
+<phi Z="7.288033"/>
+<sk X="0.55" Y="0.55" Z="0.55"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bahnwaerterhaus\Bahnwaerterhaus01.lod.ls3"/>
+<p X="-167.45" Y="308.3618" Z="400.5074"/>
+<phi Z="2.06678"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\AdlerPost17\17_AdlerPost.lod.ls3"/>
+<p X="-158.9612" Y="444.0905" Z="399.452"/>
+<phi Z="-4.867606"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1074" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000442_005692_Freienohl\Objekte\Freienohl_14_Bahnhofstr\Freienohl_14_WHaus_6.lod.ls3"/>
+<p X="-165.3399" Y="469.723" Z="399.6041"/>
+<phi Z="-0.175143"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5277500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="594" MeshI="1278">
 <RenderFlags TexVoreinstellung="3"/>
