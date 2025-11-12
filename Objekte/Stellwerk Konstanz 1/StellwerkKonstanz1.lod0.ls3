@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="StellwerkKonstanz1.lod0.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="52" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF33231E" MeshV="225" MeshI="585">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FF5A2C1E" MeshV="133" MeshI="258">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="955" MeshI="1782">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="157" MeshI="294">
+<RenderFlags TexVoreinstellung="4"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\Reiterstellwerk\ReiterStw.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Konstanz Stellwerk 1\Konstanz Stellwerk 1_lod0\texture0.png"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFF00FF" MeshV="355" MeshI="567">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFA1A69F" MeshV="154" MeshI="252">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="5578" MeshI="13749">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000576_005836_Garssen\Objekte\Garssen-Haus1\Textur-Garssen-Haus1.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="315" MeshI="588">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="130" MeshI="252">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0059\000600_005866_KleinSuestedt\Objekte\Stein_01\Stein_01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="20" MeshI="30">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\ZiegelDunkelRot.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

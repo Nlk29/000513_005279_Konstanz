@@ -194,6 +194,18 @@
 <phi Z="-1.575309"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0058\000523_005763_Welsede\Objekte\03Hanebuelten\HausNr1.lod.ls3"/>
+<p X="-211.3124" Y="-473.289" Z="399.8728"/>
+<phi Z="-0.00687"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0058\000523_005763_Welsede\Objekte\03Hanebuelten\HausNr1Garage.lod.ls3"/>
+<p X="-198.4101" Y="-473.2539" Z="399.9197"/>
+<phi Z="-1.577666"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="67" MeshI="195">
 <RenderFlags TexVoreinstellung="3"/>

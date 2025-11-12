@@ -3,20 +3,23 @@
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
 <lsb Dateiname="StellwerkKonstanz1.lod1.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="246" MeshI="519">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="29" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="266" MeshI="465">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000576_005836_Garssen\Objekte\Garssen-Haus1\Textur-Garssen-Haus1.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="246" MeshI="519">
+<SubSet Cd="FFFFFFFF" MeshV="20" MeshI="30">
 <RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Cd="FFA3A3A3" MeshV="20" MeshI="30">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="29" MeshI="60">
-<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\ZiegelDunkelRot.dds"/>
+</Textur>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="100" MeshI="222">
 <RenderFlags TexVoreinstellung="1"/>
@@ -32,9 +35,6 @@
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\Reiterstellwerk\ReiterStw.dds"/>
 </Textur>
-</SubSet>
-<SubSet Cd="FFA3A3A3" MeshV="4" MeshI="6">
-<RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Cd="FFFF00FF" MeshV="104" MeshI="186">
 <RenderFlags TexVoreinstellung="1"/>

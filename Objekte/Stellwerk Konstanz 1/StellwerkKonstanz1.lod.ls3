@@ -2,13 +2,19 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte BoundingR="10" SichtbarAb="400" SichtbarBis="1000" Vorlade="1" LODbit="3">
+<Verknuepfte Flags="16" BoundingR="10" SichtbarAb="400" SichtbarBis="1000" Vorlade="1" LODbit="3">
 <Datei Dateiname="StellwerkKonstanz1.lod3.ls3"/>
 <p/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte BoundingR="10" SichtbarBis="400" Vorlade="1" LODbit="12">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="120" Vorlade="1" LODbit="8">
+<Datei Dateiname="StellwerkKonstanz1.lod0.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarAb="120" SichtbarBis="400" Vorlade="1" LODbit="4">
 <Datei Dateiname="StellwerkKonstanz1.lod1.ls3"/>
 <p/>
 <phi/>

@@ -350,11 +350,23 @@
 <phi Z="1.431166"/>
 <sk X="2" Y="3" Z="1.5"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="914" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000499_005737_Langeland\Objekte\10_Schuppen\10-Schuppen.lod.ls3"/>
 <p X="-130.6342" Y="-504.289" Z="399.8653"/>
 <phi Z="1.389442"/>
 <sk X="2" Y="3" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000429_005700_Neheim-Huesten\Objekte\Neheim_16_Natursteinhaus\Neheim_16_Haus.lod.ls3"/>
+<p X="-187.9452" Y="-40.3594" Z="398.1031"/>
+<phi Z="2.96889"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="600" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bürgerstuben\Buergerstuben.lod.ls3"/>
+<p X="-178.2556" Y="13.9536" Z="398.217"/>
+<phi Z="-0.181623"/>
+<sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="1428" MeshI="2934">
