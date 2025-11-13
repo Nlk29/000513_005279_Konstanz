@@ -10,7 +10,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str23.lod.ls3"/>
-<p X="-191.9139" Y="-370.5351" Z="397.4991"/>
+<p X="-191.9139" Y="-370.5351" Z="399.7491"/>
 <phi Z="2.547126"/>
 <sk/>
 </Verknuepfte>
@@ -94,31 +94,31 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
-<p X="-186.3346" Y="-404.2104" Z="399.1059"/>
+<p X="-186.3346" Y="-404.2104" Z="399.5746"/>
 <phi Z="1.579702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
-<p X="-186.3791" Y="-399.2106" Z="398.9006"/>
+<p X="-186.3791" Y="-399.2106" Z="399.76"/>
 <phi Z="1.579702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
-<p X="-186.4236" Y="-394.2108" Z="398.6953"/>
+<p X="-186.4236" Y="-394.2108" Z="399.8984"/>
 <phi Z="1.579702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
-<p X="-186.4681" Y="-389.211" Z="398.49"/>
+<p X="-186.4681" Y="-389.211" Z="399.9587"/>
 <phi Z="1.579702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
-<p X="-186.5107" Y="-384.2154" Z="398.2851"/>
+<p X="-186.5107" Y="-384.2154" Z="400.0507"/>
 <phi Z="1.576817"/>
 <sk/>
 </Verknuepfte>
@@ -130,7 +130,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Mauern\Ziegel\MauerZiegel_05m_H3m.lod.ls3"/>
-<p X="-186.537" Y="-379.8586" Z="398.1089"/>
+<p X="-186.537" Y="-379.8586" Z="400.187"/>
 <phi Z="1.576818"/>
 <sk/>
 </Verknuepfte>
@@ -166,13 +166,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
-<p X="-203.3828" Y="-363.8867" Z="397.6018"/>
+<p X="-203.3828" Y="-363.8867" Z="399.8518"/>
 <phi Z="2.53323"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\BraunschweigerStr\BS_Str15.lod.ls3"/>
-<p X="-211.1184" Y="-358.5371" Z="397.6018"/>
+<p X="-211.1184" Y="-358.5371" Z="399.8518"/>
 <phi Z="2.53323"/>
 <sk/>
 </Verknuepfte>
@@ -184,7 +184,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\04_17_WHaeuser_Leostr_77\04_17_Wh_Leo77_a.lod.ls3"/>
-<p X="-192.2495" Y="-508.5505" Z="399.7"/>
+<p X="-192.2495" Y="-508.5505" Z="399.3094"/>
 <phi Z="-0.011866"/>
 <sk X="1" Y="1.4" Z="1.4"/>
 </Verknuepfte>
@@ -258,7 +258,7 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\MitBuergersteig\strasse_6m.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="63">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" zBias="-2" MeshV="24" MeshI="63">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
@@ -288,7 +288,7 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_24_Rampe\Wenn_24_Pflaster.dds"/>
@@ -331,6 +331,45 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="27">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="22" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="21" MeshI="57">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="17" MeshI="45">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="12" MeshI="30">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>

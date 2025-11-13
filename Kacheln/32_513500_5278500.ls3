@@ -140,9 +140,9 @@
 <phi Z="-1.401065"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Theater Konstanz\TheaterKonstanz.lod.ls3"/>
-<p X="-200.7917" Y="462.9912" Z="398.8173"/>
+<p X="-200.7917" Y="462.9912" Z="398.8485"/>
 <phi Z="-1.727394"/>
 <sk/>
 </Verknuepfte>
@@ -362,7 +362,7 @@
 <phi Z="2.96889"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="600" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="58" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bürgerstuben\Buergerstuben.lod.ls3"/>
 <p X="-178.2556" Y="13.9536" Z="398.217"/>
 <phi Z="-0.181623"/>
@@ -649,6 +649,36 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="31" MeshI="87">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel04.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="27">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>

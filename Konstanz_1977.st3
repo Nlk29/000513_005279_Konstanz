@@ -55044,6 +55044,20 @@
 <NachNorm Nr="4344"/>
 <NachGegen Nr="4343"/>
 </StrElement>
+<StrElement Nr="4348" spTrass="27.7778" Fkt="2">
+<g X="329.8516" Y="148.2068" Z="401.09"/>
+<b X="323.4154" Y="121.4078" Z="400.3"/>
+<NachNorm Nr="4349"/>
+</StrElement>
+<StrElement Nr="4349" spTrass="27.7778" Fkt="2">
+<g X="323.4154" Y="121.4078" Z="400.3"/>
+<b X="316.7739" Y="86.998" Z="399.5874"/>
+<NachNorm Nr="4350"/>
+</StrElement>
+<StrElement Nr="4350" spTrass="27.7778" Fkt="2">
+<g X="316.7739" Y="86.998" Z="399.6666"/>
+<b X="318.3976" Y="79.9192" Z="399.6666"/>
+</StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="782.0208">
 <FahrstrStart Ref="10">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
