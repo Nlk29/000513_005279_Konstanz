@@ -40,7 +40,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\Reiterstellwerk\Reiterstellwerk.lod.ls3"/>
-<p X="-181.1" Y="-238.9657" Z="397.5202"/>
+<p X="-179.8461" Y="-232.7782" Z="397.5202"/>
 <phi Z="1.377719"/>
 <sk/>
 </Verknuepfte>
@@ -140,7 +140,7 @@
 <phi Z="-1.401065"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="708" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Theater Konstanz\TheaterKonstanz.lod.ls3"/>
 <p X="-200.7917" Y="462.9912" Z="398.8485"/>
 <phi Z="-1.727394"/>
@@ -148,25 +148,25 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Gueterschuppen_Nord\AHM_Gueterschuppen.lod.ls3"/>
-<p X="-234.6965" Y="-237.3235" Z="397.9441"/>
+<p X="-240.2746" Y="-236.6438" Z="397.9441"/>
 <phi Z="4.536205"/>
 <sk X="1.3" Y="1.3" Z="1.3"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bw_Personalraeume\Personalraeume.lod.ls3"/>
-<p X="-254.1531" Y="-232.8984" Z="397.9101"/>
+<p X="-264.1738" Y="-231.3773" Z="397.9101"/>
 <phi Z="4.536205"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Rangiererbude\rangiererbude_af.lod.ls3"/>
-<p X="-256.7147" Y="-254.0895" Z="398.2464"/>
+<p X="-256.7147" Y="-254.0895" Z="399.137"/>
 <phi Z="1.394612"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="71" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Ubernachtung\Altenbekenuebernacht.lod.ls3"/>
-<p X="-335.2832" Y="-218.4867" Z="397.9862"/>
+<p X="-340.8613" Y="-217.807" Z="397.9862"/>
 <phi Z="2.965409"/>
 <sk/>
 </Verknuepfte>
@@ -226,7 +226,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Stellwerk Konstanz 1\StellwerkKonstanz1.lod.ls3"/>
-<p X="-145.6634" Y="160.1627" Z="398.1"/>
+<p X="-145.6634" Y="160.1627" Z="397.8891"/>
 <phi Z="-0.020703"/>
 <sk/>
 </Verknuepfte>
@@ -268,13 +268,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="26" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000442_005692_Freienohl\Objekte\Freienohl_14_Bahnhofstr\Freienohl_14_Saegewerk_3.lod.ls3"/>
-<p X="-267.3008" Y="-322.3633" Z="398.3214"/>
+<p X="-267.3008" Y="-322.3633" Z="398.1925"/>
 <phi Z="2.94995"/>
 <sk X="1.1" Y="1.2" Z="1.7"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000442_005692_Freienohl\Objekte\Freienohl_14_Bahnhofstr\Freienohl_14_Saegewerk_3.lod.ls3"/>
-<p X="-294.156" Y="-320.0389" Z="398.4305"/>
+<p X="-294.156" Y="-320.0389" Z="398.3016"/>
 <phi Z="9.233135"/>
 <sk X="1" Y="1" Z="1.3"/>
 </Verknuepfte>
@@ -286,7 +286,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000555_005781_Nordstemmen\Objekte\05_Marienbergstrasse\Marienbergstr1.lod.ls3"/>
-<p X="-292.4125" Y="-300.2997" Z="398.2786"/>
+<p X="-292.4125" Y="-300.2997" Z="398.1028"/>
 <phi Z="1.46326"/>
 <sk/>
 </Verknuepfte>
@@ -310,7 +310,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000471_005689_Brilon_Wald\Objekte\Brilon12_WerkstattamStw-Bo\Brilon12_Werkstatt.lod.ls3"/>
-<p X="-264.4312" Y="-271.7881" Z="398.2376"/>
+<p X="-264.4312" Y="-271.7881" Z="397.8743"/>
 <phi Z="9.261899"/>
 <sk/>
 </Verknuepfte>
@@ -322,7 +322,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="34" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\EG Schweizer Bf\EGSchweizerBf.lod.ls3"/>
-<p X="-218.1914" Y="-184.6953" Z="398.1161"/>
+<p X="-217.582" Y="-183.3008" Z="398.1512"/>
 <phi Z="-1.743685"/>
 <sk/>
 </Verknuepfte>
@@ -364,8 +364,26 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="58" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bürgerstuben\Buergerstuben.lod.ls3"/>
-<p X="-178.2556" Y="13.9536" Z="398.217"/>
+<p X="-178.2556" Y="13.9536" Z="398.0881"/>
 <phi Z="-0.181623"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Kamperstr\AC_WH_KamperStr19.lod.ls3"/>
+<p X="-215.6328" Y="176.3476" Z="397.7748"/>
+<phi Z="1.801082"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="84" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\UeberfuehrungKonstanzHafen\UeberfuehrungKonstanzHafen.lod.ls3"/>
+<p X="-228.875" Y="-215.0195" Z="397.6471"/>
+<phi Z="4.539474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="27" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Reparaturwerkstatt\Reparaturwerkstatt.lod.ls3"/>
+<p X="-242.0859" Y="-413.9141" Z="398.9301"/>
+<phi Z="-0.177334"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
@@ -459,13 +477,7 @@
 <Datei Dateiname="Terrain\Deutschland\Bruecken\Default\beton.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="80" MeshI="240">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="2032" MeshI="5310">
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="2035" MeshI="5319">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -492,7 +504,7 @@
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="5" MeshV="1057" MeshI="3039">
+<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="5" MeshV="1057" MeshI="2652">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -505,18 +517,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="264" MeshI="708">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\38cm_Beton_Asphalt-grau_Streifen.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="1.3" MeterProTex2="10" MeshV="44" MeshI="108">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="84" MeshI="216">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\38cm_Beton_Asphalt-grau_Streifen.dds"/>
@@ -612,7 +612,7 @@
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
@@ -654,7 +654,7 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="31" MeshI="87">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="31" MeshI="87">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\gravel04.dds"/>
@@ -690,16 +690,190 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="28" MeshI="78">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-mittelgrau.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeshV="16" MeshI="48">
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeshV="17" MeshI="51">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="1.3" MeterProTex2="10" MeshV="52" MeshI="132">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="100" MeshI="264">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\38cm_Beton_Asphalt-grau_Streifen.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="29" MeshI="75">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="5" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000444_005689_Wennemen\Objekte\Wennemen_24_Rampe\Wenn_24_Pflaster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="22" MeshI="57">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="28" MeshI="78">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\asphalt.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="2" MeterProTex2="10" MeshV="82" MeshI="237">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="55" MeshI="159">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="29" MeshI="81">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="48" MeshI="138">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="47" MeshI="135">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="51" MeshI="147">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel06_3m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="23" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="23" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="11" MeshI="27">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="14" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+  <Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1"/>
+  <Landschaft>
+    <lsb Dateiname="UeberfuehrungKonstanzHafen.lod3.lsb"/>
+    <SubSet Cd="FF595456" MeshV="15748" MeshI="39174">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+    <SubSet Cd="FFFFFFFF" MeshV="52" MeshI="120">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+  </Landschaft>
+</Zusi>
