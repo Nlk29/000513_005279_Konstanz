@@ -12,7 +12,7 @@
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000727_005446_Regenstauf\Objekte\NRGF_EG\NRGF_EG_Wand.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="39" MeshI="63">
+<SubSet Cd="FFFFFFFF" MeshV="39">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Fenster.dds"/>
@@ -22,6 +22,18 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Stahlwerk\Dach.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="4">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Fenster.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="39" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Fenster.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

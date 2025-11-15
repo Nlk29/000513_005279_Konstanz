@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="BahnhofKonstanz.lod3.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="67" MeshI="135">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="169" MeshI="357">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\Dachziegel.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF606060" MeshV="60" MeshI="156">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="888" MeshI="1848">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Bahnhof_Konstanz.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

@@ -172,8 +172,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="51" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_04_Hameckestr\Hagen_Gbf_04_Hameckestrasse.lod.ls3"/>
-<p X="-234.3929" Y="-56.934" Z="397.9131"/>
-<phi Z="-0.167829"/>
+<p X="-232.5296" Y="-46.9145" Z="397.9131"/>
+<phi Z="-0.221825"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="132" SichtbarBis="3000" Vorlade="1">
@@ -190,8 +190,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_11_Schwerte-Str\Hagen_Gbf_11_WHaus_14\Hagen_Gbf_11_WHaus_14.lod.ls3"/>
-<p X="-228.7323" Y="-129.6456" Z="397.6702"/>
-<phi Z="7.679372"/>
+<p X="-227.5839" Y="-122.2042" Z="397.6702"/>
+<phi Z="7.625375"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
@@ -232,8 +232,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Junkerstr\AC_WH_Junkerstr67-69.lod.ls3"/>
-<p X="-257.4843" Y="-78.5782" Z="397.7497"/>
-<phi Z="1.352204"/>
+<p X="-255.621" Y="-68.5587" Z="397.7497"/>
+<phi Z="1.298208"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
@@ -244,8 +244,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Welkenratherstr\AC_WH_Welkenratherstr11-19.lod.ls3"/>
-<p X="-271.125" Y="-119.5485" Z="398.6318"/>
-<phi Z="2.964934"/>
+<p X="-269.2617" Y="-109.529" Z="398.6318"/>
+<phi Z="2.910938"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
@@ -384,6 +384,12 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Reparaturwerkstatt\Reparaturwerkstatt.lod.ls3"/>
 <p X="-242.0859" Y="-413.9141" Z="398.9301"/>
 <phi Z="-0.177334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="640" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\BahnhofKonstanz\BahnhofKonstanz.lod.ls3"/>
+<p X="-201.9804" Y="-108.2266" Z="398.0782"/>
+<phi Z="-0.177973"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
