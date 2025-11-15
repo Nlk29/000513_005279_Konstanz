@@ -613,6 +613,7 @@
 <ReferenzElemente ReferenzNr="594" StrElement="2410" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 414,883 (Slave)"/>
 <ReferenzElemente ReferenzNr="595" StrElement="2406" RefTyp="4" Info="Bü km 414,883"/>
 <ReferenzElemente ReferenzNr="596" StrElement="2406" StrNorm="1" RefTyp="4" Info="Bü km 414,883"/>
+<ReferenzElemente ReferenzNr="597" StrElement="4355" Info="Konstanz P1"/>
 <StrElement Nr="1" spTrass="16.6667" Oberbau="Holz K-Oberbau">
 <g X="339.5313" Y="-64.5" Z="399.4959"/>
 <b X="345.0313" Y="-113.5" Z="399.1725"/>
@@ -26247,7 +26248,9 @@
 <StrElement Nr="2008" kr="0.001887" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="289.0139" Y="-1145.432" Z="400.891"/>
 <b X="291.8113" Y="-1154.4709" Z="400.9535"/>
-<InfoNormRichtung vMax="11.1111" km="414.8683" pos="1"/>
+<InfoNormRichtung vMax="11.1111" km="414.8683" pos="1">
+<Ereignis Er="15"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.8777"/>
 <NachNorm Nr="2009"/>
 <NachGegen Nr="2007"/>
@@ -31934,7 +31937,9 @@
 <StrElement Nr="2399" kr="-0.004108" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="267.9648" Y="-1118.054" Z="400.7179"/>
 <b X="268.1409" Y="-1122.984" Z="400.7538"/>
-<InfoNormRichtung vMax="11.1111" km="414.845" pos="1"/>
+<InfoNormRichtung vMax="11.1111" km="414.845" pos="1">
+<Ereignis Er="15"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.8499"/>
 <NachNorm Nr="2400"/>
 <NachGegen Nr="2398"/>
@@ -31991,7 +31996,8 @@
 <g X="266.3845" Y="-1156.137" Z="400.999"/>
 <b X="265.59" Y="-1161.619" Z="401.0402"/>
 <InfoNormRichtung vMax="11.1111" km="414.8828" pos="1">
-<Ereignis Er="1000027" Wert="596"/>
+<Ereignis Er="1000027" Wert="596" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
+<Ereignis Er="16"/>
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="BÜ Bahnhof Büro" SignalTyp="14" BoundingR="1">
 <p X="265.61" Y="-1161.51" Z="401.04"/>
 <phi/>
@@ -32006,7 +32012,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.8883">
-<Ereignis Er="1000027" Wert="595"/>
+<Ereignis Er="1000027" Wert="595" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="BÜ Bahnhof Büro" SignalTyp="14" BoundingR="1">
 <p X="265.61" Y="-1161.51" Z="401.04"/>
 <phi Z="3.141593"/>
@@ -32028,6 +32034,37 @@
 <b X="264.6532" Y="-1167.078" Z="401.0815"/>
 <InfoNormRichtung vMax="11.1111" km="414.8883" pos="1" Reg="5086">
 <Ereignis Er="4"/>
+<Signal NameBetriebsstelle="Kreuzlingen" Stellwerk="Kreuzlingen Stw" Signalname="Richtung Kreuzlingen" SignalTyp="13" BoundingR="1">
+<p X="264.6532" Y="-1167.078" Z="401.0815"/>
+<phi Z="-1.740748"/>
+<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
+<HsigBegriff FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag MatrixGeschw="11.1111">
+<Ereignis Er="23"/>
+<Ereignis Er="32" Wert="70" Beschr="20A"/>
+</MatrixEintrag>
+<MatrixEintrag>
+<Ereignis Er="23"/>
+</MatrixEintrag>
+<MatrixEintrag MatrixGeschw="11.1111">
+<Ereignis Er="23"/>
+<Ereignis Er="32" Wert="70" Beschr="1020A"/>
+<Ereignis Er="28"/>
+</MatrixEintrag>
+<Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000020A">
+<MatrixEintrag MatrixGeschw="11.1111">
+<Ereignis Er="32" Wert="70"/>
+</MatrixEintrag>
+</Ersatzsignal>
+<Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0001020A">
+<MatrixEintrag MatrixGeschw="11.1111">
+<Ereignis Er="32" Wert="70"/>
+<Ereignis Er="28"/>
+</MatrixEintrag>
+</Ersatzsignal>
+</Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.8938" Reg="5086">
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="F" SignalTyp="7" BoundingR="10">
@@ -46100,6 +46137,9 @@
 <StrElement Nr="3265" spTrass="11.1111" Oberbau="Holz K-Oberbau">
 <g X="339.2392" Y="-1260.873" Z="401.6712"/>
 <b X="347.7547" Y="-1275.4105" Z="401.7666"/>
+<InfoNormRichtung vMax="-1" km="414.9898" pos="1">
+<Ereignis Er="16"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.9899" Reg="5119"/>
 <NachNorm Nr="4355"/>
 <NachGegen Nr="3268"/>
@@ -54830,7 +54870,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54842,7 +54882,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54880,7 +54920,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54892,7 +54932,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55781,7 +55821,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55793,7 +55833,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55825,7 +55865,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55837,7 +55877,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55893,6 +55933,37 @@
 <b X="356.2701" Y="-1289.948" Z="401.862"/>
 <InfoNormRichtung vMax="11.1111" km="414.9898" pos="1" Reg="5119">
 <Ereignis Er="4"/>
+<Signal NameBetriebsstelle="Kreuzlingen Hafen" Stellwerk="Kreuzlingen Hafen" Signalname="Richtung Kreuzlingen Hafen" SignalTyp="13" BoundingR="1">
+<p X="356.2701" Y="-1289.948" Z="401.862"/>
+<phi Z="-1.040916"/>
+<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
+<HsigBegriff FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag MatrixGeschw="11.1111">
+<Ereignis Er="23"/>
+<Ereignis Er="32" Wert="70" Beschr="20A"/>
+</MatrixEintrag>
+<MatrixEintrag>
+<Ereignis Er="23"/>
+</MatrixEintrag>
+<MatrixEintrag MatrixGeschw="11.1111">
+<Ereignis Er="23"/>
+<Ereignis Er="32" Wert="70" Beschr="1020A"/>
+<Ereignis Er="28"/>
+</MatrixEintrag>
+<Ersatzsignal ErsatzsigBezeichnung="Befehl" ErsatzsigID="0000020A">
+<MatrixEintrag MatrixGeschw="11.1111">
+<Ereignis Er="32" Wert="70"/>
+</MatrixEintrag>
+</Ersatzsignal>
+<Ersatzsignal ErsatzsigBezeichnung="BefehlGegengleis" ErsatzsigID="0001020A">
+<MatrixEintrag MatrixGeschw="11.1111">
+<Ereignis Er="32" Wert="70"/>
+<Ereignis Er="28"/>
+</MatrixEintrag>
+</Ersatzsignal>
+</Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw1" Signalname="Pv" SignalTyp="6" BoundingR="10">
