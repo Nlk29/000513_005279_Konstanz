@@ -609,10 +609,6 @@
 <ReferenzElemente ReferenzNr="590" StrElement="4335" StrNorm="1" RefTyp="6" Info="Signalhaltfall"/>
 <ReferenzElemente ReferenzNr="591" StrElement="4335" StrNorm="1" RefTyp="2" Info="Register-Nr. 5132"/>
 <ReferenzElemente ReferenzNr="592" StrElement="4335" RefTyp="2" Info="Register-Nr. 5132"/>
-<ReferenzElemente ReferenzNr="593" StrElement="2410" RefTyp="4" Info="Sicherungsanlage Bü km 414,883 (Master)"/>
-<ReferenzElemente ReferenzNr="594" StrElement="2410" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 414,883 (Slave)"/>
-<ReferenzElemente ReferenzNr="595" StrElement="2406" RefTyp="4" Info="Bü km 414,883"/>
-<ReferenzElemente ReferenzNr="596" StrElement="2406" StrNorm="1" RefTyp="4" Info="Bü km 414,883"/>
 <ReferenzElemente ReferenzNr="597" StrElement="4355" Info="Konstanz P1"/>
 <ReferenzElemente ReferenzNr="598" StrElement="2407" RefTyp="4" Info="Signal: BÜ Bahnhof Büro F"/>
 <ReferenzElemente ReferenzNr="599" StrElement="2407" StrNorm="1" RefTyp="4" Info="Signal: Kreuzlingen Richtung Kreuzlingen"/>
@@ -621,6 +617,10 @@
 <ReferenzElemente ReferenzNr="602" StrElement="4355" StrNorm="1" RefTyp="5" Info="Auflösepunkt"/>
 <ReferenzElemente ReferenzNr="603" StrElement="4355" StrNorm="1" RefTyp="2" Info="Register-Nr. 5131"/>
 <ReferenzElemente ReferenzNr="604" StrElement="4355" RefTyp="2" Info="Register-Nr. 5131"/>
+<ReferenzElemente ReferenzNr="605" StrElement="2410" RefTyp="4" Info="Sicherungsanlage Bü km 414,883 (Master)"/>
+<ReferenzElemente ReferenzNr="606" StrElement="2410" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 414,883 (Slave)"/>
+<ReferenzElemente ReferenzNr="607" StrElement="2406" RefTyp="4" Info="Bü km 414,883"/>
+<ReferenzElemente ReferenzNr="608" StrElement="2406" StrNorm="1" RefTyp="4" Info="Bü km 414,883"/>
 <StrElement Nr="1" spTrass="16.6667" Oberbau="Holz K-Oberbau">
 <g X="339.5313" Y="-64.5" Z="399.4959"/>
 <b X="345.0313" Y="-113.5" Z="399.1725"/>
@@ -32003,12 +32003,12 @@
 <g X="266.3845" Y="-1156.137" Z="400.999"/>
 <b X="265.59" Y="-1161.619" Z="401.0402"/>
 <InfoNormRichtung vMax="11.1111" km="414.8828" pos="1">
-<Ereignis Er="1000027" Wert="596" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Ereignis Er="16"/>
+<Ereignis Er="1000027" Wert="608"/>
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="BÜ Bahnhof Büro" SignalTyp="14" BoundingR="1">
 <p X="265.61" Y="-1161.51" Z="401.04"/>
 <phi/>
-<KoppelSignal ReferenzNr="593">
+<KoppelSignal ReferenzNr="605">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -32019,11 +32019,11 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.8883">
-<Ereignis Er="1000027" Wert="595" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
+<Ereignis Er="1000027" Wert="607"/>
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="BÜ Bahnhof Büro" SignalTyp="14" BoundingR="1">
 <p X="265.61" Y="-1161.51" Z="401.04"/>
 <phi Z="3.141593"/>
-<KoppelSignal ReferenzNr="593">
+<KoppelSignal ReferenzNr="605">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <HsigBegriff FahrstrTyp="1"/>
@@ -32818,75 +32818,75 @@
 <b X="267.097" Y="-1163.613" Z="400.95"/>
 <InfoNormRichtung vMax="11.1111">
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="BÜ Bahnhof Büro" SignalTyp="4" BoundingR="10">
-<p X="263.6257" Y="-1157.4532" Z="400.95"/>
+<p X="262.5541" Y="-1157.7721" Z="400.95"/>
 <phi Z="-0.174533"/>
 <SignalFrame>
-<p Y="-4.75"/>
+<p Y="-3.55"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Antrieb-Rechteckform.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-4.75" Z="1"/>
-<phi X="1.500983"/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbaum_5m.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1.4" Y="4.3"/>
+<p Y="3"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-1.4" Y="-4.3"/>
+<p Y="-3.55" Z="1"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-3.55"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="43"/>
-<MatrixEintrag Signalbild="85" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="-0.0035" pos="1">
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="BÜ Bahnhof Büro" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="266.8382" Y="-1164.5789" Z="400.95"/>
-<phi Z="2.879793"/>
-<KoppelSignal ReferenzNr="594">
+<p X="267.9082" Y="-1164.7714" Z="400.95"/>
+<phi Z="2.96706"/>
+<KoppelSignal ReferenzNr="606">
 <Datei NurInfo="1"/>
 </KoppelSignal>
 <SignalFrame>
-<p Y="-4.75"/>
+<p Y="-4.25"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Antrieb-Rechteckform.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p Y="-4.75" Z="1"/>
-<phi X="1.500983"/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\Halbschrankenbaum_5m.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1.4" Y="4.3"/>
+<p Y="4.25"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht1.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
-<p X="-1.4" Y="-4.3"/>
+<p Y="-4.25" Z="1"/>
 <phi/>
 <sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Halbschranke_DB\Bue_Bausatzteile\DB_Andreaskr_Blinklicht2.lod.ls3"/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-4.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="43"/>
-<MatrixEintrag Signalbild="85" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="2411"/>
@@ -54877,7 +54877,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54889,7 +54889,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54927,7 +54927,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54939,7 +54939,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55828,7 +55828,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55840,7 +55840,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55872,7 +55872,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55884,7 +55884,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>

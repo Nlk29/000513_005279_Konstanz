@@ -28,7 +28,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000415_005704_Froendenberg\Objekte\Froendenberg_17_Bretterbude\Froendenberg_17_Bude.lod.ls3"/>
-<p X="-235.8792" Y="373.3585" Z="400.4"/>
+<p X="-235.8792" Y="374.3546" Z="400.4"/>
 <phi Z="7.847597"/>
 <sk/>
 </Verknuepfte>
@@ -136,20 +136,20 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\AdlerPost17\17_AdlerPost.lod.ls3"/>
-<p X="-158.9612" Y="444.0905" Z="399.452"/>
+<p X="-158.9612" Y="444.1011" Z="399.9993"/>
 <phi Z="-4.867606"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000442_005692_Freienohl\Objekte\Freienohl_14_Bahnhofstr\Freienohl_14_WHaus_6.lod.ls3"/>
-<p X="-165.3399" Y="469.723" Z="399.6041"/>
+<p X="-165.3399" Y="469.723" Z="399.9592"/>
 <phi Z="-0.175143"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="84" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\UeberfuehrungKonstanzHafen\UeberfuehrungKonstanzHafen.lod.ls3"/>
-<p X="-251.6005" Y="373.2576" Z="400.3917"/>
-<phi Z="-1.535094"/>
+<p X="-252.5146" Y="372.5779" Z="400.3917"/>
+<phi Z="-1.434465"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
@@ -164,11 +164,53 @@
 <phi Z="0.160989"/>
 <sk X="1.2" Y="1.2" Z="1.2"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\04_Werkstatt\DriburgWerkstatt.lod.ls3"/>
 <p X="-217.8539" Y="171.4304" Z="402.1522"/>
 <phi Z="1.738627"/>
 <sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000463_005293_Grimmelshofen\ObjekteGrimmelshofen\Bauernhaus3\Bauernhaus3.lod.ls3"/>
+<p X="-267.4442" Y="352.3257" Z="401.5331"/>
+<phi Z="-2.484799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus30.lod.ls3"/>
+<p X="-252.1111" Y="342.4532" Z="400.7156"/>
+<phi Z="-2.457406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus134.lod.ls3"/>
+<p X="-282.3625" Y="341.2039" Z="400.5892"/>
+<phi Z="-2.524168"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\09c_Haus\DriburgHaus09c.lod.ls3"/>
+<p X="-140.9956" Y="387.7837" Z="399.184"/>
+<phi Z="-0.973332"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\16_Haus_04\Driburg_Haus4.lod.ls3"/>
+<p X="-116.4519" Y="396.6205" Z="399.7054"/>
+<phi Z="-0.992605"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="66" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000487_005731_Benhausen\Objekte\Fussballplatz\Fussballplatz.ls3"/>
+<p X="-43.7253" Y="346.2299" Z="399"/>
+<phi Z="-0.992605"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="89" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000386_005701_Witten-Annen_Nord\Objekte\30_Industrie\30_Industrie-K-1\30_Industrie-K-1-4.lod.ls3"/>
+<p X="-102.8203" Y="166.7182" Z="398.4865"/>
+<phi Z="1.429762"/>
+<sk X="1.5" Y="1.5" Z="1"/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5277500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="594" MeshI="1278">
@@ -493,6 +535,36 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment_verlauf.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="52" MeshI="150">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="84">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="13" MeshI="33">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel02.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

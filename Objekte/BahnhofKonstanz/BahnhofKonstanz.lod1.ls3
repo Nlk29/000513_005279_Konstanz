@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+  <Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1"/>
+  <Landschaft>
+    <lsb Dateiname="BahnhofKonstanz.lod1.lsb"/>
+    <SubSet Cd="FFFFFFFF" MeshV="67" MeshI="135">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="419" MeshI="747">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\EG_Konstanz\texture24.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="58" MeshI="108">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\EG_Konstanz\texture25.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FF606060" MeshV="68" MeshI="168">
+      <RenderFlags TexVoreinstellung="1"/>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="306" MeshI="690">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\EG_Konstanz\texture7.jpg"/>
+      </Textur>
+    </SubSet>
+    <SubSet Cd="FFA3A3A3" MeshV="904" MeshI="1866">
+      <RenderFlags TexVoreinstellung="1"/>
+      <Textur>
+        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\EG_Konstanz\Atlas_00002.png"/>
+      </Textur>
+    </SubSet>
+  </Landschaft>
+</Zusi>

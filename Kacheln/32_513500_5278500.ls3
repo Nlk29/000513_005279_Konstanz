@@ -170,7 +170,7 @@
 <phi Z="2.965409"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="51" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="52" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_04_Hameckestr\Hagen_Gbf_04_Hameckestrasse.lod.ls3"/>
 <p X="-232.5296" Y="-46.9145" Z="397.9131"/>
 <phi Z="-0.221825"/>
@@ -334,25 +334,25 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="64" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\ATAT_Muehlengraben_22a\Muehlengraben_22a.lod.ls3"/>
-<p X="-57.4967" Y="-288.4833" Z="402.2319"/>
+<p X="-57.4967" Y="-288.4833" Z="399.7733"/>
 <phi Z="0.320473"/>
 <sk X="4" Y="3" Z="4"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="57" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\02_03_Backstein_Fabrikhallen\02_03_Back_Fabrik.lod.ls3"/>
-<p X="-116.3095" Y="-445.8925" Z="399.4481"/>
-<phi Z="-0.163336"/>
+<p X="-116.3095" Y="-445.8925" Z="398.7708"/>
+<phi X="-0.013254" Y="0.003682" Z="-0.169717"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000499_005737_Langeland\Objekte\10_Schuppen\10-Schuppen.lod.ls3"/>
-<p X="-106.8334" Y="-368.75" Z="398.4825"/>
+<p X="-106.8334" Y="-368.75" Z="396.5548"/>
 <phi Z="1.431166"/>
 <sk X="2" Y="3" Z="1.5"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="30" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000499_005737_Langeland\Objekte\10_Schuppen\10-Schuppen.lod.ls3"/>
-<p X="-130.6342" Y="-504.289" Z="399.8653"/>
+<p X="-130.6342" Y="-504.289" Z="399.209"/>
 <phi Z="1.389442"/>
 <sk X="2" Y="3" Z="1.5"/>
 </Verknuepfte>
@@ -386,7 +386,7 @@
 <phi Z="-0.177334"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="640" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="41" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\BahnhofKonstanz\BahnhofKonstanz.lod.ls3"/>
 <p X="-201.9804" Y="-108.2266" Z="398.0782"/>
 <phi Z="-0.177973"/>
@@ -528,7 +528,7 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\38cm_Beton_Asphalt-grau_Streifen.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="12" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="599" MeshI="2673">
+<SubSet Cd="00FFFFFF" TypLs3="12" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="599" MeshI="2655">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="Terrain\General\Water\river_10m_water01.dds"/>
@@ -880,6 +880,18 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="12" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="180" MeshI="792">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\river_10m_water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="5" MeshV="53" MeshI="153">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel02.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
