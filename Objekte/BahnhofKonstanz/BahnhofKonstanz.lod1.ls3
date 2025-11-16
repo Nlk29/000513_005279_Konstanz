@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-  <Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1"/>
-  <Landschaft>
-    <lsb Dateiname="BahnhofKonstanz.lod1.lsb"/>
-    <SubSet Cd="FFFFFFFF" MeshV="67" MeshI="135">
-      <RenderFlags TexVoreinstellung="1"/>
-    </SubSet>
-    <SubSet Cd="FFA3A3A3" MeshV="419" MeshI="747">
-      <RenderFlags TexVoreinstellung="1"/>
-      <Textur>
-        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\EG_Konstanz\texture24.jpg"/>
-      </Textur>
-    </SubSet>
-    <SubSet Cd="FFA3A3A3" MeshV="58" MeshI="108">
-      <RenderFlags TexVoreinstellung="1"/>
-      <Textur>
-        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\EG_Konstanz\texture25.jpg"/>
-      </Textur>
-    </SubSet>
-    <SubSet Cd="FF606060" MeshV="68" MeshI="168">
-      <RenderFlags TexVoreinstellung="1"/>
-    </SubSet>
-    <SubSet Cd="FFA3A3A3" MeshV="306" MeshI="690">
-      <RenderFlags TexVoreinstellung="1"/>
-      <Textur>
-        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\EG_Konstanz\texture7.jpg"/>
-      </Textur>
-    </SubSet>
-    <SubSet Cd="FFA3A3A3" MeshV="904" MeshI="1866">
-      <RenderFlags TexVoreinstellung="1"/>
-      <Textur>
-        <Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\EG_Konstanz\Atlas_00002.png"/>
-      </Textur>
-    </SubSet>
-  </Landschaft>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="BahnhofKonstanz.lod1.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="67" MeshI="135">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="419" MeshI="747">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000574_005801_Haemelerwald\Objekte\05_HPKE\Holzboden.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="58" MeshI="108">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000591_005806_Wipshausen\Objekte\06_Ersestrasse\ZiegelDunkelRot.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF606060" MeshV="68" MeshI="168">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="306" MeshI="690">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005359_Augsburg-Oberhausen\Objekte\MAOB_Schuhfabrik\MAOB_Schuhfabrik_Dach.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="904" MeshI="1866">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Bahnhof_Konstanz_lod1.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
 </Zusi>

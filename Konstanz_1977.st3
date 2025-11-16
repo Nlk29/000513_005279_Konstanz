@@ -1086,48 +1086,49 @@
 <NachNorm Nr="1465"/>
 <NachGegen Nr="1425"/>
 </StrElement>
-<StrElement Nr="50" spTrass="27.7778" Fkt="2">
-<g X="348.7813" Y="-662.5" Z="397.4103"/>
-<b X="350.0313" Y="-656" Z="397.3606"/>
+<StrElement Nr="50" spTrass="27.7778" Anschluss="256">
+<g X="348.7813" Y="-662.5" Z="397.8018"/>
+<b X="350.0313" Y="-656" Z="397.8018"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0066" pos="1"/>
 <NachNorm Nr="51"/>
+<NachGegen Nr="59"/>
 </StrElement>
-<StrElement Nr="51" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="350.0313" Y="-656" Z="397.3606"/>
-<b X="351.4063" Y="-649.5" Z="397.381"/>
+<StrElement Nr="51" spTrass="27.7778" Anschluss="256">
+<g X="350.0313" Y="-656" Z="397.8018"/>
+<b X="351.4063" Y="-649.5" Z="397.8018"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0066" pos="1"/>
 <NachNorm Nr="52"/>
 <NachGegen Nr="50"/>
 </StrElement>
-<StrElement Nr="52" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="351.4063" Y="-649.5" Z="397.381"/>
-<b X="352.875" Y="-643" Z="397.5125"/>
+<StrElement Nr="52" spTrass="27.7778" Anschluss="256">
+<g X="351.4063" Y="-649.5" Z="397.8018"/>
+<b X="352.875" Y="-643" Z="397.8018"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0067" pos="1"/>
 <NachNorm Nr="53"/>
 <NachGegen Nr="51"/>
 </StrElement>
-<StrElement Nr="53" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="352.875" Y="-643" Z="397.5125"/>
-<b X="354.5" Y="-636.5" Z="397.4025"/>
+<StrElement Nr="53" spTrass="27.7778" Anschluss="256">
+<g X="352.875" Y="-643" Z="397.8018"/>
+<b X="354.5" Y="-636.5" Z="397.8018"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0067" pos="1"/>
 <NachNorm Nr="54"/>
 <NachGegen Nr="52"/>
 </StrElement>
-<StrElement Nr="54" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="354.5" Y="-636.5" Z="397.4025"/>
-<b X="356.2188" Y="-630" Z="397.42"/>
+<StrElement Nr="54" spTrass="27.7778" Anschluss="256">
+<g X="354.5" Y="-636.5" Z="397.8018"/>
+<b X="356.2188" Y="-630" Z="397.8018"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0067" pos="1"/>
 <NachNorm Nr="55"/>
 <NachGegen Nr="53"/>
 </StrElement>
-<StrElement Nr="55" spTrass="27.7778" Anschluss="256" Fkt="2">
-<g X="356.2188" Y="-630" Z="397.42"/>
-<b X="358.0938" Y="-623.5" Z="397.51"/>
+<StrElement Nr="55" spTrass="27.7778" Anschluss="256">
+<g X="356.2188" Y="-630" Z="397.8018"/>
+<b X="358.0938" Y="-623.5" Z="397.8018"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0068" pos="1"/>
 <NachGegen Nr="54"/>
@@ -1161,6 +1162,7 @@
 <b X="348.8015" Y="-662.5063" Z="397.8018"/>
 <InfoNormRichtung vMax="11.1111" km="414.4212"/>
 <InfoGegenRichtung vMax="11.1111" km="414.3827" pos="1"/>
+<NachNorm Nr="50"/>
 <NachGegen Nr="1595"/>
 </StrElement>
 <StrElement Nr="60" spTrass="11.1111" Oberbau="Holz K-Oberbau">
@@ -7703,34 +7705,46 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0005" pos="1"/>
 </StrElement>
 <StrElement Nr="1025" spTrass="27.7778" Fkt="2">
-<g X="323.7188" Y="-815.5" Z="397.5316"/>
-<b X="317.8438" Y="-849" Z="397.6553"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.034" pos="1"/>
+<g X="323.7188" Y="-815.5" Z="398.5138"/>
+<b X="317.8438" Y="-849" Z="398.5138"/>
+<InfoNormRichtung vMax="27.7778">
+<Ereignis Er="1000011"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="27.7778" km="-0.034" pos="1">
+<Ereignis Er="1000009"/>
+</InfoGegenRichtung>
 </StrElement>
-<StrElement Nr="1026" spTrass="27.7778" Fkt="2">
-<g X="317.8438" Y="-849" Z="397.6553"/>
-<b X="328.25" Y="-850.5" Z="398.59"/>
+<StrElement Nr="1026" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="317.8438" Y="-849" Z="398.5138"/>
+<b X="328.25" Y="-850.5" Z="398.5138"/>
 <InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0105" pos="1"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0105" pos="1">
+<Ereignis Er="1000008"/>
+</InfoGegenRichtung>
+<NachGegen Nr="1025"/>
 </StrElement>
-<StrElement Nr="1027" spTrass="27.7778" Fkt="2">
-<g X="328.25" Y="-850.5" Z="398.59"/>
-<b X="330.8438" Y="-843" Z="398.6697"/>
+<StrElement Nr="1027" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="328.25" Y="-850.5" Z="398.5138"/>
+<b X="330.8438" Y="-843" Z="398.5138"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0079" pos="1"/>
+<NachGegen Nr="1026"/>
 </StrElement>
-<StrElement Nr="1028" spTrass="27.7778" Fkt="2">
-<g X="330.8125" Y="-843" Z="398.6656"/>
-<b X="332.4688" Y="-843" Z="398.7947"/>
+<StrElement Nr="1028" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="330.8125" Y="-843" Z="398.5138"/>
+<b X="332.4688" Y="-843" Z="398.5138"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachGegen Nr="1027"/>
 </StrElement>
-<StrElement Nr="1029" spTrass="27.7778" Fkt="2">
-<g X="332.4688" Y="-843" Z="398.7947"/>
-<b X="336.6042" Y="-817.5517" Z="397.9517"/>
-<InfoNormRichtung vMax="27.7778"/>
+<StrElement Nr="1029" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="332.4688" Y="-843" Z="398.5138"/>
+<b X="336.6042" Y="-817.5517" Z="398.5138"/>
+<InfoNormRichtung vMax="27.7778">
+<Ereignis Er="1000012"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.0258" pos="1"/>
+<NachGegen Nr="1028"/>
 </StrElement>
 <StrElement Nr="1030" spTrass="27.7778" Fkt="2">
 <g X="266.3125" Y="-895.5" Z="398.1281"/>
@@ -32004,7 +32018,7 @@
 <b X="265.59" Y="-1161.619" Z="401.0402"/>
 <InfoNormRichtung vMax="11.1111" km="414.8828" pos="1">
 <Ereignis Er="16"/>
-<Ereignis Er="1000027" Wert="608"/>
+<Ereignis Er="1000027" Wert="608" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="BÜ Bahnhof Büro" SignalTyp="14" BoundingR="1">
 <p X="265.61" Y="-1161.51" Z="401.04"/>
 <phi/>
@@ -32019,7 +32033,7 @@
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.8883">
-<Ereignis Er="1000027" Wert="607"/>
+<Ereignis Er="1000027" Wert="607" Beschr="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3"/>
 <Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="BÜ Bahnhof Büro" SignalTyp="14" BoundingR="1">
 <p X="265.61" Y="-1161.51" Z="401.04"/>
 <phi Z="3.141593"/>
@@ -54200,8 +54214,8 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0035" pos="1"/>
 </StrElement>
 <StrElement Nr="4254" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="285.0171" Y="-1118.906" Z="398.9662"/>
-<b X="288.4775" Y="-1118.381" Z="398.8948"/>
+<g X="285.0171" Y="-1118.9059" Z="398.9662"/>
+<b X="288.4775" Y="-1118.3809" Z="398.8948"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0035" pos="1"/>
 </StrElement>
@@ -54877,7 +54891,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54889,7 +54903,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54927,7 +54941,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54939,7 +54953,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55828,7 +55842,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55840,7 +55854,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55872,7 +55886,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55884,7 +55898,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
