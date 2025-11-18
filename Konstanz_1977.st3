@@ -2173,84 +2173,6 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0814" pos="1"/>
 </StrElement>
-<StrElement Nr="192" spTrass="27.7778" Fkt="2">
-<g X="356.5313" Y="-734.5" Z="397.8"/>
-<b X="288.25" Y="-722.5" Z="397.75"/>
-<InfoNormRichtung vMax="27.7778">
-<Signal NameBetriebsstelle="BÜ Hafenstraße" Stellwerk="BÜ Hafenstraße" Signalname="BÜ Hafenstraße" SignalTyp="4" BoundingR="10">
-<p X="340.7729" Y="-731.7304" Z="397.5037"/>
-<phi Z="2.967627"/>
-<SignalFrame>
-<p Y="-4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-4.25" Z="1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff/>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="-0.0693" pos="1">
-<Signal NameBetriebsstelle="BÜ Hafenstraße" Stellwerk="BÜ Hafenstraße" Signalname="BÜ Hafenstraße" SignalFlags="8" SignalTyp="4" BoundingR="10">
-<p X="288.25" Y="-722.5" Z="398.065"/>
-<phi Z="-0.173967"/>
-<KoppelSignal ReferenzNr="488">
-<Datei NurInfo="1"/>
-</KoppelSignal>
-<SignalFrame>
-<p Y="-4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="-4.25" Z="1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff/>
-<HsigBegriff HsigGeschw="-1"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
-</Signal>
-</InfoGegenRichtung>
-<NachNorm Nr="4338"/>
-</StrElement>
 <StrElement Nr="193" spTrass="27.7778" Fkt="2">
 <g X="325.7813" Y="-597" Z="397.52"/>
 <b X="308.6563" Y="-594" Z="398.3603"/>
@@ -7301,6 +7223,7 @@
 <b X="361.0313" Y="-707.5" Z="397.4489"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0517" pos="1"/>
+<NachNorm Nr="4358"/>
 <NachGegen Nr="944"/>
 </StrElement>
 <StrElement Nr="946" spTrass="27.7778" Anschluss="256" Fkt="2">
@@ -7365,18 +7288,18 @@
 <NachGegen Nr="953"/>
 </StrElement>
 <StrElement Nr="955" spTrass="27.7778" Fkt="2">
-<g X="406.0938" Y="-415.5" Z="397.4922"/>
-<b X="395.375" Y="-475.5" Z="397.4356"/>
+<g X="406.0938" Y="-415.5" Z="397.7481"/>
+<b X="395.375" Y="-475.5" Z="397.7481"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0609" pos="1"/>
 <NachNorm Nr="956"/>
 </StrElement>
 <StrElement Nr="956" spTrass="27.7778" Anschluss="257" Fkt="2">
-<g X="395.375" Y="-475.5" Z="397.4356"/>
-<b X="384.6875" Y="-536" Z="397.4163"/>
+<g X="395.375" Y="-475.5" Z="397.7481"/>
+<b X="384.6875" Y="-536" Z="397.7481"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0614" pos="1"/>
-<NachNorm Nr="976"/>
+<NachNorm Nr="4362"/>
 <NachGegen Nr="955"/>
 </StrElement>
 <StrElement Nr="957" spTrass="27.7778" Fkt="2">
@@ -7512,12 +7435,12 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0035" pos="1"/>
 <NachGegen Nr="974"/>
 </StrElement>
-<StrElement Nr="976" spTrass="27.7778" Anschluss="1" Fkt="2">
-<g X="384.1875" Y="-539" Z="397.4262"/>
-<b X="384.6875" Y="-536" Z="397.4163"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.003" pos="1"/>
-<NachNorm Nr="956"/>
+<StrElement Nr="976" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="377.118" Y="-608.8024" Z="397.4489"/>
+<b X="379.1863" Y="-588.9099" Z="397.5307"/>
+<InfoGegenRichtung vMax="27.7778" km="0.0502" pos="1"/>
+<NachNorm Nr="4361"/>
+<NachGegen Nr="4360"/>
 </StrElement>
 <StrElement Nr="977" spTrass="27.7778" Fkt="2">
 <g X="374.4063" Y="-468.5" Z="398.67"/>
@@ -16506,7 +16429,12 @@
 <StrElement Nr="1505" kr="-0.006667" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="353.7408" Y="-624.2132" Z="397.7885"/>
 <b X="355.401" Y="-619.8707" Z="397.787"/>
-<InfoNormRichtung vMax="11.1111" km="414.3442"/>
+<InfoNormRichtung vMax="11.1111" km="414.3442">
+<Signal BoundingR="10">
+<p X="355.401" Y="-619.8707" Z="397.787"/>
+<phi Z="1.205629"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.3396" pos="1"/>
 <NachNorm Nr="1506"/>
 <NachGegen Nr="1504"/>
@@ -54890,7 +54818,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54902,7 +54830,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54940,7 +54868,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54952,7 +54880,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55806,7 +55734,7 @@
 <g X="288.25" Y="-722.5" Z="397.75"/>
 <b X="260.6731" Y="-717.6535" Z="398.2217"/>
 <NachNorm Nr="4339"/>
-<NachGegen Nr="192"/>
+<NachGegen Nr="4357"/>
 </StrElement>
 <StrElement Nr="4340" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="300.7813" Y="-1083" Z="400.35"/>
@@ -55841,7 +55769,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55853,7 +55781,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55885,7 +55813,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55897,7 +55825,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -56069,6 +55997,84 @@
 </Signal>
 </InfoGegenRichtung>
 <NachGegen Nr="3265"/>
+</StrElement>
+<StrElement Nr="4356" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="349.637" Y="-733.2884" Z="397.795"/>
+<b X="339.7879" Y="-731.5575" Z="397.7878"/>
+<NachNorm Nr="4357"/>
+<NachGegen Nr="192"/>
+</StrElement>
+<StrElement Nr="4357" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="339.7879" Y="-731.5575" Z="397.7878"/>
+<b X="288.25" Y="-722.5" Z="397.75"/>
+<InfoNormRichtung vMax="27.7778">
+<Signal NameBetriebsstelle="BÜ Hafenstraße" Stellwerk="BÜ Hafenstraße" Signalname="BÜ Hafenstraße" SignalTyp="4" BoundingR="10">
+<p X="340.7729" Y="-731.7304" Z="397.5037"/>
+<phi Z="2.967627"/>
+<SignalFrame>
+<p Y="-4.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_rechts.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="4.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Aufschlaggabel.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-4.25" Z="1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-1" Y="-4.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff/>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+</Signal>
+</InfoNormRichtung>
+<NachNorm Nr="4338"/>
+<NachGegen Nr="4356"/>
+</StrElement>
+<StrElement Nr="4358" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="361.0313" Y="-707.5" Z="397.4489"/>
+<b X="369.0747" Y="-658.1512" Z="397.4489"/>
+<NachNorm Nr="4359"/>
+<NachGegen Nr="945"/>
+</StrElement>
+<StrElement Nr="4359" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="369.0747" Y="-658.1512" Z="397.4489"/>
+<b X="373.9007" Y="-628.5419" Z="397.4489"/>
+<NachNorm Nr="4360"/>
+<NachGegen Nr="4358"/>
+</StrElement>
+<StrElement Nr="4360" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="373.9007" Y="-628.5419" Z="397.4489"/>
+<b X="377.118" Y="-608.8024" Z="397.4489"/>
+<NachNorm Nr="976"/>
+<NachGegen Nr="4359"/>
+</StrElement>
+<StrElement Nr="4361" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="379.1863" Y="-588.9099" Z="397.5307"/>
+<b X="381.9369" Y="-562.4549" Z="397.6394"/>
+<NachNorm Nr="4362"/>
+<NachGegen Nr="976"/>
+</StrElement>
+<StrElement Nr="4362" spTrass="27.7778" Anschluss="257" Fkt="2">
+<g X="381.9369" Y="-562.4549" Z="397.6394"/>
+<b X="384.6875" Y="-536" Z="397.7481"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="956"/>
+<NachGegen Nr="4361"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="782.0208">
 <FahrstrStart Ref="10">
