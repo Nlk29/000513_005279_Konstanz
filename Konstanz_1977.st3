@@ -16430,9 +16430,38 @@
 <g X="353.7408" Y="-624.2132" Z="397.7885"/>
 <b X="355.401" Y="-619.8707" Z="397.787"/>
 <InfoNormRichtung vMax="11.1111" km="414.3442">
-<Signal BoundingR="10">
-<p X="355.401" Y="-619.8707" Z="397.787"/>
+<Signal SignalTyp="1" BoundingR="10">
+<p X="358.2966" Y="-620.9778" Z="399.537"/>
 <phi Z="1.205629"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Laeute_und_Pfeiftafeln\LP_3-Tafel_ws.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="-0.475"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf4_Tafel_700x600.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="-0.475"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer-Lf4_70x60\Lf4_70x60-1.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="15" MatrixGeschw="-1">
+<Ereignis Er="30"/>
+</MatrixEintrag>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.3396" pos="1"/>
@@ -16571,7 +16600,41 @@
 <g X="398.7286" Y="-559.2177" Z="397.7638"/>
 <b X="402.4233" Y="-556.376" Z="397.7626"/>
 <InfoNormRichtung vMax="11.1111" km="414.2724"/>
-<InfoGegenRichtung vMax="11.1111" km="414.2677" pos="1"/>
+<InfoGegenRichtung vMax="11.1111" km="414.2677" pos="1">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="396.8387" Y="-556.7605" Z="399.5138"/>
+<phi Z="-2.485955"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Laeute_und_Pfeiftafeln\LP_3-Tafel_ws.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="-0.475"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Lf4_Tafel_700x600.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="-0.475"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Langsamfahrsignale\Ziffer-Lf4_70x60\Lf4_70x60-1.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="15" MatrixGeschw="-1">
+<Ereignis Er="30"/>
+</MatrixEintrag>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="1523"/>
 <NachGegen Nr="1521"/>
 </StrElement>
@@ -47919,55 +47982,15 @@
 <b X="391.5166" Y="-624.7811" Z="397.7864"/>
 <InfoNormRichtung vMax="11.1111" km="414.3887"/>
 <InfoGegenRichtung vMax="11.1111" km="414.3381" pos="1"/>
-<NachNorm Nr="3359"/>
+<NachNorm Nr="3364"/>
 <NachGegen Nr="3357"/>
 </StrElement>
-<StrElement Nr="3359" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
-<g X="391.5166" Y="-624.7811" Z="397.7864"/>
-<b X="392.0758" Y="-621.6016" Z="397.7853"/>
-<InfoNormRichtung vMax="11.1111" km="414.3381"/>
-<InfoGegenRichtung vMax="11.1111" km="414.3349" pos="1"/>
-<NachNorm Nr="3360"/>
-<NachGegen Nr="3358"/>
-</StrElement>
-<StrElement Nr="3360" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
-<g X="392.0758" Y="-621.6016" Z="397.7853"/>
-<b X="392.6351" Y="-618.4222" Z="397.7842"/>
-<InfoNormRichtung vMax="11.1111" km="414.3349"/>
-<InfoGegenRichtung vMax="11.1111" km="414.3317" pos="1"/>
-<NachNorm Nr="3361"/>
-<NachGegen Nr="3359"/>
-</StrElement>
-<StrElement Nr="3361" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
-<g X="392.6351" Y="-618.4222" Z="397.7842"/>
-<b X="393.1944" Y="-615.2426" Z="397.7831"/>
-<InfoNormRichtung vMax="11.1111" km="414.3317"/>
-<InfoGegenRichtung vMax="11.1111" km="414.3285" pos="1"/>
-<NachNorm Nr="3362"/>
-<NachGegen Nr="3360"/>
-</StrElement>
-<StrElement Nr="3362" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
-<g X="393.1944" Y="-615.2426" Z="397.7831"/>
-<b X="393.7537" Y="-612.0631" Z="397.782"/>
-<InfoNormRichtung vMax="11.1111" km="414.3285"/>
-<InfoGegenRichtung vMax="11.1111" km="414.3252" pos="1"/>
-<NachNorm Nr="3363"/>
-<NachGegen Nr="3361"/>
-</StrElement>
-<StrElement Nr="3363" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
-<g X="393.7537" Y="-612.0631" Z="397.782"/>
-<b X="394.313" Y="-608.8837" Z="397.7809"/>
-<InfoNormRichtung vMax="11.1111" km="414.3252"/>
-<InfoGegenRichtung vMax="11.1111" km="414.322" pos="1"/>
-<NachNorm Nr="3364"/>
-<NachGegen Nr="3362"/>
-</StrElement>
 <StrElement Nr="3364" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau">
-<g X="394.313" Y="-608.8837" Z="397.7809"/>
+<g X="391.5166" Y="-624.7811" Z="397.7864"/>
 <b X="394.4653" Y="-608.0175" Z="397.7806"/>
 <InfoNormRichtung vMax="11.1111" km="414.322"/>
 <InfoGegenRichtung vMax="11.1111" km="414.3211" pos="1"/>
-<NachGegen Nr="3363"/>
+<NachGegen Nr="3358"/>
 </StrElement>
 <StrElement Nr="3365" spTrass="11.1111" Oberbau="Holz K-Oberbau">
 <g X="353.8643" Y="-1274.785" Z="401.754"/>
@@ -51965,12 +51988,13 @@
 <NachNorm Nr="3938"/>
 <NachGegen Nr="3936"/>
 </StrElement>
-<StrElement Nr="3938" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<StrElement Nr="3938" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="380.0105" Y="-714.4377" Z="395.23"/>
 <b X="414.7539" Y="-720.5929" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0353" pos="1"/>
 <NachNorm Nr="3939"/>
+<NachGegen Nr="3937"/>
 </StrElement>
 <StrElement Nr="3939" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="414.7539" Y="-720.5929" Z="395.23"/>
