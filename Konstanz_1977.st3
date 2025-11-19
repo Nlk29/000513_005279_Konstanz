@@ -621,7 +621,7 @@
 <ReferenzElemente ReferenzNr="606" StrElement="2410" StrNorm="1" RefTyp="4" Info="Sicherungsanlage Bü km 414,883 (Slave)"/>
 <ReferenzElemente ReferenzNr="607" StrElement="2406" RefTyp="4" Info="Bü km 414,883"/>
 <ReferenzElemente ReferenzNr="608" StrElement="2406" StrNorm="1" RefTyp="4" Info="Bü km 414,883"/>
-<StrElement Nr="1" spTrass="16.6667" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="339.5313" Y="-64.5" Z="399.4959"/>
 <b X="345.0313" Y="-113.5" Z="399.1725"/>
 <InfoNormRichtung vMax="16.6667" km="413.788" pos="1"/>
@@ -629,7 +629,7 @@
 <NachNorm Nr="1118"/>
 <NachGegen Nr="1096"/>
 </StrElement>
-<StrElement Nr="2" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="2" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="352.5938" Y="-189" Z="398.675"/>
 <b X="354.1094" Y="-206.5" Z="398.5598"/>
 <InfoGegenRichtung vMax="16.6667" km="413.9274"/>
@@ -8034,7 +8034,7 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0562" pos="1"/>
 <NachGegen Nr="1068"/>
 </StrElement>
-<StrElement Nr="1070" Ueberh="-0.0035" kr="0.000307" spTrass="16.6667" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1070" Ueberh="-0.0035" kr="0.000307" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="383.7589" Y="165.569" Z="401.7143"/>
 <b X="380.4778" Y="160.3863" Z="401.6587"/>
 <InfoNormRichtung vMax="16.6667" km="413.4718" pos="1"/>
@@ -8046,7 +8046,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
 </NachGegenModul>
 </StrElement>
-<StrElement Nr="1071" Ueberh="-0.0105" kr="0.000922" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1071" Ueberh="-0.0105" kr="0.000922" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="380.4779" Y="160.3863" Z="401.6588"/>
 <b X="377.2163" Y="155.1913" Z="401.6042"/>
 <InfoNormRichtung vMax="16.6667" km="413.4887" pos="1"/>
@@ -8054,7 +8054,7 @@
 <NachNorm Nr="1072"/>
 <NachGegen Nr="1070"/>
 </StrElement>
-<StrElement Nr="1072" Ueberh="-0.0175" kr="0.001537" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1072" Ueberh="-0.0175" kr="0.001537" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="377.2163" Y="155.1913" Z="401.6042"/>
 <b X="373.994" Y="149.9719" Z="401.5478"/>
 <InfoNormRichtung vMax="16.6667" km="413.5054" pos="1"/>
@@ -8062,7 +8062,7 @@
 <NachNorm Nr="1073"/>
 <NachGegen Nr="1071"/>
 </StrElement>
-<StrElement Nr="1073" Ueberh="-0.0244" kr="0.002151" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1073" Ueberh="-0.0244" kr="0.002151" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="373.994" Y="149.9719" Z="401.5478"/>
 <b X="370.831" Y="144.7164" Z="401.4936"/>
 <InfoNormRichtung vMax="16.6667" km="413.5226" pos="1"/>
@@ -8070,7 +8070,7 @@
 <NachNorm Nr="1074"/>
 <NachGegen Nr="1072"/>
 </StrElement>
-<StrElement Nr="1074" Ueberh="-0.0314" kr="0.002766" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1074" Ueberh="-0.0314" kr="0.002766" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="370.831" Y="144.7164" Z="401.4936"/>
 <b X="367.7476" Y="139.4138" Z="401.438"/>
 <InfoNormRichtung vMax="16.6667" km="413.539" pos="1"/>
@@ -8078,7 +8078,7 @@
 <NachNorm Nr="1075"/>
 <NachGegen Nr="1073"/>
 </StrElement>
-<StrElement Nr="1075" Ueberh="-0.0352" kr="0.003099" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1075" Ueberh="-0.0352" kr="0.003099" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="367.7476" Y="139.4138" Z="401.438"/>
 <b X="367.488" Y="138.9573" Z="401.4321"/>
 <InfoNormRichtung vMax="16.6667" km="413.5559" pos="1"/>
@@ -8086,7 +8086,7 @@
 <NachNorm Nr="1076"/>
 <NachGegen Nr="1074"/>
 </StrElement>
-<StrElement Nr="1076" Ueberh="-0.0371" kr="0.00327" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1076" Ueberh="-0.0371" kr="0.00327" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="367.488" Y="138.9573" Z="401.4321"/>
 <b X="366.0818" Y="136.4531" Z="401.4058"/>
 <InfoNormRichtung vMax="16.6667" km="413.5576" pos="1"/>
@@ -8094,7 +8094,7 @@
 <NachNorm Nr="1077"/>
 <NachGegen Nr="1075"/>
 </StrElement>
-<StrElement Nr="1077" Ueberh="-0.0403" kr="0.003551" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1077" Ueberh="-0.0403" kr="0.003551" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="366.0818" Y="136.4531" Z="401.4058"/>
 <b X="364.7647" Y="134.0541" Z="401.3781"/>
 <InfoNormRichtung vMax="16.6667" km="413.5653" pos="1"/>
@@ -8102,7 +8102,7 @@
 <NachNorm Nr="1078"/>
 <NachGegen Nr="1076"/>
 </StrElement>
-<StrElement Nr="1078" Ueberh="-0.0436" kr="0.003838" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1078" Ueberh="-0.0436" kr="0.003838" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="364.7647" Y="134.0541" Z="401.3781"/>
 <b X="363.3456" Y="131.403" Z="401.3467"/>
 <InfoNormRichtung vMax="16.6667" km="413.5729" pos="1"/>
@@ -8110,7 +8110,7 @@
 <NachNorm Nr="1079"/>
 <NachGegen Nr="1077"/>
 </StrElement>
-<StrElement Nr="1079" Ueberh="-0.0471" kr="0.004146" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1079" Ueberh="-0.0471" kr="0.004146" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="363.3456" Y="131.403" Z="401.3467"/>
 <b X="361.9038" Y="128.6283" Z="401.3129"/>
 <InfoNormRichtung vMax="16.6667" km="413.5811" pos="1"/>
@@ -8118,7 +8118,7 @@
 <NachNorm Nr="1080"/>
 <NachGegen Nr="1078"/>
 </StrElement>
-<StrElement Nr="1080" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1080" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="361.904" Y="128.6282" Z="401.3129"/>
 <b X="359.0012" Y="122.7678" Z="401.2386"/>
 <InfoNormRichtung vMax="16.6667" km="413.5895" pos="1"/>
@@ -8126,7 +8126,7 @@
 <NachNorm Nr="1081"/>
 <NachGegen Nr="1079"/>
 </StrElement>
-<StrElement Nr="1081" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1081" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="359.0012" Y="122.7678" Z="401.2386"/>
 <b X="356.249" Y="116.8351" Z="401.1643"/>
 <InfoNormRichtung vMax="16.6667" km="413.596" pos="1"/>
@@ -8134,7 +8134,7 @@
 <NachNorm Nr="1082"/>
 <NachGegen Nr="1080"/>
 </StrElement>
-<StrElement Nr="1082" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1082" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="356.249" Y="116.8351" Z="401.1643"/>
 <b X="353.6491" Y="110.8341" Z="401.0899"/>
 <InfoNormRichtung vMax="16.6667" km="413.6025" pos="1"/>
@@ -8142,7 +8142,7 @@
 <NachNorm Nr="1083"/>
 <NachGegen Nr="1081"/>
 </StrElement>
-<StrElement Nr="1083" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1083" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="353.6491" Y="110.8341" Z="401.0899"/>
 <b X="351.2032" Y="104.7688" Z="401.0156"/>
 <InfoNormRichtung vMax="16.6667" km="413.609" pos="1"/>
@@ -8150,7 +8150,7 @@
 <NachNorm Nr="1084"/>
 <NachGegen Nr="1082"/>
 </StrElement>
-<StrElement Nr="1084" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1084" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="351.2032" Y="104.7688" Z="401.0156"/>
 <b X="348.913" Y="98.6429" Z="400.9413"/>
 <InfoNormRichtung vMax="16.6667" km="413.6155" pos="1"/>
@@ -8158,7 +8158,7 @@
 <NachNorm Nr="1085"/>
 <NachGegen Nr="1083"/>
 </StrElement>
-<StrElement Nr="1085" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1085" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="348.913" Y="98.6429" Z="400.9413"/>
 <b X="346.7798" Y="92.4606" Z="400.8669"/>
 <InfoNormRichtung vMax="16.6667" km="413.622" pos="1"/>
@@ -8166,7 +8166,7 @@
 <NachNorm Nr="1086"/>
 <NachGegen Nr="1084"/>
 </StrElement>
-<StrElement Nr="1086" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1086" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="346.7798" Y="92.4606" Z="400.8669"/>
 <b X="344.8053" Y="86.2258" Z="400.7926"/>
 <InfoNormRichtung vMax="16.6667" km="413.6285" pos="1"/>
@@ -8174,7 +8174,7 @@
 <NachNorm Nr="1087"/>
 <NachGegen Nr="1085"/>
 </StrElement>
-<StrElement Nr="1087" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1087" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="344.8053" Y="86.2258" Z="400.7926"/>
 <b X="342.9905" Y="79.9427" Z="400.7183"/>
 <InfoNormRichtung vMax="16.6667" km="413.635" pos="1"/>
@@ -8182,7 +8182,7 @@
 <NachNorm Nr="1088"/>
 <NachGegen Nr="1086"/>
 </StrElement>
-<StrElement Nr="1088" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1088" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="342.9905" Y="79.9427" Z="400.7183"/>
 <b X="341.3367" Y="73.6153" Z="400.6439"/>
 <InfoNormRichtung vMax="16.6667" km="413.6415" pos="1"/>
@@ -8190,7 +8190,7 @@
 <NachNorm Nr="1089"/>
 <NachGegen Nr="1087"/>
 </StrElement>
-<StrElement Nr="1089" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1089" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="341.3367" Y="73.6153" Z="400.6439"/>
 <b X="339.8449" Y="67.2477" Z="400.5696"/>
 <InfoNormRichtung vMax="16.6667" km="413.648" pos="1" Reg="5006">
@@ -8920,7 +8920,7 @@
 <NachNorm Nr="1090"/>
 <NachGegen Nr="1088"/>
 </StrElement>
-<StrElement Nr="1090" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1090" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="339.8449" Y="67.2477" Z="400.5696"/>
 <b X="338.5162" Y="60.8441" Z="400.4952"/>
 <InfoNormRichtung vMax="16.6667" km="413.6545" pos="1"/>
@@ -8928,7 +8928,7 @@
 <NachNorm Nr="1091"/>
 <NachGegen Nr="1089"/>
 </StrElement>
-<StrElement Nr="1091" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1091" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="338.5162" Y="60.8441" Z="400.4952"/>
 <b X="337.3514" Y="54.4087" Z="400.4209"/>
 <InfoNormRichtung vMax="16.6667" km="413.661" pos="1"/>
@@ -8936,7 +8936,7 @@
 <NachNorm Nr="1092"/>
 <NachGegen Nr="1090"/>
 </StrElement>
-<StrElement Nr="1092" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1092" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="337.3514" Y="54.4087" Z="400.4209"/>
 <b X="336.3513" Y="47.9457" Z="400.3466"/>
 <InfoNormRichtung vMax="16.6667" km="413.6675" pos="1"/>
@@ -8944,7 +8944,7 @@
 <NachNorm Nr="1093"/>
 <NachGegen Nr="1091"/>
 </StrElement>
-<StrElement Nr="1093" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1093" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="336.3513" Y="47.9457" Z="400.3466"/>
 <b X="335.5164" Y="41.4592" Z="400.2722"/>
 <InfoNormRichtung vMax="16.6667" km="413.674" pos="1"/>
@@ -8952,7 +8952,7 @@
 <NachNorm Nr="1094"/>
 <NachGegen Nr="1092"/>
 </StrElement>
-<StrElement Nr="1094" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1094" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="335.5164" Y="41.4592" Z="400.2722"/>
 <b X="334.9833" Y="36.4163" Z="400.2149"/>
 <InfoNormRichtung vMax="16.6667" km="413.6805" pos="1"/>
@@ -8960,7 +8960,7 @@
 <NachNorm Nr="1095"/>
 <NachGegen Nr="1093"/>
 </StrElement>
-<StrElement Nr="1095" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1095" Ueberh="-0.0489" kr="0.003904" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.9833" Y="36.4163" Z="400.2149"/>
 <b X="334.8475" Y="34.9536" Z="400.1988"/>
 <InfoNormRichtung vMax="16.6667" km="413.6855" pos="1"/>
@@ -8968,7 +8968,7 @@
 <NachNorm Nr="1117"/>
 <NachGegen Nr="1094"/>
 </StrElement>
-<StrElement Nr="1096" Ueberh="0.0003" kr="-0.000022" spTrass="16.6667" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1096" Ueberh="0.0003" kr="-0.000022" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="339.5313" Y="-64.5" Z="399.4959"/>
 <b X="339.4048" Y="-63.373" Z="399.5036"/>
 <InfoNormRichtung vMax="16.6667" km="413.788"/>
@@ -8976,7 +8976,7 @@
 <NachNorm Nr="1097"/>
 <NachGegen Nr="1"/>
 </StrElement>
-<StrElement Nr="1097" Ueberh="0.0014" kr="-0.00011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1097" Ueberh="0.0014" kr="-0.00011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="339.4048" Y="-63.373" Z="399.5036"/>
 <b X="339.0296" Y="-60.0248" Z="399.5251"/>
 <InfoNormRichtung vMax="16.6667" km="413.7868"/>
@@ -8984,7 +8984,7 @@
 <NachNorm Nr="1098"/>
 <NachGegen Nr="1096"/>
 </StrElement>
-<StrElement Nr="1098" Ueberh="0.0027" kr="-0.000218" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1098" Ueberh="0.0027" kr="-0.000218" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="339.0296" Y="-60.0248" Z="399.5251"/>
 <b X="338.7916" Y="-57.8924" Z="399.5404"/>
 <InfoNormRichtung vMax="16.6667" km="413.7835"/>
@@ -8992,7 +8992,7 @@
 <NachNorm Nr="1099"/>
 <NachGegen Nr="1097"/>
 </StrElement>
-<StrElement Nr="1099" Ueberh="0.0036" kr="-0.000284" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1099" Ueberh="0.0036" kr="-0.000284" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="338.7916" Y="-57.8924" Z="399.5404"/>
 <b X="338.6563" Y="-56.6763" Z="399.5474"/>
 <InfoNormRichtung vMax="16.6667" km="413.7811"/>
@@ -9000,7 +9000,7 @@
 <NachNorm Nr="1100"/>
 <NachGegen Nr="1098"/>
 </StrElement>
-<StrElement Nr="1100" Ueberh="0.0047" kr="-0.000373" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1100" Ueberh="0.0047" kr="-0.000373" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="338.6563" Y="-56.6763" Z="399.5474"/>
 <b X="338.2866" Y="-53.3275" Z="399.5704"/>
 <InfoNormRichtung vMax="16.6667" km="413.7801"/>
@@ -9008,7 +9008,7 @@
 <NachNorm Nr="1101"/>
 <NachGegen Nr="1099"/>
 </StrElement>
-<StrElement Nr="1101" Ueberh="0.006" kr="-0.000479" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1101" Ueberh="0.006" kr="-0.000479" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="338.2866" Y="-53.3275" Z="399.5704"/>
 <b X="338.0633" Y="-51.2836" Z="399.5835"/>
 <InfoNormRichtung vMax="16.6667" km="413.7765"/>
@@ -9016,7 +9016,7 @@
 <NachNorm Nr="1102"/>
 <NachGegen Nr="1100"/>
 </StrElement>
-<StrElement Nr="1102" Ueberh="0.0068" kr="-0.000545" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1102" Ueberh="0.0068" kr="-0.000545" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="338.0633" Y="-51.2836" Z="399.5835"/>
 <b X="337.9218" Y="-49.9781" Z="399.5927"/>
 <InfoNormRichtung vMax="16.6667" km="413.7745"/>
@@ -9024,7 +9024,7 @@
 <NachNorm Nr="1103"/>
 <NachGegen Nr="1101"/>
 </StrElement>
-<StrElement Nr="1103" Ueberh="0.008" kr="-0.000637" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1103" Ueberh="0.008" kr="-0.000637" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="337.9218" Y="-49.9781" Z="399.5927"/>
 <b X="337.5634" Y="-46.628" Z="399.6142"/>
 <InfoNormRichtung vMax="16.6667" km="413.7731"/>
@@ -9032,7 +9032,7 @@
 <NachNorm Nr="1104"/>
 <NachGegen Nr="1102"/>
 </StrElement>
-<StrElement Nr="1104" Ueberh="0.0093" kr="-0.000741" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1104" Ueberh="0.0093" kr="-0.000741" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="337.5634" Y="-46.628" Z="399.6142"/>
 <b X="337.3578" Y="-44.6723" Z="399.6273"/>
 <InfoNormRichtung vMax="16.6667" km="413.7697"/>
@@ -9040,7 +9040,7 @@
 <NachNorm Nr="1105"/>
 <NachGegen Nr="1103"/>
 </StrElement>
-<StrElement Nr="1105" Ueberh="0.0101" kr="-0.000807" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1105" Ueberh="0.0101" kr="-0.000807" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="337.3578" Y="-44.6723" Z="399.6273"/>
 <b X="337.2129" Y="-43.277" Z="399.6361"/>
 <InfoNormRichtung vMax="16.6667" km="413.7677"/>
@@ -9048,7 +9048,7 @@
 <NachNorm Nr="1106"/>
 <NachGegen Nr="1104"/>
 </StrElement>
-<StrElement Nr="1106" Ueberh="0.0117" kr="-0.000937" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1106" Ueberh="0.0117" kr="-0.000937" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="337.2129" Y="-43.277" Z="399.6361"/>
 <b X="336.6866" Y="-38.0574" Z="399.6718"/>
 <InfoNormRichtung vMax="16.6667" km="413.7664"/>
@@ -9056,7 +9056,7 @@
 <NachNorm Nr="1107"/>
 <NachGegen Nr="1105"/>
 </StrElement>
-<StrElement Nr="1107" Ueberh="0.0147" kr="-0.001169" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1107" Ueberh="0.0147" kr="-0.001169" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="336.6866" Y="-38.0574" Z="399.6718"/>
 <b X="336.0611" Y="-31.4381" Z="399.7149"/>
 <InfoNormRichtung vMax="16.6667" km="413.7609">
@@ -9146,7 +9146,7 @@
 <NachNorm Nr="1108"/>
 <NachGegen Nr="1106"/>
 </StrElement>
-<StrElement Nr="1108" Ueberh="0.0179" kr="-0.001429" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1108" Ueberh="0.0179" kr="-0.001429" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="336.0611" Y="-31.4381" Z="399.7149"/>
 <b X="335.4928" Y="-24.8136" Z="399.7587"/>
 <InfoNormRichtung vMax="16.6667" km="413.7542"/>
@@ -9154,7 +9154,7 @@
 <NachNorm Nr="1109"/>
 <NachGegen Nr="1107"/>
 </StrElement>
-<StrElement Nr="1109" Ueberh="0.0212" kr="-0.001689" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1109" Ueberh="0.0212" kr="-0.001689" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="335.4928" Y="-24.8136" Z="399.7587"/>
 <b X="334.9932" Y="-18.1836" Z="399.8031"/>
 <InfoNormRichtung vMax="16.6667" km="413.7475"/>
@@ -9162,7 +9162,7 @@
 <NachNorm Nr="1110"/>
 <NachGegen Nr="1108"/>
 </StrElement>
-<StrElement Nr="1110" Ueberh="0.0244" kr="-0.001949" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1110" Ueberh="0.0244" kr="-0.001949" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.9932" Y="-18.1836" Z="399.8031"/>
 <b X="334.5738" Y="-11.5481" Z="399.8463"/>
 <InfoNormRichtung vMax="16.6667" km="413.7407"/>
@@ -9170,7 +9170,7 @@
 <NachNorm Nr="1111"/>
 <NachGegen Nr="1109"/>
 </StrElement>
-<StrElement Nr="1111" Ueberh="0.0277" kr="-0.002208" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1111" Ueberh="0.0277" kr="-0.002208" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.5738" Y="-11.5481" Z="399.8463"/>
 <b X="334.2462" Y="-4.9074" Z="399.89"/>
 <InfoNormRichtung vMax="16.6667" km="413.734"/>
@@ -9178,7 +9178,7 @@
 <NachNorm Nr="1112"/>
 <NachGegen Nr="1110"/>
 </StrElement>
-<StrElement Nr="1112" Ueberh="0.031" kr="-0.002468" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1112" Ueberh="0.031" kr="-0.002468" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.2462" Y="-4.9074" Z="399.89"/>
 <b X="334.0218" Y="1.7376" Z="399.9345"/>
 <InfoNormRichtung vMax="16.6667" km="413.7273"/>
@@ -9186,7 +9186,7 @@
 <NachNorm Nr="1113"/>
 <NachGegen Nr="1111"/>
 </StrElement>
-<StrElement Nr="1113" Ueberh="0.0342" kr="-0.002728" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1113" Ueberh="0.0342" kr="-0.002728" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.0218" Y="1.7376" Z="399.9345"/>
 <b X="333.9123" Y="8.3855" Z="399.9776"/>
 <InfoNormRichtung vMax="16.6667" km="413.7205"/>
@@ -9194,7 +9194,7 @@
 <NachNorm Nr="1114"/>
 <NachGegen Nr="1112"/>
 </StrElement>
-<StrElement Nr="1114" Ueberh="0.0375" kr="-0.002988" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1114" Ueberh="0.0375" kr="-0.002988" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="333.9123" Y="8.3855" Z="399.9776"/>
 <b X="333.9291" Y="15.0342" Z="400.0219"/>
 <InfoNormRichtung vMax="16.6667" km="413.7139">
@@ -9230,7 +9230,7 @@
 <NachNorm Nr="1115"/>
 <NachGegen Nr="1113"/>
 </StrElement>
-<StrElement Nr="1115" Ueberh="0.0407" kr="-0.003248" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1115" Ueberh="0.0407" kr="-0.003248" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="333.9291" Y="15.0342" Z="400.0219"/>
 <b X="334.0837" Y="21.6811" Z="400.0728"/>
 <InfoNormRichtung vMax="16.6667" km="413.7072"/>
@@ -9238,7 +9238,7 @@
 <NachNorm Nr="1116"/>
 <NachGegen Nr="1114"/>
 </StrElement>
-<StrElement Nr="1116" Ueberh="0.044" kr="-0.003508" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1116" Ueberh="0.044" kr="-0.003508" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.0837" Y="21.6811" Z="400.0728"/>
 <b X="334.3875" Y="28.3228" Z="400.1311"/>
 <InfoNormRichtung vMax="16.6667" km="413.7003"/>
@@ -9246,7 +9246,7 @@
 <NachNorm Nr="1117"/>
 <NachGegen Nr="1115"/>
 </StrElement>
-<StrElement Nr="1117" Ueberh="0.0472" kr="-0.003767" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1117" Ueberh="0.0472" kr="-0.003767" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.3875" Y="28.3228" Z="400.1311"/>
 <b X="334.8519" Y="34.9552" Z="400.1988"/>
 <InfoNormRichtung vMax="16.6667" km="413.6937"/>
@@ -9254,7 +9254,7 @@
 <NachNorm Nr="1095"/>
 <NachGegen Nr="1116"/>
 </StrElement>
-<StrElement Nr="1118" kr="-0.000333" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1118" kr="-0.000333" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="345.0318" Y="-113.5001" Z="399.1725"/>
 <b X="347.0881" Y="-132.358" Z="399.0481"/>
 <InfoNormRichtung vMax="16.6667" km="7413.8149"/>
@@ -9262,7 +9262,7 @@
 <NachNorm Nr="1119"/>
 <NachGegen Nr="1"/>
 </StrElement>
-<StrElement Nr="1119" kr="-0.000333" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1119" kr="-0.000333" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="347.0881" Y="-132.358" Z="399.0481"/>
 <b X="349.0252" Y="-151.2285" Z="398.9238"/>
 <InfoNormRichtung vMax="16.6667" km="5663.8452"/>
@@ -9290,7 +9290,7 @@
 <NachNorm Nr="1120"/>
 <NachGegen Nr="1118"/>
 </StrElement>
-<StrElement Nr="1120" kr="-0.000333" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1120" kr="-0.000333" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="349.0252" Y="-151.2285" Z="398.9238"/>
 <b X="350.8429" Y="-170.1109" Z="398.7994"/>
 <InfoNormRichtung vMax="16.6667" km="3913.8201"/>
@@ -9298,7 +9298,7 @@
 <NachNorm Nr="1121"/>
 <NachGegen Nr="1119"/>
 </StrElement>
-<StrElement Nr="1121" kr="-0.000333" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1121" kr="-0.000333" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="350.8429" Y="-170.1109" Z="398.7994"/>
 <b X="352.5412" Y="-189.0045" Z="398.675"/>
 <InfoNormRichtung vMax="16.6667" km="2163.9431" Reg="5007"/>
@@ -9322,7 +9322,7 @@
 <NachNorm Nr="2"/>
 <NachGegen Nr="1120"/>
 </StrElement>
-<StrElement Nr="1122" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1122" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="355.6254" Y="-223.9999" Z="398.4446"/>
 <b X="356.3119" Y="-232.3774" Z="398.3896"/>
 <InfoNormRichtung vMax="16.6667" km="413.948" pos="1"/>
@@ -9330,7 +9330,7 @@
 <NachNorm Nr="1123"/>
 <NachGegen Nr="4279"/>
 </StrElement>
-<StrElement Nr="1123" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1123" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="356.3119" Y="-232.3774" Z="398.3896"/>
 <b X="356.921" Y="-240.7608" Z="398.3346"/>
 <InfoNormRichtung vMax="16.6667" km="413.9564" pos="1"/>
@@ -9821,7 +9821,7 @@
 <NachNorm Nr="1156"/>
 <NachGegen Nr="1153"/>
 </StrElement>
-<StrElement Nr="1156" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1156" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="360.7548" Y="-276.3021" Z="398.1259"/>
 <b X="360.4004" Y="-273.7898" Z="398.1349"/>
 <InfoNormRichtung vMax="16.6667" km="414.0002"/>
@@ -9829,7 +9829,7 @@
 <NachNorm Nr="1177"/>
 <NachGegen Nr="1155"/>
 </StrElement>
-<StrElement Nr="1157" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1157" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="358.5692" Y="-273.9491" Z="398.1345"/>
 <b X="358.664" Y="-277.153" Z="398.123"/>
 <InfoNormRichtung vMax="16.6667" km="413.9978" pos="1"/>
@@ -9837,7 +9837,7 @@
 <NachNorm Nr="1158"/>
 <NachGegen Nr="1178"/>
 </StrElement>
-<StrElement Nr="1158" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1158" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="358.664" Y="-277.153" Z="398.123"/>
 <b X="358.7494" Y="-280.4322" Z="398.1133"/>
 <InfoNormRichtung vMax="16.6667" km="414.001" pos="1" Reg="5009">
@@ -9847,7 +9847,7 @@
 <NachNorm Nr="1159"/>
 <NachGegen Nr="1157"/>
 </StrElement>
-<StrElement Nr="1159" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1159" kr="-0.0011" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="358.7494" Y="-280.4322" Z="398.1133"/>
 <b X="358.8229" Y="-283.7118" Z="398.106"/>
 <InfoNormRichtung vMax="16.6667" km="414.0043" pos="1"/>
@@ -9947,7 +9947,7 @@
 <NachNorm Nr="1179"/>
 <NachGegen Nr="1166"/>
 </StrElement>
-<StrElement Nr="1168" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1168" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="4" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="356.9205" Y="-240.7607" Z="398.3346"/>
 <b X="357.0409" Y="-242.5567" Z="398.3228"/>
 <InfoNormRichtung vMax="-1" km="413.9648" pos="1" Reg="5010">
@@ -10140,7 +10140,7 @@
 <NachNorm Nr="1171"/>
 <NachGegen Nr="1123"/>
 </StrElement>
-<StrElement Nr="1169" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1169" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="357.0409" Y="-242.5567" Z="398.3228"/>
 <b X="357.7868" Y="-255.1946" Z="398.2399"/>
 <InfoNormRichtung vMax="-1" km="413.9665" pos="1"/>
@@ -10148,7 +10148,7 @@
 <NachNorm Nr="1175"/>
 <NachGegen Nr="1168"/>
 </StrElement>
-<StrElement Nr="1170" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1170" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="357.898" Y="-252.7533" Z="398.2559"/>
 <b X="358.579" Y="-259.3926" Z="398.2123"/>
 <InfoNormRichtung vMax="-1" km="413.9767" pos="1"/>
@@ -10156,7 +10156,7 @@
 <NachNorm Nr="1173"/>
 <NachGegen Nr="1172"/>
 </StrElement>
-<StrElement Nr="1171" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1171" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="357.0409" Y="-242.5567" Z="398.3228"/>
 <b X="357.369" Y="-246.7601" Z="398.2952"/>
 <InfoNormRichtung vMax="-1" km="413.9665" pos="1">
@@ -10168,7 +10168,7 @@
 <NachNorm Nr="1172"/>
 <NachGegen Nr="1168"/>
 </StrElement>
-<StrElement Nr="1172" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1172" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="357.369" Y="-246.7599" Z="398.2952"/>
 <b X="357.898" Y="-252.7533" Z="398.2559"/>
 <InfoNormRichtung vMax="-1" km="413.9707" pos="1"/>
@@ -10176,7 +10176,7 @@
 <NachNorm Nr="1170"/>
 <NachGegen Nr="1171"/>
 </StrElement>
-<StrElement Nr="1173" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1173" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="358.579" Y="-259.3926" Z="398.2123"/>
 <b X="359.3602" Y="-266.0338" Z="398.172"/>
 <InfoNormRichtung vMax="-1" km="413.9833" pos="1"/>
@@ -10184,7 +10184,7 @@
 <NachNorm Nr="1174"/>
 <NachGegen Nr="1170"/>
 </StrElement>
-<StrElement Nr="1174" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1174" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="359.3602" Y="-266.0338" Z="398.172"/>
 <b X="359.8691" Y="-270.0318" Z="398.1516"/>
 <InfoNormRichtung vMax="-1" km="413.99" pos="1">
@@ -10194,7 +10194,7 @@
 <NachNorm Nr="1177"/>
 <NachGegen Nr="1173"/>
 </StrElement>
-<StrElement Nr="1175" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1175" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="357.7868" Y="-255.1946" Z="398.2399"/>
 <b X="358.1431" Y="-262.627" Z="398.1918"/>
 <InfoNormRichtung vMax="-1" km="413.9791" pos="1">
@@ -10204,7 +10204,7 @@
 <NachNorm Nr="1176"/>
 <NachGegen Nr="1169"/>
 </StrElement>
-<StrElement Nr="1176" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1176" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="358.1431" Y="-262.627" Z="398.1918"/>
 <b X="358.4386" Y="-270.0621" Z="398.1515"/>
 <InfoNormRichtung vMax="-1" km="413.9865" pos="1">
@@ -10214,7 +10214,7 @@
 <NachNorm Nr="1178"/>
 <NachGegen Nr="1175"/>
 </StrElement>
-<StrElement Nr="1177" kr="-0.0011" spTrass="27.7778" Anschluss="257" Fkt="12" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1177" kr="-0.0011" spTrass="27.7778" Anschluss="257" Fkt="12" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="359.8691" Y="-270.0318" Z="398.1516"/>
 <b X="360.3996" Y="-273.7898" Z="398.1353"/>
 <InfoNormRichtung vMax="-1" km="413.9939" pos="1"/>
@@ -10224,7 +10224,7 @@
 <NachNorm Nr="1156"/>
 <NachGegen Nr="1174"/>
 </StrElement>
-<StrElement Nr="1178" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau">
+<StrElement Nr="1178" kr="-0.0011" spTrass="27.7778" Anschluss="256" Fkt="20" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="358.4386" Y="-270.0621" Z="398.1515"/>
 <b X="358.5688" Y="-273.949" Z="398.1346"/>
 <InfoNormRichtung vMax="-1" km="413.994" pos="1"/>
@@ -54486,7 +54486,7 @@
 <NachNorm Nr="4272"/>
 <NachGegen Nr="4286"/>
 </StrElement>
-<StrElement Nr="4279" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau">
+<StrElement Nr="4279" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="354.1094" Y="-206.5" Z="398.5598"/>
 <b X="355.625" Y="-224" Z="398.4446"/>
 <InfoNormRichtung vMax="16.6667" km="413.9275" pos="1" Reg="5124"/>
@@ -54842,7 +54842,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54854,7 +54854,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54892,7 +54892,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54904,7 +54904,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55793,7 +55793,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55805,7 +55805,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55837,7 +55837,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55849,7 +55849,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>

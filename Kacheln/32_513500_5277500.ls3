@@ -212,7 +212,7 @@
 <phi Z="1.429762"/>
 <sk X="1.5" Y="1.5" Z="1"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1119" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Stellwerk Konstanz 3\StellwerkKonstanz3.lod.ls3"/>
 <p X="-219.1436" Y="416.8785" Z="400.34"/>
 <phi Z="3.296341"/>
@@ -291,7 +291,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="1155" MeshI="2973">
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="1156" MeshI="2976">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -571,6 +571,12 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\gravel02.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
