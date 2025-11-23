@@ -140,7 +140,7 @@
 <phi Z="-1.401065"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="708" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Theater Konstanz\TheaterKonstanz.lod.ls3"/>
 <p X="-200.7917" Y="462.9912" Z="398.8485"/>
 <phi Z="-1.727394"/>
@@ -172,8 +172,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="52" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_04_Hameckestr\Hagen_Gbf_04_Hameckestrasse.lod.ls3"/>
-<p X="-232.5296" Y="-46.9145" Z="397.9131"/>
-<phi Z="-0.221825"/>
+<p X="-234.2171" Y="-56.9809" Z="397.9131"/>
+<phi Z="-0.172738"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="132" SichtbarBis="3000" Vorlade="1">
@@ -232,8 +232,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Junkerstr\AC_WH_Junkerstr67-69.lod.ls3"/>
-<p X="-255.621" Y="-68.5587" Z="397.7497"/>
-<phi Z="1.298208"/>
+<p X="-257.4608" Y="-78.7775" Z="397.7497"/>
+<phi Z="1.357113"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
@@ -432,6 +432,18 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
 <p X="-159.1212" Y="453.7049" Z="399.6142"/>
 <phi Z="1.677382"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000497_005731_Buke\Objekte\Buke_03\Buke_03_Gueterschuppen.lod.ls3"/>
+<p X="-139.9165" Y="-39.6556" Z="397.442"/>
+<phi Z="4.53322"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="670" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000497_005731_Buke\Objekte\Buke_03\Buke_03_Gueterschuppen.lod.ls3"/>
+<p X="-127.1439" Y="-69.3807" Z="397.4279"/>
+<phi Z="1.391628"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
