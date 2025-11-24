@@ -140,7 +140,7 @@
 <phi Z="-1.401065"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Theater Konstanz\TheaterKonstanz.lod.ls3"/>
 <p X="-200.7917" Y="462.9912" Z="398.8485"/>
 <phi Z="-1.727394"/>
@@ -956,7 +956,7 @@
 <phi Z="-0.19773"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="19" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000497_005731_Buke\Oberleitung\Qgtw_Buke-23m-3m.lod.ls3"/>
 <p X="-165.2776" Y="27.7623" Z="397.8176"/>
 <phi Z="4.485477"/>
@@ -986,7 +986,7 @@
 <phi Z="1.343884"/>
 <sk X="1" Y="0.95" Z="1"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="586" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Bogenabzug-Haenger_1m.lod.ls3"/>
 <p X="-157.4604" Y="25.9185" Z="397.9576"/>
 <phi Z="-1.797708"/>
@@ -1684,6 +1684,36 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\General\Water\water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="96" MeshI="282">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_1050cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="91" MeshI="267">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="12" MeshI="30">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="33" MeshI="93">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="30" MeshI="84">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\gravel04.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
