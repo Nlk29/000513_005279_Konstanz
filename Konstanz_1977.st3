@@ -9559,7 +9559,7 @@
 <g X="363.392" Y="-312.6478" Z="398.0962"/>
 <b X="363.4061" Y="-310.8478" Z="398.0962"/>
 <InfoNormRichtung vMax="-1" km="414.0363" pos="1" Reg="5009">
-<Signal Signalname="2" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw1" Signalname="2" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="363.392" Y="-312.6478" Z="398.0962"/>
 <phi Y="-0.000611" Z="1.561925"/>
 <SignalFrame>
@@ -9739,8 +9739,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8606711875" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8623489093" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.0345" pos="1" Reg="5009"/>
@@ -9988,7 +9988,7 @@
 <g X="356.9205" Y="-240.7607" Z="398.3346"/>
 <b X="357.0409" Y="-242.5567" Z="398.3228"/>
 <InfoNormRichtung vMax="-1" km="413.9648" pos="1" Reg="5011">
-<Signal Signalname="1" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw1" Signalname="1" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="356.9205" Y="-240.7607" Z="398.3346"/>
 <phi Y="0.006056" Z="-1.502728"/>
 <SignalFrame>
@@ -10168,8 +10168,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8858370083" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="9126805541" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="413.9666" Reg="5011"/>
@@ -11575,9 +11575,9 @@
 <g X="359.986" Y="-388.4825" Z="398.0215"/>
 <b X="359.8492" Y="-389.6747" Z="398.0186"/>
 <InfoNormRichtung vMax="-1" km="414.1108" pos="1" Reg="5022">
-<Signal Signalname="5" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw1" Signalname="5" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="359.986" Y="-388.4825" Z="398.0215"/>
-<phi Y="0.002469" Z="-1.683576"/>
+<phi Y="0.00247" Z="-1.683576"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -11779,8 +11779,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="67108931" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="134217797" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.112" Reg="5022"/>
@@ -12139,7 +12139,7 @@
 <g X="362.4861" Y="-352.5127" Z="398.096"/>
 <b X="362.4532" Y="-353.7122" Z="398.0956"/>
 <InfoNormRichtung vMax="-1" km="414.0715" pos="1" Reg="5025">
-<Signal Signalname="3" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="BÜ Bahnhof Büro" Stellwerk="BÜ Bahnhof Büro" Signalname="3" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="362.4861" Y="-352.5127" Z="398.096"/>
 <phi Y="0.00192" Z="-1.596807"/>
 <SignalFrame>
@@ -12343,8 +12343,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1103806595331" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1108101562629" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.0727" Reg="5025"/>
@@ -54940,7 +54940,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54952,7 +54952,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54990,7 +54990,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55002,7 +55002,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55910,7 +55910,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55922,7 +55922,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55954,7 +55954,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55966,7 +55966,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
