@@ -376,7 +376,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="84" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\UeberfuehrungKonstanzHafen\UeberfuehrungKonstanzHafen.lod.ls3"/>
-<p X="-228.875" Y="-215.0195" Z="397.6471"/>
+<p X="-228.875" Y="-214.8633" Z="397.6471"/>
 <phi Z="4.539474"/>
 <sk/>
 </Verknuepfte>
@@ -758,18 +758,6 @@
 <phi Z="-1.598167"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-146.3009" Y="145.0685" Z="404.7614"/>
-<phi X="0.017375" Z="0.106517"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-146.6547" Y="145.0804" Z="403.88"/>
-<phi X="0.008061" Z="0.115071"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB300-Mast.lod.ls3"/>
 <p X="-141.7468" Y="45.0091" Z="397.8921"/>
@@ -976,7 +964,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Mehrgleisausleger\Rohrausleger\Haengesaeule2m95.lod.ls3"/>
-<p X="-159.8143" Y="26.4603" Z="406.0876"/>
+<p X="-159.8143" Y="26.4603" Z="406.18"/>
 <phi Z="1.343884"/>
 <sk/>
 </Verknuepfte>
@@ -991,6 +979,48 @@
 <p X="-157.4604" Y="25.9185" Z="397.9576"/>
 <phi Z="-1.797708"/>
 <sk X="1" Y="0.75" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Bogenabzug-Haenger_1m.lod.ls3"/>
+<p X="-136.0073" Y="97.8716" Z="397.9907"/>
+<phi Z="1.665552"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
+<p X="-144.4247" Y="190.3375" Z="398.0962"/>
+<phi Z="-1.580547"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-146.3009" Y="145.0686" Z="404.7614"/>
+<phi X="0.017375" Z="0.106515"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-146.6547" Y="145.0804" Z="403.88"/>
+<phi X="0.008061" Z="0.115069"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-ausfaedelung.lod.ls3"/>
+<p X="-137.0505" Y="126.4525" Z="398.0587"/>
+<phi Z="1.491246"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-144.1957" Y="188.3008" Z="405.0302"/>
+<phi X="0.007959" Z="0.115001"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="474" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-144.1957" Y="188.2907" Z="404.1465"/>
+<phi X="-0.000195" Z="0.115037"/>
+<sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="1428" MeshI="2934">
