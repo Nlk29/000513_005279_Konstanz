@@ -10683,7 +10683,7 @@
 <g X="306.7497" Y="-638.2401" Z="397.7961"/>
 <b X="306.9606" Y="-637.0588" Z="397.7957"/>
 <InfoNormRichtung vMax="-1" km="414.3663" pos="1" Reg="5018">
-<Signal Signalname="26" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="26" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="306.7497" Y="-638.2401" Z="397.7961"/>
 <phi Y="0.000342" Z="-4.889076"/>
 <SignalFrame>
@@ -10887,8 +10887,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967555" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934853" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.3651" pos="1" Reg="5018"/>
@@ -11036,7 +11036,7 @@
 <g X="321.7178" Y="-579.2479" Z="397.7752"/>
 <b X="321.5086" Y="-580.4296" Z="397.7756"/>
 <InfoNormRichtung vMax="-1" km="414.3056" pos="1" Reg="5019">
-<Signal Signalname="25" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="25" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="321.7178" Y="-579.2479" Z="397.7752"/>
 <phi Y="-0.000345" Z="-1.746008"/>
 <SignalFrame>
@@ -11240,8 +11240,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967427" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934725" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.3068" Reg="5019"/>
@@ -12592,7 +12592,7 @@
 <g X="362.4579" Y="-456.1873" Z="397.8582"/>
 <b X="362.3473" Y="-457.3822" Z="397.8553"/>
 <InfoNormRichtung vMax="-1" km="414.1775" pos="1" Reg="5028">
-<Signal Signalname="7" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw1" Signalname="7" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="362.4579" Y="-456.1873" Z="397.8582"/>
 <phi Y="0.002496" Z="-1.661332"/>
 <SignalFrame>
@@ -12796,8 +12796,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1073742083" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2147483909" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.1787" Reg="5028"/>
@@ -13132,7 +13132,7 @@
 <g X="362.8415" Y="-385.2614" Z="398.0302"/>
 <b X="362.865" Y="-386.4612" Z="398.0273"/>
 <InfoNormRichtung vMax="-1" km="414.1068" pos="1" Reg="5032">
-<Signal Signalname="4" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw1" Signalname="4" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="362.8415" Y="-385.2614" Z="398.0302"/>
 <phi Y="0.00242" Z="-1.551198"/>
 <SignalFrame>
@@ -13336,8 +13336,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967555" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934853" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.1079" Reg="5032"/>
@@ -13710,7 +13710,7 @@
 <b X="332.997" Y="-572.2023" Z="397.7722"/>
 <InfoNormRichtung vMax="-1" km="414.2955" pos="1" Reg="5035">
 <Ereignis Er="1000008" Beschr="Konstanz"/>
-<Signal Signalname="23" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="23" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="333.2071" Y="-571.0209" Z="397.7718"/>
 <phi Y="-0.000342" Z="-1.746778"/>
 <SignalFrame>
@@ -13914,8 +13914,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967427" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934725" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.2967" Reg="5035"/>
@@ -14065,7 +14065,7 @@
 <g X="326.6906" Y="-635.3664" Z="397.7939"/>
 <b X="326.8998" Y="-634.1848" Z="397.7935"/>
 <InfoNormRichtung vMax="-1" km="414.3599" pos="1" Reg="5037">
-<Signal Signalname="24" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="24" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="326.6906" Y="-635.3664" Z="397.7939"/>
 <phi Y="0.000345" Z="-4.887637"/>
 <SignalFrame>
@@ -14269,8 +14269,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967555" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934853" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.3587" pos="1" Reg="5037"/>
@@ -14587,7 +14587,7 @@
 <g X="329.0128" Y="-711.2064" Z="397.8195"/>
 <b X="329.2223" Y="-710.0248" Z="397.8191"/>
 <InfoNormRichtung vMax="-1" km="414.4341" pos="1" Reg="5038">
-<Signal Signalname="20" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="20" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="329.0128" Y="-711.2064" Z="397.8195"/>
 <phi Y="0.000342" Z="1.395337"/>
 <SignalFrame>
@@ -14791,8 +14791,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967555" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934853" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.4329" pos="1" Reg="5038"/>
@@ -14943,7 +14943,7 @@
 <g X="334.3806" Y="-680.9275" Z="397.8089"/>
 <b X="334.5901" Y="-679.7459" Z="397.8085"/>
 <InfoNormRichtung vMax="-1" km="414.4034" pos="1" Reg="5040">
-<Signal Signalname="22" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="22" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="334.3806" Y="-680.9275" Z="397.8089"/>
 <phi Y="0.000345" Z="1.395337"/>
 <SignalFrame>
@@ -15147,8 +15147,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967555" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934853" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.4022" pos="1" Reg="5040"/>
@@ -15302,9 +15302,9 @@
 <g X="340.5876" Y="-620.6661" Z="397.7881"/>
 <b X="340.3795" Y="-621.8479" Z="397.7885"/>
 <InfoNormRichtung vMax="-1" km="414.343" pos="1" Reg="5041">
-<Signal Signalname="21" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="21" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="340.5876" Y="-620.6661" Z="397.7881"/>
-<phi Y="-0.000345" Z="-1.745127"/>
+<phi Y="-0.000346" Z="-1.745127"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -15506,8 +15506,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1073741955" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2147483781" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.3442" Reg="5041"/>
@@ -15685,7 +15685,7 @@
 <g X="348.395" Y="-636.2225" Z="397.7929"/>
 <b X="347.6631" Y="-640.314" Z="397.7943"/>
 <InfoNormRichtung vMax="-1" km="414.357" pos="1" Reg="1" KoppelWeicheNr="1470" KoppelWeicheNorm="1">
-<Signal Signalname="19" SignalFlags="3" SignalTyp="2" BoundingR="35">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="19" SignalFlags="3" SignalTyp="2" BoundingR="35">
 <p X="349.0397" Y="-632.6187" Z="397.7917"/>
 <phi Y="-0.000345" Z="-1.74782"/>
 <SignalFrame>
@@ -15901,8 +15901,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="88080515" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="46137477" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.3611" Reg="1">
@@ -15916,7 +15916,7 @@
 <g X="343.8324" Y="-661.7267" Z="397.8018"/>
 <b X="344.5643" Y="-657.6353" Z="397.8004"/>
 <InfoNormRichtung vMax="-1" km="414.3828" pos="1" Reg="1" KoppelWeicheNr="1469" KoppelWeicheNorm="1">
-<Signal Signalname="19" SignalFlags="3" SignalTyp="2" BoundingR="15">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="19" SignalFlags="3" SignalTyp="2" BoundingR="15">
 <p X="343.1877" Y="-665.3305" Z="397.8031"/>
 <phi Y="0.000345" Z="-4.88942"/>
 <SignalFrame>
@@ -16798,7 +16798,7 @@
 <g X="325.4921" Y="-731.0656" Z="397.8488"/>
 <b X="325.2826" Y="-732.2472" Z="397.8526"/>
 <InfoNormRichtung vMax="-1" km="414.4543" pos="1" Reg="5042">
-<Signal Signalname="42" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="42" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="325.4921" Y="-731.0656" Z="397.8488"/>
 <phi Y="-0.00433" Z="-1.746254"/>
 <SignalFrame>
@@ -17002,8 +17002,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967427" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934725" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.4555" Reg="5042"/>
@@ -17141,7 +17141,7 @@
 <g X="318.2989" Y="-804.7702" Z="398.3561"/>
 <b X="318.5115" Y="-803.5892" Z="398.3472"/>
 <InfoNormRichtung vMax="-1" km="414.528" pos="1" Reg="5043">
-<Signal Signalname="44" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="44" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="318.2989" Y="-804.7702" Z="398.3561"/>
 <phi Y="0.007443" Z="1.392667"/>
 <SignalFrame>
@@ -17345,8 +17345,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1073741859" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2147483685" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.5268" pos="1" Reg="5043"/>
@@ -17568,7 +17568,7 @@
 <g X="325.4141" Y="-765.1147" Z="398.0562"/>
 <b X="325.6245" Y="-763.9333" Z="398.0473"/>
 <InfoNormRichtung vMax="-1" km="414.4878" pos="1" Reg="5044">
-<Signal Signalname="28" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="28" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="325.4141" Y="-765.1147" Z="398.0562"/>
 <phi Y="0.007446" Z="1.394525"/>
 <SignalFrame>
@@ -17772,8 +17772,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967427" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934725" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.4866" pos="1" Reg="5044"/>
@@ -17987,7 +17987,7 @@
 <g X="342.0684" Y="-700.4223" Z="397.8151"/>
 <b X="341.8586" Y="-701.6038" Z="397.8155"/>
 <InfoNormRichtung vMax="-1" km="414.4212" pos="1" Reg="5045">
-<Signal Signalname="27" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="27" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="342.0684" Y="-700.4223" Z="397.8151"/>
 <phi Y="-0.000345" Z="-1.746544"/>
 <SignalFrame>
@@ -18191,8 +18191,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1100585369731" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="1101659111557" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.4224" Reg="5045"/>
@@ -18338,7 +18338,7 @@
 <g X="317.1853" Y="-810.9554" Z="398.403"/>
 <b X="316.9727" Y="-812.1364" Z="398.4119"/>
 <InfoNormRichtung vMax="-1" km="414.5343" pos="1" Reg="5046">
-<Signal Signalname="44" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="44" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="317.1853" Y="-810.9554" Z="398.403"/>
 <phi Y="-0.007443" Z="-1.748925"/>
 <SignalFrame>
@@ -18542,8 +18542,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967555" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934853" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.5355" Reg="5046"/>
@@ -18797,7 +18797,7 @@
 <g X="310.2994" Y="-879.3228" Z="398.913"/>
 <b X="310.5092" Y="-878.1413" Z="398.904"/>
 <InfoNormRichtung vMax="-1" km="414.6028" pos="1" Reg="5047">
-<Signal Signalname="45" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw2" Signalname="45" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="310.2994" Y="-879.3228" Z="398.913"/>
 <phi Y="0.007443" Z="1.395049"/>
 <SignalFrame>
@@ -19001,8 +19001,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4294967427" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="8589934725" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="414.6016" pos="1" Reg="5047"/>
@@ -54938,7 +54938,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54950,7 +54950,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54988,7 +54988,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55000,7 +55000,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55908,7 +55908,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55920,7 +55920,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55952,7 +55952,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55964,7 +55964,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
