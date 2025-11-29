@@ -1220,10 +1220,34 @@
 <phi Z="4.53718"/>
 <sk X="1" Y="0.95" Z="1"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="809" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="708" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Konstanz Kof\KonstanzKof.lod.ls3"/>
-<p X="-152.1562" Y="-214.9571" Z="397.4403"/>
+<p X="-148.8398" Y="-214.9571" Z="397.4403"/>
 <phi Z="2.965011"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Neubaugebiet\06_Geruest_3x4x.lod.ls3"/>
+<p X="-155.8322" Y="-212.0269" Z="397.7586"/>
+<phi Z="6.107426"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000505_005712_Bonenburg\Objekte\Bonenburg_09\Kabelkanalsteine.lod.ls3"/>
+<p X="-155.4807" Y="-205.3823" Z="397.5711"/>
+<phi Z="2.965833"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Neubaugebiet\02_Steinpalette_3x.lod.ls3"/>
+<p X="-157.26" Y="-219.0141" Z="397.5652"/>
+<phi Z="1.395033"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="872" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Gueterschuppen\Gueterschuppen.lod.ls3"/>
+<p X="-162.5351" Y="-275.3008" Z="398.3102"/>
+<phi Z="-3.312728"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
@@ -1440,10 +1464,7 @@
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="28" MeshI="78">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_750cm_oMStr.dds"/>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_1050cm.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="51">
