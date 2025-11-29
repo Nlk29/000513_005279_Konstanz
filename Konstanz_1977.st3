@@ -54938,7 +54938,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54950,7 +54950,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54988,7 +54988,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55000,7 +55000,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55908,7 +55908,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55920,7 +55920,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55952,7 +55952,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55964,7 +55964,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -56255,6 +56255,118 @@
 <InfoNormRichtung vMax="27.7778"/>
 <NachNorm Nr="4082"/>
 <NachGegen Nr="4081"/>
+</StrElement>
+<StrElement Nr="4366" spTrass="27.7778" Fkt="2">
+<g X="342.8513" Y="-724.6646" Z="397.6639"/>
+<b X="343.886" Y="-724.8632" Z="397.6342"/>
+<InfoNormRichtung vMax="-1">
+<Signal SignalTyp="7" BoundingR="10">
+<p X="340.962" Y="-724.2005" Z="397.8987"/>
+<phi Y="1.48353" Z="-0.224446"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Mast69_6m30.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.35" Z="7.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Esig69.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.6" Z="5.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Vsig69.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.35" Z="7.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Zs1_8-69.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.38" Z="8.1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Lichtzusatzsignale\Schirme\Zs3_Hv69Schirm.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.38" Z="8.1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Lichtsignale_5x7Matrix\Ziffern\Zs3_Ziffern.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.72" Z="4.3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Lichtzusatzsignale\Schirme\Zs3v_Hv69Schirm.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.72" Z="4.3"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Lichtsignale_5x7Matrix\Ziffern\Zs3v_Ziffern.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Mastschild69Hp.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_69\Schaltkasten69-doppelt.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff FahrstrTyp="6"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="6597103321601"/>
+<Ersatzsignal ErsatzsigBezeichnung="Zs1">
+<MatrixEintrag Signalbild="6597103321731" MatrixGeschw="11.1111"/>
+</Ersatzsignal>
+<Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
+<MatrixEintrag Signalbild="6597103321859" MatrixGeschw="11.1111">
+<Ereignis Er="28" Wert="7"/>
+</MatrixEintrag>
+</Ersatzsignal>
+</Signal>
+</InfoNormRichtung>
+</StrElement>
+<StrElement Nr="4367" spTrass="27.7778" Fkt="2">
+<g X="342.6913" Y="-724.9613" Z="397.6721"/>
+<b X="343.7456" Y="-725.364" Z="397.6446"/>
+<InfoNormRichtung vMax="-1">
+<Signal SignalFlags="4" SignalTyp="5" BoundingR="1">
+<p X="340.8478" Y="-724.5875" Z="397.8987"/>
+<phi Y="1.518436" Z="-0.261799"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSElSiemens_Mast-4m8.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="5.05"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSiemens_Schirm1958-h.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.1" Z="1.7"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\Gs_Schild_wrw-h.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="9"/>
+</Signal>
+</InfoNormRichtung>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz N5/6 -&gt; Kreuzlingen Hafen Richtung Kreuzlingen Hafen" FahrstrTyp="TypZug" Laenge="251.9776">
 <FahrstrStart Ref="609">

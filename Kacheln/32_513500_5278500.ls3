@@ -1214,11 +1214,17 @@
 <phi Z="-1.746005"/>
 <sk X="1" Y="1.05" Z="1"/>
 </Verknuepfte>
-<Verknuepfte Flags="24" BoundingR="771" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="24" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m3\Ausleger_2m3-kurve_l.lod.ls3"/>
 <p X="-185.8435" Y="-205.6253" Z="397.8134"/>
 <phi Z="4.53718"/>
 <sk X="1" Y="0.95" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="809" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Konstanz Kof\KonstanzKof.lod.ls3"/>
+<p X="-152.1562" Y="-214.9571" Z="397.4403"/>
+<phi Z="2.965011"/>
+<sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="1428" MeshI="2934">

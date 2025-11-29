@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="KofDBKeks.lsb"/>
+<SubSet Cd="FFFFFFFF" Ce="FF000000" MeterProTex="10" Nachtumschaltung="0.35" NachtEinstellung="1" MeshV="150" MeshI="150">
+<RenderFlags TexVoreinstellung="5"/>
+<Textur>
+<Datei Dateiname="DBKeks.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="DBKeksNacht.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

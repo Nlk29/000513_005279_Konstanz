@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Kacheln\0_500_500.ls3"/>
+<p X="500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<lsb Dateiname="KonstanzKof.lod1.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="29" MeshI="63">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="120" MeshI="312">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFA0A0A0" MeshV="186" MeshI="498">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFD3BD90" MeshV="406" MeshI="912">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" Nachtumschaltung="0.4" NachtEinstellung="1" MeshV="1853" MeshI="3462">
+<RenderFlags TexVoreinstellung="5"/>
+<Textur>
+<Datei Dateiname="KonstanzKof_lod1.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="KonstanzKofNacht_lod1.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>
