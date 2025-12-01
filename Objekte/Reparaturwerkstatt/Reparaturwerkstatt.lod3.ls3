@@ -15,7 +15,7 @@
 <SubSet Cd="FFFFFFFF" MeshV="20" MeshI="30">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000565_005804_Lehrte_West\Objekte\LehrteZentrum02\LehrteNZ_West\LehrteZentrum_West_Holzdecke.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="33" MeshI="57">

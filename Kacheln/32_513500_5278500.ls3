@@ -140,7 +140,7 @@
 <phi Z="-1.401065"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="708" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Theater Konstanz\TheaterKonstanz.lod.ls3"/>
 <p X="-200.7917" Y="462.9912" Z="398.8485"/>
 <phi Z="-1.727394"/>
@@ -222,12 +222,6 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Christuskirche\Christuskirche.lod.ls3"/>
 <p X="-210.862" Y="406.1254" Z="398.5263"/>
 <phi Z="4.524249"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Stellwerk Konstanz 1\StellwerkKonstanz1.lod.ls3"/>
-<p X="-145.6634" Y="160.1627" Z="397.8891"/>
-<phi Z="-0.020703"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
@@ -1244,10 +1238,22 @@
 <phi Z="1.395033"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="872" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="44" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Gueterschuppen\Gueterschuppen.lod.ls3"/>
 <p X="-162.5351" Y="-275.3008" Z="398.3102"/>
 <phi Z="-3.312728"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="36" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Konzil\Konzil.lod.ls3"/>
+<p X="-121.4062" Y="132.4765" Z="397.8272"/>
+<phi Z="3.140547"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Stellwerk Konstanz 1\StellwerkKonstanz1.lod.ls3"/>
+<p X="-145.6634" Y="160.1627" Z="397.8891"/>
+<phi Z="-0.020703"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
@@ -2055,12 +2061,6 @@
 <Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="29" MeshI="78">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="2" TypGF="1" MeterProTex="4" MeterProTex2="10" MeshV="8" MeshI="12">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -2203,6 +2203,12 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Bruchstein-bewachsen.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="18" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
