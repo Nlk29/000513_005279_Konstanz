@@ -12573,7 +12573,9 @@
 <StrElement Nr="1305" kr="-0.002908" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="357.9587" Y="-488.5644" Z="397.7762"/>
 <b X="357.008" Y="-493.4332" Z="397.7637"/>
-<InfoNormRichtung vMax="11.1111" km="414.21" pos="1" Reg="5027"/>
+<InfoNormRichtung vMax="11.1111" km="414.21" pos="1" Reg="5027">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="11.1111" km="414.215" Reg="5027">
 <Ereignis Er="4"/>
 </InfoGegenRichtung>
@@ -13039,7 +13041,9 @@
 <InfoNormRichtung vMax="11.1111" km="414.2176" Reg="5030">
 <Ereignis Er="4"/>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="11.1111" km="414.2071" pos="1" Reg="5030"/>
+<InfoGegenRichtung vMax="11.1111" km="414.2071" pos="1" Reg="5030">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="1331"/>
 <NachGegen Nr="1329"/>
 </StrElement>
@@ -13070,9 +13074,7 @@
 <StrElement Nr="1334" kr="-0.003416" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="363.6559" Y="-430.4334" Z="397.9221"/>
 <b X="363.5692" Y="-436.8802" Z="397.9063"/>
-<InfoNormRichtung vMax="11.1111" km="414.1522" pos="1" Reg="5031">
-<Ereignis Er="4"/>
-</InfoNormRichtung>
+<InfoNormRichtung vMax="11.1111" km="414.1522" pos="1" Reg="5031"/>
 <InfoGegenRichtung vMax="11.1111" km="414.1586" Reg="5031"/>
 <NachNorm Nr="1335"/>
 <NachGegen Nr="1333"/>
@@ -54938,7 +54940,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54950,7 +54952,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54988,7 +54990,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55000,7 +55002,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55908,7 +55910,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55920,7 +55922,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55952,7 +55954,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55964,7 +55966,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
