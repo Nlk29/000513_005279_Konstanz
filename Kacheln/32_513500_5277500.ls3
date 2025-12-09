@@ -224,6 +224,18 @@
 <phi Z="1.389442"/>
 <sk X="2" Y="3" Z="1.5"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4d_Betonmast_1953.lod.ls3"/>
+<p X="-250.7833" Y="249.9095" Z="401.6741"/>
+<phi Z="1.318513"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1279" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4d_Betonmast_1953.lod.ls3"/>
+<p X="-245.6931" Y="230.5288" Z="401.647"/>
+<phi Z="4.226209"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5277500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="594" MeshI="1278">
 <RenderFlags TexVoreinstellung="3"/>

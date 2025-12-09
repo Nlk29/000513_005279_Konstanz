@@ -395,13 +395,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4d_Betonmast_1953.lod.ls3"/>
 <p X="-115.5626" Y="-76.7137" Z="397.7716"/>
-<phi Z="-1.539098"/>
+<phi Z="-1.653635"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4d_Betonmast_1953.lod.ls3"/>
 <p X="-123.6095" Y="-78.545" Z="397.7716"/>
-<phi Z="1.5269"/>
+<phi Z="1.40909"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
