@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="SBBInfraWarn.lsb"/>
+<SubSet Cd="FFFFFFFF" TypLs3="16" MeshV="8" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="SBBInfraWarn.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

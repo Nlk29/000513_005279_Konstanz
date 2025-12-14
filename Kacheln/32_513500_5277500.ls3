@@ -150,7 +150,7 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\UeberfuehrungKonstanzHafen\UeberfuehrungKonstanzHafen.lod.ls3"/>
 <p X="-252.5146" Y="372.5779" Z="400.3917"/>
 <phi Z="-1.434465"/>
-<sk/>
+<sk X="1" Y="1" Z="1.2"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000480_005694_Messinghausen\Objekte_Beringhausen\Beringhausen07_Wohnhaeuser\Beringhausen07_WHaus114.lod.ls3"/>
@@ -230,10 +230,712 @@
 <phi Z="1.318513"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1279" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4d_Betonmast_1953.lod.ls3"/>
 <p X="-245.6931" Y="230.5288" Z="401.647"/>
 <phi Z="4.226209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\SpeiseleitungIBP_Endanker-einfach.lod.ls3"/>
+<p X="-241.4415" Y="400.0916" Z="405.9514"/>
+<phi Y="3.141593" Z="1.648664"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\SpeiseleitungIBP_Endanker-einfach.lod.ls3"/>
+<p X="-241.4415" Y="400.0916" Z="406.8291"/>
+<phi X="-3.141593" Z="-1.492928"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\SpeiseleitungIBP_Endanker-einfach.lod.ls3"/>
+<p X="-241.9799" Y="400.0496" Z="406.8291"/>
+<phi Z="-1.492928"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\SpeiseleitungIBP_Endanker-einfach.lod.ls3"/>
+<p X="-241.9799" Y="400.0496" Z="405.9572"/>
+<phi Z="-1.492928"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m00_SH20_Standard_l.lod.ls3"/>
+<p X="-245.7829" Y="496.6271" Z="399.8803"/>
+<phi Z="1.537934"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast8m5.lod.ls3"/>
+<p X="-239.2863" Y="496.4136" Z="399.8717"/>
+<phi Z="-1.603659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000497_005731_Buke\Oberleitung\Qgtw_Buke-23m-3m.lod.ls3"/>
+<p X="-239.2154" Y="475.6175" Z="400.0787"/>
+<phi Z="4.730144"/>
+<sk X="1" Y="0.775" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m00_SH20_Standard_k.lod.ls3"/>
+<p X="-245.17" Y="475.5117" Z="400.0181"/>
+<phi Z="1.588552"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
+<p X="-243.0296" Y="400.6656" Z="399.7425"/>
+<phi Z="1.648664"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-240.6346" Y="402.7936" Z="406.9426"/>
+<phi X="0.015589" Z="3.201948"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-240.6285" Y="402.8042" Z="406.0589"/>
+<phi X="0.007426" Z="3.198488"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast8m5.lod.ls3"/>
+<p X="-248.6109" Y="460.3083" Z="400.1304"/>
+<phi Z="4.790258"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB300-Mast_9m0.lod.ls3"/>
+<p X="-241.7107" Y="400.0706" Z="400.5842"/>
+<phi Z="0.077868"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast8m5.lod.ls3"/>
+<p X="-268.8514" Y="481.3912" Z="399.9147"/>
+<phi Z="1.555183"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
+<p X="-249.6704" Y="482.5882" Z="399.9147"/>
+<phi Z="-1.58641"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m70_SH20_Standard_k.lod.ls3"/>
+<p X="-248.91" Y="460.2849" Z="400.1776"/>
+<phi Z="-1.492927"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-243.2332" Y="402.7054" Z="406.6901"/>
+<phi X="0.001209" Z="3.241609"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-243.244" Y="402.7145" Z="405.7886"/>
+<phi X="0.001919" Z="3.246608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-245.7672" Y="420.3432" Z="400.4778"/>
+<phi Z="1.648666"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-240.7838" Y="420.6862" Z="400.4454"/>
+<phi Z="1.648664"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-241.5612" Y="419.7228" Z="401.6454"/>
+<phi Z="1.648664"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-246.5446" Y="419.3798" Z="401.6778"/>
+<phi Z="1.648666"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
+<p X="-238.4637" Y="496.2411" Z="399.8717"/>
+<phi Z="-1.603659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Bogenabzug-Haenger_1m.lod.ls3"/>
+<p X="-238.3754" Y="475.6296" Z="400.0786"/>
+<phi Z="-1.553041"/>
+<sk X="1" Y="1.05" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast8m5.lod.ls3"/>
+<p X="-235.3752" Y="433.351" Z="400.4532"/>
+<phi Z="-1.500358"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-238.4975" Y="433.1307" Z="400.3898"/>
+<phi Z="-1.500358"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m70_SH20_Standard_l.lod.ls3"/>
+<p X="-235.6618" Y="433.9323" Z="400.348"/>
+<phi Z="-1.500358"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m70_SH20_Standard_k.lod.ls3"/>
+<p X="-233.6697" Y="407.3545" Z="400.5318"/>
+<phi Z="-1.492927"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-232.8566" Y="385.778" Z="400.7179"/>
+<phi Z="-1.517733"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-232.4297" Y="374.2658" Z="400.7943"/>
+<phi Z="1.556881"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-abgesenkt_k.lod.ls3"/>
+<p X="-231.8254" Y="374.2589" Z="400.7943"/>
+<phi Z="1.556881"/>
+<sk X="1" Y="0.95" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m6\Ausleger_3m6-abgesenkt_l.lod.ls3"/>
+<p X="-232.2575" Y="385.8097" Z="400.7179"/>
+<phi Z="-1.517733"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast8m5.lod.ls3"/>
+<p X="-232.2419" Y="349.8961" Z="400.9579"/>
+<phi Z="1.452854"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m30_SH20_Kurve.lod.ls3"/>
+<p X="-232.5398" Y="349.9315" Z="400.9348"/>
+<phi Z="1.452854"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-230.724" Y="322.3119" Z="401.1366"/>
+<phi Z="4.540627"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m00_SH20_Kurve.lod.ls3"/>
+<p X="-237.1284" Y="323.4229" Z="401.3866"/>
+<phi Z="1.399035"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\SBB Infrastruktur Warnung\SBBInfraWarn.lod.ls3"/>
+<p X="-233.9261" Y="322.8673" Z="408.9866"/>
+<phi Z="-1.742558"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\SBB Infrastruktur Warnung\SBBInfraWarn.lod.ls3"/>
+<p X="-237.1283" Y="323.4229" Z="408.8866"/>
+<phi Z="1.399035"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\SBB Infrastruktur Warnung\SBBInfraWarn.lod.ls3"/>
+<p X="-230.4635" Y="332.6559" Z="402.0881"/>
+<phi Z="-0.878942"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\SBB Infrastruktur Warnung\SBBInfraWarn.lod.ls3"/>
+<p X="-239.7213" Y="345.3318" Z="402.074"/>
+<phi Z="2.26265"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\SBB Infrastruktur Warnung\SBBInfraWarn.lod.ls3"/>
+<p X="-250.8079" Y="249.8941" Z="403.841"/>
+<phi Z="4.465505"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\SBB Infrastruktur Warnung\SBBInfraWarn.lod.ls3"/>
+<p X="-245.6828" Y="230.527" Z="403.8727"/>
+<phi Z="4.223689"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Mehrgleisausleger\Rohrausleger\Haengesaeule2m95.lod.ls3"/>
+<p X="-236.7634" Y="475.6824" Z="408.4155"/>
+<phi Z="-1.553041"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Bogenabzug-Haenger_1m.lod.ls3"/>
+<p X="-234.5307" Y="475.7391" Z="400.0511"/>
+<phi Z="-1.553041"/>
+<sk X="1" Y="0.7" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\Anker.lod.ls3"/>
+<p X="-239.8455" Y="406.8024" Z="400.9357"/>
+<phi Z="1.648666"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="-232.0158" Y="443.135" Z="400.2962"/>
+<phi Z="1.612121"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m70_SH20_Kurve.lod.ls3"/>
+<p X="-236.2202" Y="442.9684" Z="400.2649"/>
+<phi Z="1.612121"/>
+<sk X="1" Y="1.05" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
+<p X="-236.6162" Y="407.1948" Z="400.6841"/>
+<phi Z="1.648666"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-236.5977" Y="409.2445" Z="407.6246"/>
+<phi X="0.004739" Z="3.130399"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-236.5985" Y="409.2538" Z="406.6798"/>
+<phi X="0.027131" Z="3.130373"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="-242.5031" Y="503.8082" Z="399.8717"/>
+<phi Z="-1.617404"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast8m5.lod.ls3"/>
+<p X="-239.8509" Y="406.8722" Z="400.5842"/>
+<phi Z="1.648666"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
+<p X="-233.5582" Y="496.2903" Z="399.8717"/>
+<phi Z="-1.603659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
+<p X="-232.1989" Y="496.302" Z="399.8716"/>
+<phi Z="-1.603659"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Mehrgleisausleger\Rohrausleger\Haengesaeule2m95.lod.ls3"/>
+<p X="-233.9157" Y="475.7152" Z="408.419"/>
+<phi Z="-1.553041"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Bogenabzug-Haenger_1m.lod.ls3"/>
+<p X="-230.7162" Y="475.772" Z="400.0429"/>
+<phi Z="-1.553041"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-231.814" Y="443.1434" Z="400.2962"/>
+<phi Z="-1.529472"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m9\Ausleger_3m9-standard_l.lod.ls3"/>
+<p X="-227.9095" Y="443.9117" Z="400.2961"/>
+<phi Z="-1.529472"/>
+<sk X="1" Y="0.975" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast8m5.lod.ls3"/>
+<p X="-226.1432" Y="433.6284" Z="400.2755"/>
+<phi Z="1.665018"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-223.0271" Y="433.923" Z="400.3224"/>
+<phi Z="1.665018"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_4m30_SH20_Kurve.lod.ls3"/>
+<p X="-227.5486" Y="434.0983" Z="400.338"/>
+<phi Z="1.665018"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\IPB200-Mast8m5.lod.ls3"/>
+<p X="-227.9404" Y="413.2589" Z="400.5091"/>
+<phi Z="-1.571119"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-Kurve_k.lod.ls3"/>
+<p X="-228.4404" Y="413.259" Z="400.5091"/>
+<phi Z="-1.571119"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-227.743" Y="388.7719" Z="400.6618"/>
+<phi Z="1.63382"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-224.6192" Y="388.969" Z="400.6618"/>
+<phi Z="1.63382"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-standard_l.lod.ls3"/>
+<p X="-227.261" Y="388.201" Z="400.6617"/>
+<phi Z="1.63382"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-221.6586" Y="408.1176" Z="400.563"/>
+<phi Z="1.691184"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="-222.6163" Y="373.842" Z="400.7472"/>
+<phi Z="1.750429"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-222.815" Y="373.806" Z="400.7472"/>
+<phi Z="1.750429"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m30_SH20_Kurve.lod.ls3"/>
+<p X="-225.9845" Y="372.593" Z="400.7159"/>
+<phi Z="1.750429"/>
+<sk X="1" Y="0.95" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-215.0159" Y="353.8479" Z="400.9019"/>
+<phi Z="-1.343792"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-218.2995" Y="353.0895" Z="400.9019"/>
+<phi Z="1.797801"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m00_SH20_Kurve.lod.ls3"/>
+<p X="-221.5378" Y="352.9573" Z="400.8823"/>
+<phi Z="1.797801"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="-212.7248" Y="335.5049" Z="401.0348"/>
+<phi Z="1.890362"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m40_SH20_Kurve.lod.ls3"/>
+<p X="-215.3185" Y="334.6466" Z="401.0387"/>
+<phi Z="1.890362"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_std.lod.ls3"/>
+<p X="-232.0075" Y="442.9352" Z="400.2962"/>
+<phi Z="-1.529471"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m30_SH20_Ausfaedelung_l.lod.ls3"/>
+<p X="-226.4402" Y="432.9978" Z="400.256"/>
+<phi Z="1.665018"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-230.8529" Y="440.8105" Z="407.1715"/>
+<phi X="-0.087786" Z="0.498767"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-231.1675" Y="440.8181" Z="406.0979"/>
+<phi X="-0.000885" Z="0.528825"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m00_SH20_Kurve.lod.ls3"/>
+<p X="-227.8357" Y="389.3672" Z="400.6422"/>
+<phi Z="1.63382"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m70_SH20_Kurve.lod.ls3"/>
+<p X="-225.0919" Y="349.049" Z="400.9149"/>
+<phi Z="-1.688738"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="-219.6243" Y="331.7821" Z="401.0599"/>
+<phi Z="1.761093"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Mehrgleisausleger\Rohrausleger\Rohrausleger11m_6m5Ausleger.lod.ls3"/>
+<p X="-215.2895" Y="292.146" Z="401.335"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Mehrgleisausleger\Rohrausleger\Haengesaeule2m95.lod.ls3"/>
+<p X="-213.5072" Y="292.3977" Z="409.465"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-213.4379" Y="292.4075" Z="401.335"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m70_SH20_Kurve.lod.ls3"/>
+<p X="-222.6016" Y="331.2086" Z="401.0989"/>
+<phi Z="1.761093"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m20_SH20_Standard_k.lod.ls3"/>
+<p X="-216.0569" Y="292.0377" Z="401.374"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0061\000456_006085_Westerland\Objekte\AWLA_Werbeuhr\Werbeuhr.lod.ls3"/>
+<p X="-211.7057" Y="234.3088" Z="401.6293"/>
+<phi Z="-1.366188"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-211.8385" Y="260.0298" Z="401.5971"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m20_SH20_Kurve.lod.ls3"/>
+<p X="-212.6306" Y="259.918" Z="401.6244"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-204.695" Y="220.6152" Z="401.7841"/>
+<phi Z="1.805744"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m00_SH20_Kurve.lod.ls3"/>
+<p X="-204.695" Y="220.6152" Z="401.8466"/>
+<phi Z="1.805744"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="-191.283" Y="169.4036" Z="402.2058"/>
+<phi Z="-1.321888"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
+<p X="-191.3199" Y="169.549" Z="402.2058"/>
+<phi Z="1.819705"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-191.839" Y="171.5321" Z="409.1356"/>
+<phi X="0.010087" Z="3.39776"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-191.8414" Y="171.5415" Z="408.2213"/>
+<phi X="0.017241" Z="3.397763"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-IBP2_vor_klGewicht.lod.ls3"/>
+<p X="-231.1904" Y="413.2599" Z="400.459"/>
+<phi Z="-1.571119"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m70_SH20_Ausfaedelung_l.lod.ls3"/>
+<p X="-225.7608" Y="373.881" Z="400.7276"/>
+<phi Z="1.750429"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-230.919" Y="410.431" Z="407.2076"/>
+<phi X="-0.024274" Z="0.136314"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-230.9218" Y="410.8301" Z="406.2752"/>
+<phi X="-0.008104" Z="0.134766"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m30_SH20_Kurve.lod.ls3"/>
+<p X="-221.5601" Y="351.7205" Z="400.8706"/>
+<phi Z="1.797801"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-219.4259" Y="331.8203" Z="401.0599"/>
+<phi Z="-1.380499"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m70_SH20_Kurve.lod.ls3"/>
+<p X="-216.4795" Y="331.7769" Z="401.052"/>
+<phi Z="-1.380499"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m40_SH20_Kurve.lod.ls3"/>
+<p X="-210.7944" Y="292.1749" Z="401.3271"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_std.lod.ls3"/>
+<p X="-219.5865" Y="331.5857" Z="401.0599"/>
+<phi Z="-1.380499"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\QTW_Gittermast12-5m.lod.ls3"/>
+<p X="-203.4384" Y="275.7606" Z="401.468"/>
+<phi Z="-1.279852"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="-206.7099" Y="274.781" Z="401.468"/>
+<phi Z="1.861742"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\QTW_Gittermast12-5m.lod.ls3"/>
+<p X="-186.1696" Y="282.4495" Z="401.387"/>
+<phi Z="-1.139098"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m40_SH20_Kurve.lod.ls3"/>
+<p X="-210.9622" Y="293.3632" Z="401.292"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-218.902" Y="329.2917" Z="407.7964"/>
+<phi X="-0.018303" Z="0.216374"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-219.2456" Y="329.2258" Z="406.8563"/>
+<phi X="0.00175" Z="0.226994"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
+<p X="-207.8282" Y="260.6588" Z="401.597"/>
+<phi Z="-1.430474"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m20_SH20_Kurve.lod.ls3"/>
+<p X="-199.1516" Y="221.9423" Z="401.8583"/>
+<phi Z="-1.335848"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast8m0.lod.ls3"/>
+<p X="-184.8935" Y="167.656" Z="402.2132"/>
+<phi Z="-1.32146"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
+<p X="-184.9305" Y="167.8014" Z="402.2132"/>
+<phi Z="1.820133"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-185.4509" Y="169.7841" Z="409.1389"/>
+<phi X="0.012145" Z="3.398466"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1367" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-185.4534" Y="169.7936" Z="408.2308"/>
+<phi X="0.016181" Z="3.398467"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5277500.lsb"/>
