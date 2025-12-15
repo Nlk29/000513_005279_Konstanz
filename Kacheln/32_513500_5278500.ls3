@@ -2072,6 +2072,90 @@
 <phi Z="-1.636141"/>
 <sk X="1" Y="0.7" Z="1"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m30_SH20_Standard_l.lod.ls3"/>
+<p X="-221.6686" Y="-416.5345" Z="399.1991"/>
+<phi Z="-1.636141"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-227.3506" Y="-460.1281" Z="399.5572"/>
+<phi Z="-1.636141"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m00_SH20_Standard_k.lod.ls3"/>
+<p X="-224.2115" Y="-460.9347" Z="399.5376"/>
+<phi Z="-1.636142"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Bogenabzug-Haenger_1m.lod.ls3"/>
+<p X="-225.0427" Y="-479.2071" Z="399.6895"/>
+<phi Z="4.647044"/>
+<sk X="1" Y="0.7" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-204.1841" Y="-371.3673" Z="399.0277"/>
+<phi Z="4.536931"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m20_SH20_Standard_l.lod.ls3"/>
+<p X="-209.7965" Y="-370.3723" Z="398.8558"/>
+<phi Z="1.395339"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-210.9039" Y="-411.3579" Z="399.1494"/>
+<phi Z="-1.724372"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m40_SH20_Standard_k.lod.ls3"/>
+<p X="-216.7344" Y="-410.4554" Z="399.1767"/>
+<phi Z="1.417221"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m40_SH20_Kurve.lod.ls3"/>
+<p X="-224.7319" Y="-459.6981" Z="399.5142"/>
+<phi Z="-1.636142"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Bogenabzug-Haenger_1m.lod.ls3"/>
+<p X="-223.3904" Y="-479.3008" Z="399.795"/>
+<phi Z="-1.636141"/>
+<sk X="1" Y="1.25" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
+<p X="-215.6095" Y="-430.2688" Z="399.4677"/>
+<phi Z="1.370453"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m20_SH20_Standard_k.lod.ls3"/>
+<p X="-204.9717" Y="-371.2276" Z="398.8558"/>
+<phi Z="-1.746254"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m\Ausleger_2m-standard_k.lod.ls3"/>
+<p X="-214.7701" Y="-430.4326" Z="399.3153"/>
+<phi Z="1.370453"/>
+<sk X="1" Y="1.05" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Bogenabzug-Haenger_m65.lod.ls3"/>
+<p X="-221.0046" Y="-460.6137" Z="399.5572"/>
+<phi Z="-1.636141"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="1370" MeshI="2808">
 <RenderFlags TexVoreinstellung="3"/>

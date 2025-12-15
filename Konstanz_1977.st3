@@ -35599,15 +35599,8 @@
 <b X="295.3315" Y="-1254.879" Z="401.6848"/>
 <InfoNormRichtung vMax="11.1111" km="414.9697" pos="1"/>
 <InfoGegenRichtung vMax="11.1111" km="414.9753"/>
-<NachNorm Nr="2620"/>
+<NachNorm Nr="4338"/>
 <NachGegen Nr="2618"/>
-</StrElement>
-<StrElement Nr="2620" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="295.3315" Y="-1254.879" Z="401.6848"/>
-<b X="314.5674" Y="-1330.422" Z="402.2132"/>
-<InfoNormRichtung vMax="11.1111" km="414.9748" pos="1"/>
-<InfoGegenRichtung vMax="11.1111" km="415.0527"/>
-<NachGegen Nr="2619"/>
 </StrElement>
 <StrElement Nr="2621" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="296.4233" Y="-1238.24" Z="401.5614"/>
@@ -44238,7 +44231,33 @@
 <StrElement Nr="3152" spTrass="11.1111" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="339.2392" Y="-1260.873" Z="401.6712"/>
 <b X="347.7547" Y="-1275.4105" Z="401.7666"/>
-<InfoGegenRichtung vMax="11.1111" km="414.9899"/>
+<InfoGegenRichtung vMax="11.1111" km="414.9899">
+<Signal SignalTyp="1" BoundingR="10">
+<p X="346.2782" Y="-1268.3392" Z="405.1212"/>
+<phi Z="2.100682"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_6.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.075" Z="-3.6"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Zusatzsignale\Zs_Einzeln-Mast.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.425"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_Pfeil.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="7" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="4262"/>
 <NachGegen Nr="3155"/>
 </StrElement>
@@ -55714,6 +55733,12 @@
 <InfoNormRichtung vMax="11.1111" km="414.9286" pos="1"/>
 <NachNorm Nr="2366"/>
 <NachGegen Nr="2365"/>
+</StrElement>
+<StrElement Nr="4338" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="295.3315" Y="-1254.879" Z="401.6848"/>
+<b X="314.5674" Y="-1330.422" Z="402.2132"/>
+<InfoNormRichtung vMax="-1"/>
+<NachGegen Nr="2619"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="798.1303">
 <FahrstrStart Ref="103">
