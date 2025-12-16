@@ -51607,201 +51607,232 @@
 </StrElement>
 <StrElement Nr="4048" kr="-0.038233" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="489.3613" Y="-151.7082" Z="395.564"/>
-<b X="489.6425" Y="-153.8461" Z="395.6952"/>
+<b X="489.6425" Y="-153.8461" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0022" pos="1"/>
 <NachNorm Nr="4049"/>
 </StrElement>
 <StrElement Nr="4049" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="489.6424" Y="-153.8461" Z="395.6952"/>
-<b X="493.1228" Y="-192.617" Z="395.7388"/>
+<g X="489.6424" Y="-153.8461" Z="395.23"/>
+<b X="493.1228" Y="-192.617" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0389" pos="1"/>
+<NachNorm Nr="4050"/>
 <NachGegen Nr="4048"/>
 </StrElement>
 <StrElement Nr="4050" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="493.1228" Y="-192.617" Z="395.7388"/>
-<b X="494.8414" Y="-192.5494" Z="395.5721"/>
+<g X="493.1228" Y="-192.617" Z="395.23"/>
+<b X="494.8414" Y="-192.5494" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4051"/>
 </StrElement>
 <StrElement Nr="4051" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="494.8414" Y="-192.5494" Z="395.5721"/>
-<b X="496.5583" Y="-192.6512" Z="395.6024"/>
+<g X="494.8414" Y="-192.5494" Z="395.23"/>
+<b X="496.5583" Y="-192.6512" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4052"/>
 </StrElement>
 <StrElement Nr="4052" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="496.5583" Y="-192.6512" Z="395.6024"/>
-<b X="498.2568" Y="-192.9214" Z="395.6861"/>
+<g X="496.5583" Y="-192.6512" Z="395.23"/>
+<b X="498.2568" Y="-192.9214" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4053"/>
 </StrElement>
 <StrElement Nr="4053" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="498.2568" Y="-192.9214" Z="395.6861"/>
-<b X="499.9205" Y="-193.3574" Z="395.7523"/>
+<g X="498.2568" Y="-192.9214" Z="395.23"/>
+<b X="499.9205" Y="-193.3574" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4054"/>
 </StrElement>
 <StrElement Nr="4054" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="499.9205" Y="-193.3574" Z="395.7523"/>
-<b X="501.5333" Y="-193.9549" Z="395.8297"/>
+<g X="499.9205" Y="-193.3574" Z="395.23"/>
+<b X="501.5333" Y="-193.9549" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4055"/>
 </StrElement>
 <StrElement Nr="4055" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="501.5333" Y="-193.9549" Z="395.8297"/>
-<b X="503.0795" Y="-194.7082" Z="395.8426"/>
+<g X="501.5333" Y="-193.9549" Z="395.23"/>
+<b X="503.0795" Y="-194.7082" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4056"/>
 </StrElement>
 <StrElement Nr="4056" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="503.0795" Y="-194.7082" Z="395.8426"/>
-<b X="504.544" Y="-195.6099" Z="395.8618"/>
+<g X="503.0795" Y="-194.7082" Z="395.23"/>
+<b X="504.544" Y="-195.6099" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4057"/>
 </StrElement>
 <StrElement Nr="4057" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="504.544" Y="-195.6099" Z="395.8618"/>
-<b X="505.9128" Y="-196.6513" Z="395.8687"/>
+<g X="504.544" Y="-195.6099" Z="395.23"/>
+<b X="505.9128" Y="-196.6513" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4058"/>
 </StrElement>
 <StrElement Nr="4058" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="505.9128" Y="-196.6513" Z="395.8687"/>
-<b X="507.1725" Y="-197.8223" Z="395.8677"/>
+<g X="505.9128" Y="-196.6513" Z="395.23"/>
+<b X="507.1725" Y="-197.8223" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4059"/>
 </StrElement>
 <StrElement Nr="4059" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="507.1725" Y="-197.8223" Z="395.8677"/>
-<b X="508.3109" Y="-199.1115" Z="395.8744"/>
+<g X="507.1725" Y="-197.8223" Z="395.23"/>
+<b X="508.3109" Y="-199.1115" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4060"/>
 </StrElement>
 <StrElement Nr="4060" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="508.3109" Y="-199.1115" Z="395.8744"/>
-<b X="509.3169" Y="-200.5065" Z="395.8692"/>
+<g X="508.3109" Y="-199.1115" Z="395.23"/>
+<b X="509.3169" Y="-200.5065" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4061"/>
 </StrElement>
 <StrElement Nr="4061" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="509.3169" Y="-200.5065" Z="395.8692"/>
-<b X="510.1808" Y="-201.9937" Z="395.8467"/>
+<g X="509.3169" Y="-200.5065" Z="395.23"/>
+<b X="510.1808" Y="-201.9937" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4062"/>
 </StrElement>
 <StrElement Nr="4062" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="510.1808" Y="-201.9937" Z="395.8467"/>
-<b X="510.8942" Y="-203.5586" Z="395.8244"/>
+<g X="510.1808" Y="-201.9937" Z="395.23"/>
+<b X="510.8942" Y="-203.5586" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4063"/>
 </StrElement>
 <StrElement Nr="4063" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="510.8942" Y="-203.5586" Z="395.8244"/>
-<b X="511.4503" Y="-205.1862" Z="395.778"/>
+<g X="510.8942" Y="-203.5586" Z="395.23"/>
+<b X="511.4503" Y="-205.1862" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4064"/>
 </StrElement>
 <StrElement Nr="4064" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="511.4503" Y="-205.1862" Z="395.778"/>
-<b X="511.8435" Y="-206.8605" Z="395.7482"/>
+<g X="511.4503" Y="-205.1862" Z="395.23"/>
+<b X="511.8435" Y="-206.8605" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4065"/>
 </StrElement>
 <StrElement Nr="4065" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="511.8435" Y="-206.8605" Z="395.7482"/>
-<b X="512.0701" Y="-208.5654" Z="395.6911"/>
+<g X="511.8435" Y="-206.8605" Z="395.23"/>
+<b X="512.0701" Y="-208.5654" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4066"/>
 </StrElement>
 <StrElement Nr="4066" kr="-0.057266" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="512.0701" Y="-208.5654" Z="395.6911"/>
-<b X="512.1279" Y="-210.2843" Z="395.623"/>
+<g X="512.0701" Y="-208.5654" Z="395.23"/>
+<b X="512.1279" Y="-210.2843" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
+<NachNorm Nr="4067"/>
 </StrElement>
 <StrElement Nr="4067" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="512.1279" Y="-210.2844" Z="395.6229"/>
-<b X="512.0164" Y="-211.8785" Z="395.5456"/>
+<g X="512.1279" Y="-210.2844" Z="395.23"/>
+<b X="512.0164" Y="-211.8785" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4068"/>
 </StrElement>
 <StrElement Nr="4068" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="512.0164" Y="-211.8785" Z="395.5456"/>
-<b X="511.733" Y="-213.4512" Z="395.5024"/>
+<g X="512.0164" Y="-211.8785" Z="395.23"/>
+<b X="511.733" Y="-213.4512" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4069"/>
 </StrElement>
 <StrElement Nr="4069" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="511.733" Y="-213.4512" Z="395.5024"/>
-<b X="511.2812" Y="-214.984" Z="395.4756"/>
+<g X="511.733" Y="-213.4512" Z="395.23"/>
+<b X="511.2812" Y="-214.984" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4070"/>
 </StrElement>
 <StrElement Nr="4070" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="511.2812" Y="-214.984" Z="395.4756"/>
-<b X="510.6661" Y="-216.4589" Z="395.4041"/>
+<g X="511.2812" Y="-214.984" Z="395.23"/>
+<b X="510.6661" Y="-216.4589" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4071"/>
 </StrElement>
 <StrElement Nr="4071" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="510.6661" Y="-216.4589" Z="395.4041"/>
-<b X="509.8951" Y="-217.8587" Z="395.365"/>
+<g X="510.6661" Y="-216.4589" Z="395.23"/>
+<b X="509.8951" Y="-217.8587" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4072"/>
 </StrElement>
 <StrElement Nr="4072" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="509.8951" Y="-217.8587" Z="395.365"/>
-<b X="508.9771" Y="-219.1667" Z="395.34"/>
+<g X="509.8951" Y="-217.8587" Z="395.23"/>
+<b X="508.9771" Y="-219.1667" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4073"/>
 </StrElement>
 <StrElement Nr="4073" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="508.9771" Y="-219.1667" Z="395.34"/>
-<b X="507.923" Y="-220.3678" Z="395.314"/>
+<g X="508.9771" Y="-219.1667" Z="395.23"/>
+<b X="507.923" Y="-220.3678" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4074"/>
 </StrElement>
 <StrElement Nr="4074" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="507.923" Y="-220.3678" Z="395.314"/>
-<b X="506.7451" Y="-221.4478" Z="395.296"/>
+<g X="507.923" Y="-220.3678" Z="395.23"/>
+<b X="506.7451" Y="-221.4478" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4075"/>
 </StrElement>
 <StrElement Nr="4075" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="506.7451" Y="-221.4478" Z="395.296"/>
-<b X="505.4573" Y="-222.3939" Z="395.2674"/>
+<g X="506.7451" Y="-221.4478" Z="395.23"/>
+<b X="505.4573" Y="-222.3939" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4076"/>
 </StrElement>
 <StrElement Nr="4076" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="505.4573" Y="-222.3939" Z="395.2674"/>
-<b X="504.0747" Y="-223.1952" Z="395.3114"/>
+<g X="505.4573" Y="-222.3939" Z="395.23"/>
+<b X="504.0747" Y="-223.1952" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4077"/>
 </StrElement>
 <StrElement Nr="4077" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="504.0747" Y="-223.1952" Z="395.3114"/>
-<b X="502.6135" Y="-223.8422" Z="395.3469"/>
+<g X="504.0747" Y="-223.1952" Z="395.23"/>
+<b X="502.6135" Y="-223.8422" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4078"/>
 </StrElement>
 <StrElement Nr="4078" kr="-0.067807" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="502.6135" Y="-223.8422" Z="395.3469"/>
-<b X="501.0909" Y="-224.3273" Z="395.5059"/>
+<g X="502.6135" Y="-223.8422" Z="395.23"/>
+<b X="501.0909" Y="-224.3273" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0016" pos="1"/>
+<NachNorm Nr="4079"/>
 </StrElement>
 <StrElement Nr="4079" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="501.0909" Y="-224.3273" Z="395.5059"/>
-<b X="497.6622" Y="-231.5083" Z="395.6633"/>
+<g X="501.0909" Y="-224.3273" Z="395.23"/>
+<b X="497.6622" Y="-231.5083" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.008" pos="1"/>
+<NachNorm Nr="4080"/>
 </StrElement>
 <StrElement Nr="4080" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="497.6622" Y="-231.5083" Z="395.6633"/>
-<b X="502.6018" Y="-292.4313" Z="395.8636"/>
+<g X="497.6622" Y="-231.5083" Z="395.23"/>
+<b X="502.6018" Y="-292.4313" Z="395.23"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0611" pos="1"/>
 </StrElement>
@@ -55047,7 +55078,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55059,7 +55090,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55097,7 +55128,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55109,7 +55140,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55318,7 +55349,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55330,7 +55361,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55362,7 +55393,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -55374,7 +55405,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55739,6 +55770,40 @@
 <b X="314.5674" Y="-1330.422" Z="402.2132"/>
 <InfoNormRichtung vMax="-1"/>
 <NachGegen Nr="2619"/>
+</StrElement>
+<StrElement Nr="4340" spTrass="27.7778" Fkt="2">
+<g X="337.5" Y="9.4" Z="399.9"/>
+<b X="338.1677" Y="-0.5148" Z="399.7303"/>
+<NachNorm Nr="4345"/>
+</StrElement>
+<StrElement Nr="4341" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="349.1437" Y="-100.9694" Z="399.05"/>
+<b X="350.6264" Y="-105.7445" Z="399.05"/>
+<NachNorm Nr="4346"/>
+<NachGegen Nr="4345"/>
+</StrElement>
+<StrElement Nr="4343" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="353.1872" Y="-113.9918" Z="399.05"/>
+<b X="359.1409" Y="-128.5866" Z="398.4472"/>
+<NachNorm Nr="4344"/>
+<NachGegen Nr="4346"/>
+</StrElement>
+<StrElement Nr="4344" spTrass="27.7778" Fkt="2">
+<g X="359.1409" Y="-128.5866" Z="398.4472"/>
+<b X="363.8438" Y="-149" Z="398.2047"/>
+<NachNorm Nr="452"/>
+</StrElement>
+<StrElement Nr="4345" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="338.1677" Y="-0.5148" Z="399.7303"/>
+<b X="349.1437" Y="-100.9694" Z="399.05"/>
+<NachNorm Nr="4341"/>
+<NachGegen Nr="4340"/>
+</StrElement>
+<StrElement Nr="4346" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="350.6264" Y="-105.7445" Z="399.05"/>
+<b X="353.1872" Y="-113.9918" Z="399.05"/>
+<NachNorm Nr="4343"/>
+<NachGegen Nr="4341"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="798.1303">
 <FahrstrStart Ref="103">
