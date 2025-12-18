@@ -3,16 +3,13 @@
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
 <lsb Dateiname="Konzil.lod2.lsb"/>
-<SubSet Cd="FFFFFFFF" MeshV="47" MeshI="84">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="65" MeshI="120">
+<SubSet Cd="FFFFFFFF" MeshV="73" MeshI="132">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0054\000637_005359_Augsburg-Oberhausen\Objekte\MAOB_Schuhfabrik\MAOB_Schuhfabrik_Dach.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="883" MeshI="1596">
+<SubSet Cd="FFFFFFFF" MeshV="909" MeshI="1638">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Konzil_lod2.dds"/>

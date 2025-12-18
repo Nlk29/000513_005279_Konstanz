@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Werkstatt.lod3.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="2303" MeshI="4908">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000565_005804_Lehrte_West\Objekte\LehrteZentrum02\LehrteNZ_West\LehrteZentrum_West_Holzdecke.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="1081" MeshI="1803">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="ZiegelHell.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="153" MeshI="240">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000468_005299_Zollhaus\ObjekteZollhaus\Reiterstellwerk\ReiterStw.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Werkstatt\Werkstatt_lod3\texture2.png"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FF000000" MeshV="24" MeshI="60">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="72" MeshI="168">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Bahnsteig\holzverkleidung.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="12" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000486_006019_StPeterOrding\Objekte\ATG_Selkstrasse_2\Dach.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

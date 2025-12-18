@@ -2955,96 +2955,6 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-180.2597" Y="315.7295" Z="355.3888"/>
-<phi X="0.281997" Z="3.405294"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-179.759" Y="313.8749" Z="355.9453"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-178.2971" Y="308.4602" Z="357.5703"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-177.7964" Y="306.6056" Z="358.1268"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-172.1526" Y="285.702" Z="364.3998"/>
-<phi X="0.281997" Z="3.405294"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-171.6519" Y="283.8474" Z="364.9563"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-165.5426" Y="261.2196" Z="371.7467"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-165.0419" Y="259.365" Z="372.3033"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-161.5458" Y="246.416" Z="376.1891"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-161.0451" Y="244.5614" Z="376.7457"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-158.8565" Y="236.4552" Z="379.1783"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-158.3558" Y="234.6006" Z="379.7349"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
-<p X="-155.3159" Y="223.3412" Z="383.1137"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-154.8152" Y="221.4866" Z="383.6702"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="-151.9298" Y="210.7998" Z="386.8772"/>
-<phi X="-0.281997" Z="0.263702"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-133.0543" Y="140.8877" Z="407.8573"/>
 <phi X="0.281997" Z="3.405294"/>
@@ -3416,7 +3326,7 @@
 <phi X="0.000158" Z="3.15836"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1143" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-257.4904" Y="383.55" Z="406.7525"/>
 <phi X="0.022705" Z="3.166938"/>
@@ -3495,7 +3405,7 @@
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="1154" MeshI="2970">
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="1154" MeshI="2925">
 <RenderFlags TexVoreinstellung="3"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
@@ -3522,13 +3432,13 @@
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="3656" MeshI="13110">
+<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="3656" MeshI="13002">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\ballast.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="1413" MeshI="3693">
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="1413" MeshI="3579">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
@@ -3826,6 +3736,30 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="31" MeshI="87">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

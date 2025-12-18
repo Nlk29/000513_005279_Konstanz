@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="OberpostamtFluegel.lod3.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="12" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_EG_Nord\Husum_Nord_EG_Dach.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="54" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_EG_Nord\Husum_Nord_EG_Dach.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="129" MeshI="201">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="OberpostamtFluegel.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>
