@@ -260,10 +260,64 @@
 <phi Z="-0.045071"/>
 <sk X="0.7" Y="0.85" Z="0.9"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Ausfaedelungsabzug_0m60.lod.ls3"/>
-<p X="-500" Y="-500"/>
-<phi/>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000503_005732_Driburg\Objekte\16_Haus_04\Driburg_Haus4.lod.ls3"/>
+<p X="-111.4691" Y="-433.1902" Z="400.5339"/>
+<phi Z="3.102653"/>
+<sk X="1.2" Y="1.2" Z="1.1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_09_Kath_FH\06_09_FH_beige.lod.ls3"/>
+<p X="-121.9901" Y="-512.4171" Z="399.5988"/>
+<phi Z="3.048656"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_09_Kath_FH\06_09_FH_beige.lod.ls3"/>
+<p X="-118.935" Y="-480.5855" Z="399.675"/>
+<phi Z="6.190248"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_09_Kath_FH\06_09_FH_beige.lod.ls3"/>
+<p X="-102.0564" Y="-526.9003" Z="400.0394"/>
+<phi Z="4.619452"/>
+<sk X="1" Y="1" Z="0.975"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_09_Kath_FH\06_09_FH_beige.lod.ls3"/>
+<p X="-97.0765" Y="-469.6465" Z="399.6867"/>
+<phi Z="4.619452"/>
+<sk X="1" Y="1" Z="0.975"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\01_03_Wohn_Geschaeftshaus\01_03_Wh_G_Haus.lod.ls3"/>
+<p X="-260.1457" Y="-489.8169" Z="402.3719"/>
+<phi Z="0.171112"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Junkerstr\AC_WH_Junkerstr89-91.lod.ls3"/>
+<p X="-265.7676" Y="-460.3527" Z="401.9479"/>
+<phi Z="0.171112"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Boxgraben\AC_Boxgraben135-137.lod.ls3"/>
+<p X="-271.3895" Y="-430.8885" Z="401.133"/>
+<phi Z="0.171112"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="23" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_09_Kath_FH\06_09_FH_beige.lod.ls3"/>
+<p X="-277.0114" Y="-402.6712" Z="400.9691"/>
+<phi Z="4.883501"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="248" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\06_09_Kath_FH\06_09_FH_beige.lod.ls3"/>
+<p X="-282.6333" Y="-371.9601" Z="400.8348"/>
+<phi Z="0.171112"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>

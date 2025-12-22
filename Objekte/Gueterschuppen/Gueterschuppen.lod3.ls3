@@ -3,16 +3,16 @@
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
 <lsb Dateiname="Gueterschuppen.lod3.lsb"/>
-<SubSet Cd="FFFFFFFF" MeshV="36" MeshI="78">
+<SubSet Cd="FFFFFFFF" MeshV="31" MeshI="69">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="33" MeshI="75">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000574_005801_Haemelerwald\Objekte\01_Haemelerwald_EG\dach_bhf.dds"/>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_Deichstr_Druckerei\ziegeldach_10.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="110" MeshI="186">
+<SubSet Cd="FFFFFFFF" MeshV="130" MeshI="210">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Gueterschuppen_lod3.dds"/>
