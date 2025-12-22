@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-123.2082" Y="37.4164" Z="397.9374"/>
+<phi Z="0.289021"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-119.3975" Y="38.1998" Z="397.9496"/>
+<phi Z="0.09598"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-109.4436" Y="39.1581" Z="397.9831"/>
+<phi Z="0.09598"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-100.872" Y="41.9946" Z="398.0175"/>
+<phi Z="1.172646"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-100.7799" Y="45.6784" Z="398.0256"/>
+<phi Z="1.651782"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-101.5889" Y="55.6456" Z="398.0443"/>
+<phi Z="1.651782"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-102.3978" Y="65.6128" Z="398.0648"/>
+<phi Z="1.651782"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-109.8855" Y="68.9656" Z="398.0786"/>
+<phi Z="3.05102"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-119.8445" Y="69.8701" Z="398.021"/>
+<phi Z="3.05102"/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

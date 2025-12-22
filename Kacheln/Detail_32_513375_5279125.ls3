@@ -2,6 +2,2784 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.9958" Y="20.5719" Z="401.0512"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.563" Y="19.6707" Z="401.0372"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.1302" Y="18.7694" Z="401.0228"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.6974" Y="17.8682" Z="401.0015"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.2646" Y="16.9669" Z="400.9761"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.8318" Y="16.0657" Z="400.9567"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.399" Y="15.1644" Z="400.9413"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.9662" Y="14.2631" Z="400.9132"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.5334" Y="13.3619" Z="400.8784"/>
+<phi Z="-1.12309"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.3703" Y="12.3787" Z="400.8375"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.2267" Y="11.3898" Z="400.7961"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.083" Y="10.4009" Z="400.753"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.9394" Y="9.4121" Z="400.7125"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.7958" Y="8.4232" Z="400.6755"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.6522" Y="7.4343" Z="400.6385"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.5086" Y="6.4454" Z="400.6015"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.365" Y="5.4566" Z="400.5645"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.2214" Y="4.4677" Z="400.5276"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.0778" Y="3.4788" Z="400.4905"/>
+<phi Z="-1.426574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.4684" Y="2.6484" Z="400.4631"/>
+<phi Z="-2.293143"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.0226" Y="2.2299" Z="400.4518"/>
+<phi Z="1.67051"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.1221" Y="3.2242" Z="400.4887"/>
+<phi Z="1.67051"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.2216" Y="4.2186" Z="400.5256"/>
+<phi Z="1.67051"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.3211" Y="5.2129" Z="400.5624"/>
+<phi Z="1.67051"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.4206" Y="6.2073" Z="400.5993"/>
+<phi Z="1.67051"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.6457" Y="7.1786" Z="400.6362"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.8995" Y="8.1453" Z="400.6732"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.1532" Y="9.1119" Z="400.714"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.407" Y="10.0786" Z="400.7574"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.6607" Y="11.0453" Z="400.7986"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.9145" Y="12.012" Z="400.8376"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.1682" Y="12.9787" Z="400.8712"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.422" Y="13.9454" Z="400.8941"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.6758" Y="14.912" Z="400.914"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.9295" Y="15.8787" Z="400.9403"/>
+<phi Z="1.827508"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.2924" Y="16.7978" Z="400.9666"/>
+<phi Z="2.146617"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.8369" Y="17.6365" Z="400.9812"/>
+<phi Z="2.146617"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.3814" Y="18.4752" Z="400.9919"/>
+<phi Z="2.146617"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.9259" Y="19.3139" Z="400.9972"/>
+<phi Z="2.146617"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.5796" Y="18.5459" Z="400.9896"/>
+<phi Z="-1.134146"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.1568" Y="17.6399" Z="400.9753"/>
+<phi Z="-1.134146"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.7339" Y="16.7338" Z="400.9606"/>
+<phi Z="-1.134146"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.3111" Y="15.8278" Z="400.9371"/>
+<phi Z="-1.134146"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.8882" Y="14.9217" Z="400.9115"/>
+<phi Z="-1.134146"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.4654" Y="14.0157" Z="400.8951"/>
+<phi Z="-1.134146"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.0786" Y="13.0948" Z="400.875"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.7227" Y="12.161" Z="400.8423"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.3668" Y="11.2272" Z="400.8026"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.011" Y="10.2934" Z="400.7611"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.6551" Y="9.3597" Z="400.7175"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.2992" Y="8.4259" Z="400.6791"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.9433" Y="7.4921" Z="400.6426"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.5874" Y="6.5583" Z="400.6062"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.2315" Y="5.6245" Z="400.5697"/>
+<phi Z="-1.206668"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.886" Y="4.6889" Z="400.5332"/>
+<phi Z="-1.63482"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.95" Y="3.6916" Z="400.4974"/>
+<phi Z="-1.63482"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.0139" Y="2.6943" Z="400.4615"/>
+<phi Z="-1.63482"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.0779" Y="1.697" Z="400.4258"/>
+<phi Z="-1.63482"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.184" Y="2.3372" Z="400.4498"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.2992" Y="3.3298" Z="400.4867"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.4144" Y="4.3225" Z="400.5236"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.5296" Y="5.3151" Z="400.5605"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.6448" Y="6.3077" Z="400.5975"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.76" Y="7.3003" Z="400.6344"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.8752" Y="8.2929" Z="400.6713"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.9904" Y="9.2856" Z="400.7082"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.1056" Y="10.2782" Z="400.7482"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.2208" Y="11.2708" Z="400.791"/>
+<phi Z="1.686334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.4037" Y="12.2525" Z="400.8328"/>
+<phi Z="1.766413"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.5979" Y="13.2329" Z="400.874"/>
+<phi Z="1.766413"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.7922" Y="14.2133" Z="400.9112"/>
+<phi Z="1.766413"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.9865" Y="15.1937" Z="400.9452"/>
+<phi Z="1.766413"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.1808" Y="16.1741" Z="400.9701"/>
+<phi Z="1.766413"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.375" Y="17.1545" Z="400.9913"/>
+<phi Z="1.766413"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.8736" Y="17.9949" Z="401.0089"/>
+<phi Z="2.241644"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.4952" Y="18.7782" Z="401.0299"/>
+<phi Z="2.241644"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.1169" Y="19.5614" Z="401.0429"/>
+<phi Z="2.241644"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.7385" Y="20.3447" Z="401.0507"/>
+<phi Z="2.241644"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.3601" Y="21.1279" Z="401.0535"/>
+<phi Z="2.241644"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.3873" Y="20.658" Z="401.0422"/>
+<phi Z="-1.35597"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.1742" Y="19.6812" Z="401.0259"/>
+<phi Z="-1.35597"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.9611" Y="18.7044" Z="401.0055"/>
+<phi Z="-1.35597"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.7479" Y="17.7277" Z="400.9852"/>
+<phi Z="-1.35597"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.5348" Y="16.7509" Z="400.9641"/>
+<phi Z="-1.35597"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.3217" Y="15.7741" Z="400.9355"/>
+<phi Z="-1.35597"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.1086" Y="14.7973" Z="400.9068"/>
+<phi Z="-1.35597"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.8954" Y="13.8205" Z="400.8831"/>
+<phi Z="-1.35597"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.565" Y="12.8783" Z="400.8651"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.2217" Y="11.9398" Z="400.8356"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.8785" Y="11.0012" Z="400.7993"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.5352" Y="10.0626" Z="400.7581"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.192" Y="9.1241" Z="400.715"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.8487" Y="8.1855" Z="400.6743"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.5055" Y="7.2469" Z="400.6377"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.1622" Y="6.3084" Z="400.6012"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.819" Y="5.3698" Z="400.5646"/>
+<phi Z="-1.220193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.5251" Y="4.418" Z="400.5279"/>
+<phi Z="-1.38963"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.345" Y="3.435" Z="400.4908"/>
+<phi Z="-1.38963"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.165" Y="2.4521" Z="400.4538"/>
+<phi Z="-1.38963"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.9849" Y="1.4691" Z="400.4168"/>
+<phi Z="-1.38963"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.9491" Y="1.2622" Z="400.409"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.1342" Y="2.2441" Z="400.446"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.3193" Y="3.2261" Z="400.4831"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.5044" Y="4.2081" Z="400.5201"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.6895" Y="5.19" Z="400.5571"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.8746" Y="6.172" Z="400.5941"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.0598" Y="7.1539" Z="400.6312"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.2448" Y="8.1359" Z="400.6682"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.43" Y="9.1179" Z="400.7053"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.6151" Y="10.0998" Z="400.7477"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.8002" Y="11.0818" Z="400.7906"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.9853" Y="12.0637" Z="400.8317"/>
+<phi Z="1.757118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.2025" Y="13.037" Z="400.8716"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.5666" Y="13.9681" Z="400.9041"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.9307" Y="14.8992" Z="400.926"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.2948" Y="15.8303" Z="400.9431"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.6589" Y="16.7614" Z="400.9682"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.023" Y="17.6925" Z="400.9948"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.3871" Y="18.6236" Z="401.0143"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.7513" Y="19.5547" Z="401.0307"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.1154" Y="20.4858" Z="401.0459"/>
+<phi Z="1.943561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.3378" Y="20.1027" Z="401.0312"/>
+<phi Z="-1.728985"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.4953" Y="19.1155" Z="401.0047"/>
+<phi Z="-1.728985"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.6528" Y="18.1283" Z="400.9781"/>
+<phi Z="-1.728985"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.2479" Y="17.2799" Z="400.9645"/>
+<phi Z="-0.929286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.6497" Y="16.4788" Z="400.9554"/>
+<phi Z="-0.929286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.0514" Y="15.6778" Z="400.9337"/>
+<phi Z="-0.929286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.4531" Y="14.8768" Z="400.9168"/>
+<phi Z="-0.929286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.8548" Y="14.0757" Z="400.9067"/>
+<phi Z="-0.929286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.2565" Y="13.2747" Z="400.8798"/>
+<phi Z="-0.929286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.6582" Y="12.4737" Z="400.8444"/>
+<phi Z="-0.929286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.2721" Y="11.5882" Z="400.8049"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.1537" Y="10.5959" Z="400.7621"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.0353" Y="9.6037" Z="400.7201"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.917" Y="8.6115" Z="400.6832"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.7986" Y="7.6193" Z="400.6463"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.6802" Y="6.627" Z="400.6093"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.5618" Y="5.6348" Z="400.5724"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.4435" Y="4.6426" Z="400.5355"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.3251" Y="3.6503" Z="400.4986"/>
+<phi Z="-1.452056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.436" Y="2.6706" Z="400.4637"/>
+<phi Z="-1.802592"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.4821" Y="2.6176" Z="400.4621"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.6878" Y="3.5955" Z="400.4991"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.8935" Y="4.5733" Z="400.5362"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.0992" Y="5.5512" Z="400.5732"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.3049" Y="6.5291" Z="400.6102"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.5106" Y="7.507" Z="400.6472"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.7163" Y="8.4849" Z="400.6843"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.922" Y="9.4627" Z="400.7254"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.1277" Y="10.4406" Z="400.7687"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.3334" Y="11.4185" Z="400.8098"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.5391" Y="12.3964" Z="400.8501"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.7448" Y="13.3742" Z="400.884"/>
+<phi Z="1.778128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.0189" Y="14.3309" Z="400.9103"/>
+<phi Z="1.973164"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.4104" Y="15.2509" Z="400.9268"/>
+<phi Z="1.973164"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.802" Y="16.1709" Z="400.9497"/>
+<phi Z="1.973164"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.1935" Y="17.0908" Z="400.9759"/>
+<phi Z="1.973164"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.585" Y="18.0108" Z="400.9953"/>
+<phi Z="1.973164"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.9766" Y="18.9308" Z="401.0109"/>
+<phi Z="1.973164"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.3681" Y="19.8508" Z="401.0247"/>
+<phi Z="1.973164"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.3105" Y="19.9606" Z="401.0288"/>
+<phi Z="-0.960896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.7378" Y="19.141" Z="401.0206"/>
+<phi Z="-0.960896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.1651" Y="18.3214" Z="401.011"/>
+<phi Z="-0.960896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.5924" Y="17.5019" Z="400.9909"/>
+<phi Z="-0.960896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.0197" Y="16.6823" Z="400.9689"/>
+<phi Z="-0.960896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.4471" Y="15.8627" Z="400.9579"/>
+<phi Z="-0.960896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.8744" Y="15.0432" Z="400.9398"/>
+<phi Z="-0.960896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.3017" Y="14.2236" Z="400.9101"/>
+<phi Z="-0.960896"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.794" Y="13.3792" Z="400.8709"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.6733" Y="12.3872" Z="400.83"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.5526" Y="11.3952" Z="400.7872"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.4319" Y="10.4033" Z="400.7449"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.3112" Y="9.4113" Z="400.708"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.1906" Y="8.4194" Z="400.6711"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.0699" Y="7.4274" Z="400.6341"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.9492" Y="6.4355" Z="400.5972"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.8285" Y="5.4435" Z="400.5602"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.7078" Y="4.4516" Z="400.5233"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.5871" Y="3.4596" Z="400.4864"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.4664" Y="2.4677" Z="400.4494"/>
+<phi Z="-1.449718"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.3815" Y="1.6248" Z="400.4182"/>
+<phi Z="1.921333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-36.7246" Y="2.5634" Z="400.4547"/>
+<phi Z="1.921333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.0678" Y="3.502" Z="400.4913"/>
+<phi Z="1.921333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.411" Y="4.4405" Z="400.5279"/>
+<phi Z="1.921333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-37.7542" Y="5.3791" Z="400.5645"/>
+<phi Z="1.921333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.0973" Y="6.3176" Z="400.601"/>
+<phi Z="1.921333"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.3197" Y="7.2861" Z="400.6378"/>
+<phi Z="1.706292"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.4547" Y="8.2761" Z="400.6748"/>
+<phi Z="1.706292"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.5897" Y="9.2662" Z="400.7128"/>
+<phi Z="1.706292"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.7247" Y="10.2562" Z="400.7557"/>
+<phi Z="1.706292"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.8596" Y="11.2463" Z="400.7978"/>
+<phi Z="1.706292"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.9946" Y="12.2363" Z="400.8387"/>
+<phi Z="1.706292"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.5376" Y="13.0746" Z="400.8734"/>
+<phi Z="2.149319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.0843" Y="13.9117" Z="400.8988"/>
+<phi Z="2.149319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.631" Y="14.7489" Z="400.9106"/>
+<phi Z="2.149319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.1777" Y="15.586" Z="400.9304"/>
+<phi Z="2.149319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.7244" Y="16.4232" Z="400.953"/>
+<phi Z="2.149319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.2711" Y="17.2603" Z="400.9636"/>
+<phi Z="2.149319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.8178" Y="18.0975" Z="400.973"/>
+<phi Z="2.149319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.3645" Y="18.9346" Z="400.9765"/>
+<phi Z="2.149319"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.2296" Y="18.0463" Z="400.9604"/>
+<phi Z="-1.396867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.0565" Y="17.0616" Z="400.9432"/>
+<phi Z="-1.396867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.8507" Y="16.0864" Z="400.9234"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.4846" Y="15.1564" Z="400.907"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.1184" Y="14.2263" Z="400.8852"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.7522" Y="13.2962" Z="400.8586"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.386" Y="12.3662" Z="400.8388"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.0198" Y="11.4361" Z="400.8197"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.6537" Y="10.5061" Z="400.7871"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.2875" Y="9.576" Z="400.747"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.9213" Y="8.6459" Z="400.705"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.5551" Y="7.7159" Z="400.6622"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.1889" Y="6.7858" Z="400.6258"/>
+<phi Z="-1.195719"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.9194" Y="6.4748" Z="400.6126"/>
+<phi Z="1.50511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.8539" Y="7.4719" Z="400.6484"/>
+<phi Z="1.50511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.7883" Y="8.469" Z="400.6842"/>
+<phi Z="1.50511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.7227" Y="9.4661" Z="400.7228"/>
+<phi Z="1.50511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.6571" Y="10.4633" Z="400.7634"/>
+<phi Z="1.50511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.5915" Y="11.4604" Z="400.8033"/>
+<phi Z="1.50511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.5259" Y="12.4575" Z="400.8423"/>
+<phi Z="1.50511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.4603" Y="13.4546" Z="400.8813"/>
+<phi Z="1.50511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.6358" Y="14.4116" Z="400.9177"/>
+<phi Z="1.96903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.0235" Y="15.3331" Z="400.95"/>
+<phi Z="1.96903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.4112" Y="16.2546" Z="400.9683"/>
+<phi Z="1.96903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.7989" Y="17.1761" Z="400.9849"/>
+<phi Z="1.96903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.1866" Y="18.0976" Z="401.0107"/>
+<phi Z="1.96903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.5743" Y="19.0191" Z="401.0369"/>
+<phi Z="1.96903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.9619" Y="19.9406" Z="401.0553"/>
+<phi Z="1.96903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.5815" Y="20.6908" Z="401.0623"/>
+<phi Z="2.443638"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.3476" Y="21.3334" Z="401.0584"/>
+<phi Z="2.443638"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-43.1138" Y="21.9761" Z="401.0544"/>
+<phi Z="2.443638"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.1989" Y="21.0165" Z="401.0277"/>
+<phi Z="-1.639916"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-43.2679" Y="20.0192" Z="401.0034"/>
+<phi Z="-1.639916"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.3369" Y="19.0219" Z="400.9792"/>
+<phi Z="-1.639916"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.6066" Y="18.3954" Z="400.9855"/>
+<phi Z="-0.632461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.8" Y="17.8043" Z="400.9861"/>
+<phi Z="-0.632461"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.431" Y="16.8899" Z="400.9688"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.1003" Y="15.9468" Z="400.9416"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.7696" Y="15.0036" Z="400.9147"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.4388" Y="14.0605" Z="400.8967"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.1081" Y="13.1174" Z="400.8759"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.7773" Y="12.1742" Z="400.8429"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.4466" Y="11.2311" Z="400.8036"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-39.1159" Y="10.288" Z="400.7623"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.7851" Y="9.3448" Z="400.7187"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.4544" Y="8.4017" Z="400.6794"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-38.1237" Y="7.4586" Z="400.6427"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.7929" Y="6.5154" Z="400.6061"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.4622" Y="5.5723" Z="400.5694"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.1314" Y="4.6292" Z="400.5328"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-36.8007" Y="3.686" Z="400.4961"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.47" Y="2.7429" Z="400.4595"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.1392" Y="1.7998" Z="400.4228"/>
+<phi Z="-1.233516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.1842" Y="2.5797" Z="400.4515"/>
+<phi Z="1.662926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-36.2762" Y="3.5748" Z="400.4884"/>
+<phi Z="1.662926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-36.3681" Y="4.5699" Z="400.5252"/>
+<phi Z="1.662926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.4601" Y="5.5649" Z="400.5621"/>
+<phi Z="1.662926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.552" Y="6.56" Z="400.5989"/>
+<phi Z="1.662926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-36.6439" Y="7.5551" Z="400.6357"/>
+<phi Z="1.662926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.7359" Y="8.5502" Z="400.6726"/>
+<phi Z="1.662926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-36.8491" Y="9.5415" Z="400.7095"/>
+<phi Z="1.791799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.0681" Y="10.5164" Z="400.7465"/>
+<phi Z="1.791799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-37.2872" Y="11.4912" Z="400.7876"/>
+<phi Z="1.791799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.5062" Y="12.4661" Z="400.8311"/>
+<phi Z="1.791799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.7252" Y="13.441" Z="400.8726"/>
+<phi Z="1.791799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-37.951" Y="14.413" Z="400.9138"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-38.4518" Y="15.2784" Z="400.9472"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-38.9525" Y="16.1438" Z="400.9731"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.4533" Y="17.0092" Z="400.9864"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.9542" Y="17.8745" Z="401.0049"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.455" Y="18.7399" Z="401.0289"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-40.9557" Y="19.6053" Z="401.047"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.4565" Y="20.4707" Z="401.0592"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.9573" Y="21.3361" Z="401.0693"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.4581" Y="22.2015" Z="401.0748"/>
+<phi Z="2.095406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.7518" Y="-6.387" Z="400.2083"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.132" Y="-7.3117" Z="400.1912"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.5122" Y="-8.2365" Z="400.1741"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.8925" Y="-9.1613" Z="400.157"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.2727" Y="-10.086" Z="400.1399"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.6529" Y="-11.0108" Z="400.1228"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.0332" Y="-11.9356" Z="400.1057"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.4134" Y="-12.8604" Z="400.0883"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.7936" Y="-13.7851" Z="400.0708"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-43.1739" Y="-14.7099" Z="400.0547"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-43.5541" Y="-15.6347" Z="400.0403"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-43.9343" Y="-16.5594" Z="400.0259"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-44.3145" Y="-17.4842" Z="400.0115"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-44.6948" Y="-18.409" Z="399.9971"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-45.075" Y="-19.3338" Z="399.9827"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-45.4552" Y="-20.2585" Z="399.9703"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-45.8354" Y="-21.1833" Z="399.9581"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-46.2157" Y="-22.1081" Z="399.9458"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-46.5959" Y="-23.0328" Z="399.9335"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-46.9761" Y="-23.9576" Z="399.9213"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-47.3564" Y="-24.8824" Z="399.909"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-47.7366" Y="-25.8072" Z="399.8957"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-48.1169" Y="-26.7319" Z="399.8824"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-48.4971" Y="-27.6567" Z="399.869"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-48.8773" Y="-28.5815" Z="399.8557"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.2575" Y="-29.5062" Z="399.8424"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.6378" Y="-30.431" Z="399.829"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-50.018" Y="-31.3558" Z="399.8136"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-50.3982" Y="-32.2806" Z="399.7979"/>
+<phi Z="-1.960887"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-50.5283" Y="-32.5536" Z="399.7928"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-50.192" Y="-31.6119" Z="399.8076"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.8559" Y="-30.6703" Z="399.8219"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-49.5197" Y="-29.7286" Z="399.834"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-49.1834" Y="-28.7869" Z="399.846"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-48.8473" Y="-27.8453" Z="399.858"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-48.511" Y="-26.9036" Z="399.87"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-48.1748" Y="-25.962" Z="399.8814"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-47.8386" Y="-25.0203" Z="399.8921"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-47.5024" Y="-24.0786" Z="399.9027"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-47.1662" Y="-23.137" Z="399.9135"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-46.83" Y="-22.1953" Z="399.9257"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-46.4938" Y="-21.2536" Z="399.9393"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-46.1576" Y="-20.312" Z="399.9529"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-45.8214" Y="-19.3703" Z="399.9683"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-45.4852" Y="-18.4286" Z="399.9864"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-45.149" Y="-17.487" Z="400.0044"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-44.8128" Y="-16.5453" Z="400.0225"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-44.4766" Y="-15.6037" Z="400.0405"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-44.1404" Y="-14.662" Z="400.0586"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-43.8042" Y="-13.7203" Z="400.0766"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.468" Y="-12.7787" Z="400.0947"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.1318" Y="-11.837" Z="400.1127"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.7956" Y="-10.8953" Z="400.1306"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.4594" Y="-9.9537" Z="400.1483"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.1232" Y="-9.012" Z="400.166"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.787" Y="-8.0704" Z="400.1836"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.4508" Y="-7.1287" Z="400.2012"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.1146" Y="-6.187" Z="400.2189"/>
+<phi Z="1.227871"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.8576" Y="-5.4545" Z="400.2361"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.2295" Y="-6.3826" Z="400.2154"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.6014" Y="-7.3107" Z="400.1982"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.9733" Y="-8.2389" Z="400.1811"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.3453" Y="-9.167" Z="400.1638"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.7172" Y="-10.0951" Z="400.1467"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-43.0891" Y="-11.0232" Z="400.1294"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.461" Y="-11.9513" Z="400.1118"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-43.8329" Y="-12.8794" Z="400.0942"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-44.2049" Y="-13.8076" Z="400.0766"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-44.5768" Y="-14.7357" Z="400.059"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-44.9487" Y="-15.6638" Z="400.0414"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-45.3206" Y="-16.5919" Z="400.0238"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-45.6926" Y="-17.52" Z="400.0062"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-46.0645" Y="-18.4482" Z="399.9886"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-46.4364" Y="-19.3763" Z="399.9709"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-46.8083" Y="-20.3044" Z="399.9534"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-47.1803" Y="-21.2325" Z="399.9357"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-47.5522" Y="-22.1606" Z="399.9181"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-47.9241" Y="-23.0887" Z="399.9005"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-48.296" Y="-24.0169" Z="399.8829"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-48.6679" Y="-24.945" Z="399.8677"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-49.0399" Y="-25.8731" Z="399.8535"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.4118" Y="-26.8012" Z="399.8392"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.7837" Y="-27.7293" Z="399.8266"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-50.1556" Y="-28.6575" Z="399.8147"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-50.5276" Y="-29.5856" Z="399.8027"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-50.8995" Y="-30.5137" Z="399.7903"/>
+<phi Z="-1.95193"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-51.08" Y="-30.9762" Z="399.7839"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-50.6917" Y="-30.0547" Z="399.7975"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-50.3033" Y="-29.1333" Z="399.81"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-49.915" Y="-28.2119" Z="399.8226"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-49.5267" Y="-27.2905" Z="399.8352"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.1384" Y="-26.3691" Z="399.848"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-48.7501" Y="-25.4477" Z="399.8625"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-48.3618" Y="-24.5263" Z="399.8771"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-47.9734" Y="-23.6049" Z="399.8916"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-47.5851" Y="-22.6835" Z="399.9074"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-47.1968" Y="-21.7621" Z="399.9248"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-46.8085" Y="-20.8407" Z="399.9422"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-46.4202" Y="-19.9193" Z="399.9596"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-46.0318" Y="-18.9979" Z="399.977"/>
+<phi Z="1.171941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-45.954" Y="-18.8199" Z="399.9803"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-46.3365" Y="-19.7438" Z="399.9629"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-46.719" Y="-20.6676" Z="399.9454"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-47.1014" Y="-21.5915" Z="399.9279"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-47.4839" Y="-22.5153" Z="399.9105"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-47.8663" Y="-23.4391" Z="399.8951"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-48.2487" Y="-24.363" Z="399.8806"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-48.6312" Y="-25.2868" Z="399.8662"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.0136" Y="-26.2106" Z="399.8519"/>
+<phi Z="-1.963295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-49.3057" Y="-27.1659" Z="399.8428"/>
+<phi Z="-1.840451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-49.5721" Y="-28.1297" Z="399.8347"/>
+<phi Z="-1.840451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.8384" Y="-29.0936" Z="399.8253"/>
+<phi Z="-1.840451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-50.1048" Y="-30.0574" Z="399.8155"/>
+<phi Z="-1.840451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-50.3712" Y="-31.0212" Z="399.8055"/>
+<phi Z="-1.840451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-50.6376" Y="-31.985" Z="399.7941"/>
+<phi Z="-1.840451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-50.904" Y="-32.9488" Z="399.7809"/>
+<phi Z="-1.840451"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-50.6418" Y="-32.2995" Z="399.7918"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-50.2861" Y="-31.365" Z="399.807"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.9305" Y="-30.4305" Z="399.8201"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-49.5748" Y="-29.496" Z="399.8327"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-49.2192" Y="-28.5615" Z="399.8453"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-48.8636" Y="-27.627" Z="399.8579"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-48.5079" Y="-26.6925" Z="399.8705"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-48.1523" Y="-25.758" Z="399.8819"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-47.7966" Y="-24.8235" Z="399.8933"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-47.441" Y="-23.889" Z="399.9047"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-47.0853" Y="-22.9545" Z="399.916"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-46.7297" Y="-22.02" Z="399.929"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-46.3741" Y="-21.0855" Z="399.943"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-46.0184" Y="-20.151" Z="399.9569"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-45.6628" Y="-19.2165" Z="399.9709"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-45.3071" Y="-18.282" Z="399.9886"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-44.9515" Y="-17.3475" Z="400.0064"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-44.5959" Y="-16.413" Z="400.0242"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-44.2402" Y="-15.4786" Z="400.0421"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.8846" Y="-14.5441" Z="400.0599"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-43.5289" Y="-13.6096" Z="400.0777"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-43.1733" Y="-12.6751" Z="400.0955"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.8176" Y="-11.7406" Z="400.1133"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.462" Y="-10.8061" Z="400.1309"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-42.1064" Y="-9.8716" Z="400.1483"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.7507" Y="-8.9371" Z="400.1657"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.3951" Y="-8.0026" Z="400.1831"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.0394" Y="-7.0681" Z="400.2005"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.6838" Y="-6.1336" Z="400.2179"/>
+<phi Z="1.20715"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.4959" Y="-5.6488" Z="400.2298"/>
+<phi Z="-1.921149"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.8391" Y="-6.5879" Z="400.2094"/>
+<phi Z="-1.921149"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.1822" Y="-7.527" Z="400.1918"/>
+<phi Z="-1.921149"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-41.5254" Y="-8.4661" Z="400.1743"/>
+<phi Z="-1.921149"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.8686" Y="-9.4052" Z="400.1567"/>
+<phi Z="-1.921149"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.2264" Y="-10.3392" Z="400.1393"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-42.6013" Y="-11.2661" Z="400.1221"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.9763" Y="-12.1929" Z="400.1046"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-43.3513" Y="-13.1198" Z="400.087"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-43.7263" Y="-14.0467" Z="400.0695"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-44.1013" Y="-14.9735" Z="400.0519"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-44.4763" Y="-15.9004" Z="400.0343"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-44.8513" Y="-16.8273" Z="400.0168"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-45.2262" Y="-17.7542" Z="399.9992"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-45.6012" Y="-18.681" Z="399.9816"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-45.9762" Y="-19.6079" Z="399.9641"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-46.3512" Y="-20.5348" Z="399.9472"/>
+<phi Z="-1.955235"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-46.0057" Y="-19.7845" Z="399.9605"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-45.5916" Y="-18.8744" Z="399.9776"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-45.1774" Y="-17.9644" Z="399.9947"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-44.7633" Y="-17.0543" Z="400.0117"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-44.3492" Y="-16.1443" Z="400.0287"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-43.9351" Y="-15.2342" Z="400.0458"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-43.5209" Y="-14.3242" Z="400.0628"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-43.1068" Y="-13.4141" Z="400.0799"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.6927" Y="-12.504" Z="400.0969"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.2785" Y="-11.594" Z="400.1139"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.8644" Y="-10.6839" Z="400.1305"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-41.4503" Y="-9.7739" Z="400.1471"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.0362" Y="-8.8638" Z="400.1638"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-40.622" Y="-7.9538" Z="400.1804"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.2079" Y="-7.0437" Z="400.197"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-39.7938" Y="-6.1336" Z="400.2147"/>
+<phi Z="1.143746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-39.705" Y="-5.2947" Z="400.2362"/>
+<phi Z="2.428432"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_orange01.lod.ls3"/>
+<p X="-40.4611" Y="-4.6406" Z="400.256"/>
+<phi Z="2.428432"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\flower_yellow01.lod.ls3"/>
+<p X="-41.2689" Y="-4.0612" Z="400.2738"/>
+<phi Z="2.653872"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Flowers\roses_red01.lod.ls3"/>
+<p X="-42.0206" Y="-3.6025" Z="400.2884"/>
+<phi Z="-0.865935"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="-40.4651" Y="8.6305" Z="400.6837"/>
+<phi Z="1.873493"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="-39.6847" Y="6.1832" Z="400.5825"/>
+<phi Z="-1.417117"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-39.5179" Y="3.8759" Z="400.5014"/>
+<phi Z="-0.819609"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-1m5.lod.ls3"/>
+<p X="-45.7827" Y="3.4516" Z="400.5442"/>
+<phi Z="2.889732"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="-41.2799" Y="2.2878" Z="400.5075"/>
+<phi Z="-0.165879"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras08.lod.ls3"/>
+<p X="-43.0191" Y="-125.1153" Z="399.5782"/>
+<phi Z="-0.646949"/>
+<sk X="0.4233" Y="0.4233" Z="0.4233"/>
+</Verknuepfte>
 <lsb Dateiname="Detail_32_513375_5279125.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="8" MeterProTex="50" MeshV="398" MeshI="1170">
 <RenderFlags TexVoreinstellung="1"/>

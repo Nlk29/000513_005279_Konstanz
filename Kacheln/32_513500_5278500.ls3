@@ -14,7 +14,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="178" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_513375_5278375.ls3"/>
 <p X="-125" Y="-125"/>
 <phi/>
@@ -26,13 +26,13 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="133" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="181" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_513375_5278625.ls3"/>
 <p X="-125" Y="125"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="132" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="171" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_513375_5278875.ls3"/>
 <p X="-125" Y="375"/>
 <phi/>
@@ -52,13 +52,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
-<p X="-140.1151" Y="273.4943" Z="398.3333"/>
+<p X="-139.3651" Y="265.0919" Z="398.2747"/>
 <phi Z="-1.464858"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh0-scheibe.lod.ls3"/>
-<p X="-139.3651" Y="274.4791" Z="399.5334"/>
+<p X="-138.6151" Y="266.0768" Z="399.4748"/>
 <phi Z="-1.464858"/>
 <sk/>
 </Verknuepfte>
@@ -148,7 +148,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Theater Konstanz\TheaterKonstanz.lod.ls3"/>
-<p X="-200.7917" Y="462.9911" Z="398.8485"/>
+<p X="-200.7917" Y="462.9911" Z="398.8368"/>
 <phi Z="-1.727394"/>
 <sk/>
 </Verknuepfte>
@@ -352,7 +352,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000429_005700_Neheim-Huesten\Objekte\Neheim_16_Natursteinhaus\Neheim_16_Haus.lod.ls3"/>
-<p X="-187.9452" Y="-40.3593" Z="398.1031"/>
+<p X="-191.9647" Y="-40.0546" Z="398.0562"/>
 <phi Z="2.968891"/>
 <sk/>
 </Verknuepfte>
@@ -2624,6 +2624,1014 @@
 <phi Z="-0.107823"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar06-15m.lod.ls3"/>
+<p X="-77.1052" Y="490.2363" Z="398.6585"/>
+<phi Z="-1.546473"/>
+<sk X="1.7" Y="1.7" Z="1.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar02-20m.lod.ls3"/>
+<p X="-76.2684" Y="476.0571" Z="399.7718"/>
+<phi Z="-0.655706"/>
+<sk X="1.0346" Y="1.0346" Z="1.0346"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar06-15m.lod.ls3"/>
+<p X="-82.7693" Y="460.6289" Z="399.733"/>
+<phi Z="-3.12459"/>
+<sk X="1.6832" Y="1.6832" Z="1.6832"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar02-20m.lod.ls3"/>
+<p X="-76.7047" Y="444.1866" Z="399.7685"/>
+<phi Z="-2.335081"/>
+<sk X="1.8457" Y="1.8457" Z="1.8457"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar06-15m.lod.ls3"/>
+<p X="-68.8958" Y="419.4867" Z="399.7726"/>
+<phi Z="-0.442551"/>
+<sk X="1.3" Y="1.3" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Poplar\Poplar05-15m.lod.ls3"/>
+<p X="-74.6398" Y="413.2199" Z="399.7726"/>
+<phi Z="-1.828745"/>
+<sk X="1.8" Y="1.8" Z="1.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pine\Pine01-08m.lod.ls3"/>
+<p X="-136.3691" Y="488.9673" Z="399.7133"/>
+<phi Z="-0.744534"/>
+<sk X="0.9615" Y="0.9615" Z="0.9615"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pine\Pine01-08m.lod.ls3"/>
+<p X="-138.9186" Y="480.7347" Z="399.7454"/>
+<phi Z="-2.638191"/>
+<sk X="1.2" Y="1.2" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Spruce\Spruce01-10m.lod.ls3"/>
+<p X="-134.0753" Y="473.3697" Z="399.7788"/>
+<phi Z="0.003625"/>
+<sk X="1.5058" Y="1.5058" Z="1.5058"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\sycamore01-08m.lod.ls3"/>
+<p X="-135.3061" Y="461.2744" Z="399.7758"/>
+<phi Z="-1.080098"/>
+<sk X="1.3795" Y="1.3795" Z="1.3795"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\Sycamore01-12m.lod.ls3"/>
+<p X="-131.8685" Y="451.8849" Z="399.7764"/>
+<phi Z="-1.312823"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pine\Pine01-08m.lod.ls3"/>
+<p X="-133.6269" Y="443.3647" Z="399.7785"/>
+<phi Z="-1.277603"/>
+<sk X="1.4719" Y="1.4719" Z="1.4719"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-124.7579" Y="423.5482" Z="399.7761"/>
+<phi Z="-0.235186"/>
+<sk X="1.4395" Y="1.4395" Z="1.4395"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-134.2582" Y="431.8466" Z="399.7782"/>
+<phi Z="-0.409011"/>
+<sk X="1.1" Y="1.1" Z="1.1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\Sycamore01-12m.lod.ls3"/>
+<p X="-121.3388" Y="413.6195" Z="399.7769"/>
+<phi Z="0.033265"/>
+<sk X="0.7753" Y="0.7753" Z="0.7753"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-105.9416" Y="409.4355" Z="399.7734"/>
+<phi Z="0.252746"/>
+<sk X="1.7208" Y="1.7208" Z="1.7208"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\sycamore\sycamore01-08m.lod.ls3"/>
+<p X="-106.8948" Y="415.2918" Z="399.774"/>
+<phi Z="-1.542639"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-92.4206" Y="404.3264" Z="399.7727"/>
+<phi Z="-0.728588"/>
+<sk X="1.7011" Y="1.7011" Z="1.7011"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pine\Pine01-08m.lod.ls3"/>
+<p X="-78.0898" Y="400.9427" Z="400.1031"/>
+<phi Z="-1.860097"/>
+<sk X="1.3" Y="1.3" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
+<p X="-140.1071" Y="496.4689" Z="399.5999"/>
+<phi Z="-2.338916"/>
+<sk X="1.928" Y="1.928" Z="1.928"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="29" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Turmkran\Obendreherkran_30m_animiert.lod.ls3"/>
+<p X="-142.746" Y="-200.75" Z="397.497"/>
+<phi Z="4.550818"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-179.3515" Y="451.8672" Z="399.3359"/>
+<phi Z="4.49357"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-162.9208" Y="484.8164" Z="399.8031"/>
+<phi Z="4.775511"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-160.9212" Y="468.2372" Z="399.7587"/>
+<phi Z="1.656373"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-153.0815" Y="396.0508" Z="399.1725"/>
+<phi Z="1.681698"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-155.7595" Y="366.482" Z="399.0481"/>
+<phi Z="-1.462823"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-144.0261" Y="194.4953" Z="398.0962"/>
+<phi Z="-1.56881"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-155.6789" Y="287.7051" Z="398.6536"/>
+<phi Z="-1.468256"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-153.0656" Y="304.9317" Z="398.6536"/>
+<phi Z="-1.468256"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-155.9459" Y="268.6187" Z="398.3896"/>
+<phi Z="-1.489035"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-161" Y="273.3437" Z="397.4425"/>
+<phi Z="1.315151"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-176.25" Y="393.2617" Z="398.36"/>
+<phi Z="1.687819"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Cherry\Cherry01-05m.lod.ls3"/>
+<p X="-179.5976" Y="428.5" Z="398.375"/>
+<phi Z="0.48313"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-172.9648" Y="400.5781" Z="398.6666"/>
+<phi Z="-1.457547"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-172.1159" Y="389.4937" Z="398.6665"/>
+<phi Z="-3.344957"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-171.8347" Y="390.6421" Z="398.6665"/>
+<phi Z="-1.457547"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Chestnut\Chestnut01-15m.lod.ls3"/>
+<p X="-177.1796" Y="298.6133" Z="397.4202"/>
+<phi Z="1.341914"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-175.8202" Y="319.9062" Z="397.4202"/>
+<phi Z="1.341914"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pine\Pine01-08m.lod.ls3"/>
+<p X="-180.5194" Y="307.914" Z="397.4188"/>
+<phi Z="1.401964"/>
+<sk X="1.3" Y="1.3" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0056\000391_005625_Eitorf\Objekte\KEIT68_Baumkuebel\KEIT68_Baumkuebel.lod.ls3"/>
+<p X="-194.8789" Y="218.7148" Z="397.5564"/>
+<phi Z="4.435505"/>
+<sk X="0.65" Y="0.65" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-195.1249" Y="218.4335" Z="397.9298"/>
+<phi Z="-1.847681"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0056\000391_005625_Eitorf\Objekte\KEIT68_Baumkuebel\KEIT68_Baumkuebel.lod.ls3"/>
+<p X="-191.7578" Y="230.332" Z="397.4394"/>
+<phi Z="1.291371"/>
+<sk X="0.65" Y="0.65" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine16m.lod.ls3"/>
+<p X="-191.6874" Y="230.5429" Z="397.8714"/>
+<phi Z="1.291371"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-202.5117" Y="165.2031" Z="397.86"/>
+<phi Z="-1.810276"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-199.1015" Y="181.9257" Z="397.86"/>
+<phi Z="-1.810276"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-195.6445" Y="197.207" Z="397.86"/>
+<phi Z="-1.810276"/>
+<sk X="0.8" Y="0.8" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-171.125" Y="186.7226" Z="398.2169"/>
+<phi Z="1.862252"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-182.832" Y="187.9687" Z="398.2456"/>
+<phi Z="2.173101"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-173.5553" Y="189.6838" Z="398.1763"/>
+<phi Z="2.897203"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-178.4065" Y="190.8936" Z="398.1278"/>
+<phi Z="2.897203"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush05-03m.lod.ls3"/>
+<p X="-182.3675" Y="192.5393" Z="398.0798"/>
+<phi Z="1.154554"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
+<p X="-182.895" Y="196.8483" Z="398.1349"/>
+<phi Z="-0.491275"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
+<p X="-162.1715" Y="169.3781" Z="398.1896"/>
+<phi Z="2.428899"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
+<p X="-168.0405" Y="173.1396" Z="398.1593"/>
+<phi Z="2.428899"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
+<p X="-172.925" Y="178.9285" Z="398.1422"/>
+<phi Z="2.428899"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="-163.9685" Y="171.5411" Z="398.2017"/>
+<phi Z="2.335646"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-168.9776" Y="177.0938" Z="398.1819"/>
+<phi Z="2.335646"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
+<p X="-171.2209" Y="180.8067" Z="398.1663"/>
+<phi Z="2.335646"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-164.6558" Y="175.3247" Z="398.1959"/>
+<phi Z="2.32864"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-168.0926" Y="178.9563" Z="398.1872"/>
+<phi Z="2.32864"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-171.5293" Y="182.5879" Z="398.1748"/>
+<phi Z="2.32864"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-162.4019" Y="172.3167" Z="398.187"/>
+<phi Z="-0.795088"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-177.4491" Y="176.5664" Z="397.9719"/>
+<phi Z="0.13365"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-185.2461" Y="168.6718" Z="397.9275"/>
+<phi Z="0.262698"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
+<p X="-147.9023" Y="197.0742" Z="398.2406"/>
+<phi Z="3.125686"/>
+<sk X="0.7" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-153.0976" Y="186.3554" Z="398.2461"/>
+<phi Z="2.044374"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-174.5391" Y="218.8125" Z="398.3666"/>
+<phi Z="3.792422"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-134.379" Y="190.3005" Z="398.0962"/>
+<phi Z="1.562963"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-149.2591" Y="387.0765" Z="399.1453"/>
+<phi Z="-1.459895"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="16" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RollingStock\Schweiz\Epoche3\Elektroloks\Re_4-4_II\3D-Daten\Re421_SBB_Cargo.lod.ls3"/>
+<p X="-138.2741" Y="250.0567" Z="398.3607"/>
+<phi Z="4.793655"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-90.1953" Y="302.8203" Z="397.77"/>
+<phi Z="2.034443"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-90.5429" Y="259.8984" Z="397.9403"/>
+<phi Z="1.619671"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Maple\Maple01-20m.lod.ls3"/>
+<p X="-88.578" Y="214.0078" Z="397.7978"/>
+<phi Z="5.015274"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
+<p X="-126.625" Y="188.7578" Z="397.8894"/>
+<phi Z="6.267283"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="145" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_513625_5278625.ls3"/>
+<p X="125" Y="125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="27" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006026_Friedrichstadt\Objekte\AFD_EG_neu\AFD_EG_neu.lod.ls3"/>
+<p X="-53.2929" Y="274.1758" Z="398.1636"/>
+<phi Z="-2.171581"/>
+<sk X="1.2" Y="1.2" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005690_Obervellmar\Objekte\Bungalow_Typ1\Bungalow_1_1.lod.ls3"/>
+<p X="-35.2617" Y="218.4648" Z="397.4625"/>
+<phi Z="2.27721"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-134.3599" Y="160.5221" Z="398.8462"/>
+<phi Z="1.549189"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-134.1439" Y="168.34" Z="398.8462"/>
+<phi Z="1.549189"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-143.4388" Y="176.0148" Z="398.4595"/>
+<phi Z="3.120095"/>
+<sk X="0.6" Y="0.7" Z="0.6"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-149.3752" Y="176.802" Z="398.4595"/>
+<phi Z="4.852881"/>
+<sk X="0.7" Y="0.7" Z="0.6"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-148.395" Y="169.871" Z="399.022"/>
+<phi Z="-1.516207"/>
+<sk X="0.7" Y="0.7" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-148.0247" Y="162.8814" Z="398.6236"/>
+<phi Z="-1.58002"/>
+<sk X="1" Y="0.7" Z="0.6"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-148.117" Y="152.8818" Z="398.915"/>
+<phi Z="-1.58002"/>
+<sk X="1" Y="0.7" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-148.2093" Y="142.8822" Z="398.6571"/>
+<phi Z="-1.570203"/>
+<sk X="1" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-148.2034" Y="132.8822" Z="398.4743"/>
+<phi Z="-1.575112"/>
+<sk X="1" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-148.2466" Y="122.8823" Z="398.4204"/>
+<phi Z="-1.577567"/>
+<sk X="1" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-162.7694" Y="101.1133" Z="397.908"/>
+<phi Z="4.286965"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-160.1523" Y="136.289" Z="398.0186"/>
+<phi Z="1.56549"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="18" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\03_20_WHaus\03_20_WHaus.lod.ls3"/>
+<p X="-174.6484" Y="132.793" Z="397.7731"/>
+<phi Z="-0.005306"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-163.914" Y="142.5468" Z="398.7104"/>
+<phi Z="1.446442"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-163.5273" Y="130.0508" Z="398.5934"/>
+<phi Z="1.56549"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Scotch_Pine\Scotch_Pine13m.lod.ls3"/>
+<p X="-164.0077" Y="118.4843" Z="398.6638"/>
+<phi Z="1.523926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-164.7343" Y="108.0312" Z="398.1364"/>
+<phi Z="1.523926"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0056\000391_005625_Eitorf\Objekte\KEIT68_Baumkuebel\KEIT68_Baumkuebel.lod.ls3"/>
+<p X="-124.9831" Y="101.063" Z="397.6274"/>
+<phi Z="-1.559489"/>
+<sk X="0.7" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
+<p X="-124.9831" Y="101.063" Z="397.8243"/>
+<phi Z="-1.559489"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0056\000391_005625_Eitorf\Objekte\KEIT68_Baumkuebel\KEIT68_Baumkuebel.lod.ls3"/>
+<p X="-113.698" Y="101.6607" Z="397.5446"/>
+<phi Z="-1.559488"/>
+<sk X="0.7" Y="0.7" Z="0.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Pear\Pear01-08m.lod.ls3"/>
+<p X="-113.698" Y="101.6607" Z="397.847"/>
+<phi Z="-1.559488"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush05-08m.lod.ls3"/>
+<p X="-125.5288" Y="64.7514" Z="397.9206"/>
+<phi Z="1.612216"/>
+<sk X="1.3" Y="1.3" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-125.84" Y="32.692" Z="398.6015"/>
+<phi Z="1.395484"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-124.0958" Y="42.5387" Z="398.6015"/>
+<phi Z="1.395484"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
+<p X="-122.3516" Y="52.3854" Z="398.6015"/>
+<phi Z="1.395484"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
+<p X="-126.9165" Y="56.7724" Z="397.6706"/>
+<phi Z="-1.910942"/>
+<sk X="0.8123" Y="0.8123" Z="0.8123"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras06.lod.ls3"/>
+<p X="-127.2681" Y="51.193" Z="397.6685"/>
+<phi Z="-2.279933"/>
+<sk X="1.4656" Y="1.4656" Z="1.4656"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
+<p X="-125.5074" Y="47.3626" Z="397.6559"/>
+<phi Z="1.879387"/>
+<sk X="0.9695" Y="0.9695" Z="0.9695"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
+<p X="-127.1286" Y="51.525" Z="397.6679"/>
+<phi Z="1.637083"/>
+<sk X="1.3394" Y="1.3394" Z="1.3394"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
+<p X="-129.6622" Y="57.1191" Z="397.6764"/>
+<phi Z="1.537786"/>
+<sk X="1.4534" Y="1.4534" Z="1.4534"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras02.lod.ls3"/>
+<p X="-125.8403" Y="59.9277" Z="397.6773"/>
+<phi Z="-1.39547"/>
+<sk X="1.1364" Y="1.1364" Z="1.1364"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras08.lod.ls3"/>
+<p X="-129.6986" Y="51.3191" Z="397.1516"/>
+<phi Z="-1.800642"/>
+<sk X="1.3331" Y="1.3331" Z="1.3331"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
+<p X="-129.5907" Y="49.7473" Z="397.6732"/>
+<phi Z="-0.910153"/>
+<sk X="1.5672" Y="1.5672" Z="1.5672"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras03.lod.ls3"/>
+<p X="-129.3894" Y="18.9283" Z="397.291"/>
+<phi Z="1.238148"/>
+<sk X="0.8192" Y="0.8192" Z="0.8192"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras03.lod.ls3"/>
+<p X="-133.5149" Y="-17.2393" Z="397.0233"/>
+<phi Z="2.10135"/>
+<sk X="0.9305" Y="0.9305" Z="0.9305"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras03.lod.ls3"/>
+<p X="-133.76" Y="-13.6413" Z="397.286"/>
+<phi Z="0.691823"/>
+<sk X="0.3821" Y="0.3821" Z="0.3821"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
+<p X="-130.1779" Y="11.6482" Z="397.3163"/>
+<phi Z="1.951718"/>
+<sk X="0.9906" Y="0.9906" Z="0.9906"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-127.1602" Y="39.3737" Z="397.8715"/>
+<phi Z="1.549634"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-126.4688" Y="55.323" Z="397.8715"/>
+<phi Z="1.880974"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
+<p X="-126.6115" Y="28.7688" Z="397.8327"/>
+<phi Z="2.058099"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-193.9823" Y="-196.7028" Z="398.1112"/>
+<phi Z="1.393748"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-192.3091" Y="-187.3513" Z="398.1203"/>
+<phi Z="1.393748"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-190.636" Y="-177.9998" Z="398.1294"/>
+<phi Z="1.393748"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-188.9628" Y="-168.6483" Z="398.1385"/>
+<phi Z="1.393748"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-187.2896" Y="-159.2968" Z="398.1476"/>
+<phi Z="1.393748"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-185.6164" Y="-149.9453" Z="398.1568"/>
+<phi Z="1.393748"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-183.9341" Y="-140.5954" Z="398.1538"/>
+<phi Z="1.392209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-182.2466" Y="-131.2466" Z="398.1476"/>
+<phi Z="1.392209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-180.559" Y="-121.8976" Z="398.1415"/>
+<phi Z="1.392209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-178.8714" Y="-112.5487" Z="398.1353"/>
+<phi Z="1.392209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-177.1838" Y="-103.1998" Z="398.1292"/>
+<phi Z="1.392209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-175.4962" Y="-93.8509" Z="398.123"/>
+<phi Z="1.392209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-173.8087" Y="-84.502" Z="398.1169"/>
+<phi Z="1.392209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-172.1211" Y="-75.1531" Z="398.1107"/>
+<phi Z="1.392209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-170.4357" Y="-65.8058" Z="398.1069"/>
+<phi Z="1.392608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-168.7519" Y="-56.4563" Z="398.0934"/>
+<phi Z="1.392608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-167.0681" Y="-47.1067" Z="398.0916"/>
+<phi Z="1.392608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-165.3842" Y="-37.7571" Z="398.0781"/>
+<phi Z="1.392608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-163.7003" Y="-28.4075" Z="398.0763"/>
+<phi Z="1.392608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-162.0165" Y="-19.0579" Z="398.0628"/>
+<phi Z="1.392608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
+<p X="-160.3326" Y="-9.7083" Z="398.061"/>
+<phi Z="1.392608"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-170.1233" Y="22.9108" Z="398.3081"/>
+<phi Z="-1.795326"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-172.2384" Y="13.6492" Z="398.2808"/>
+<phi Z="-1.795326"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-174.3177" Y="4.3676" Z="398.2675"/>
+<phi Z="-1.789465"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-176.2045" Y="-4.9974" Z="398.2959"/>
+<phi Z="-1.762498"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-177.953" Y="-14.3548" Z="398.305"/>
+<phi Z="-1.752781"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-179.614" Y="-23.7249" Z="398.3434"/>
+<phi Z="-1.744132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-181.2525" Y="-33.0826" Z="398.3955"/>
+<phi Z="-1.744132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-182.891" Y="-42.4402" Z="398.4476"/>
+<phi Z="-1.744132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-184.5294" Y="-51.7978" Z="398.4997"/>
+<phi Z="-1.744132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-186.1679" Y="-61.1554" Z="398.5517"/>
+<phi Z="-1.744132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-187.8063" Y="-70.5131" Z="398.6038"/>
+<phi Z="-1.744132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-189.4448" Y="-79.8708" Z="398.6559"/>
+<phi Z="-1.744132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-191.0813" Y="-89.2295" Z="398.6736"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-192.7156" Y="-98.5879" Z="398.6554"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-194.3499" Y="-107.9463" Z="398.6371"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-195.9842" Y="-117.3046" Z="398.6189"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-197.6184" Y="-126.663" Z="398.6006"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-199.2527" Y="-136.0213" Z="398.5824"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-200.887" Y="-145.3797" Z="398.5642"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-202.5213" Y="-154.7381" Z="398.548"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-204.1555" Y="-164.0965" Z="398.539"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-205.7898" Y="-173.4548" Z="398.5299"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-207.4241" Y="-182.8132" Z="398.5209"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-209.0583" Y="-192.1715" Z="398.5119"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigstuetzeGl2.lod.ls3"/>
+<p X="-210.6926" Y="-201.5299" Z="398.5029"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigdachGl2.lod.ls3"/>
+<p X="-174.1098" Y="3.7155" Z="398.2905"/>
+<phi Y="0.001963" Z="-1.773255"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigdachGl2.lod.ls3"/>
+<p X="-183.0634" Y="-43.4252" Z="398.4531"/>
+<phi Y="-0.008727" Z="-1.744132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigdachGl2.lod.ls3"/>
+<p X="-191.2808" Y="-90.4727" Z="398.6707"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigdachGl2.lod.ls3"/>
+<p X="-199.4913" Y="-137.4759" Z="398.6723"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000551_005775_Elze\Objekte\8_Bahnsteig\BahnsteigdachGl2.lod.ls3"/>
+<p X="-207.6667" Y="-184.2798" Z="398.6826"/>
+<phi Z="-1.743685"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="1370" MeshI="2808">
 <RenderFlags TexVoreinstellung="3"/>
@@ -4258,6 +5266,60 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="29" MeshI="105">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="84" MeshI="390">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="138" MeshI="660">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="132" MeshI="630">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="12" MeshI="30">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="54" MeshI="240">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="84" MeshI="390">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="48" MeshI="210">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

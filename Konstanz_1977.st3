@@ -626,6 +626,7 @@
 <ReferenzElemente ReferenzNr="613" StrElement="1832" StrNorm="1" RefTyp="5" Info="Auflösepunkt"/>
 <ReferenzElemente ReferenzNr="614" StrElement="1832" StrNorm="1" RefTyp="2" Info="Register-Nr. 5052"/>
 <ReferenzElemente ReferenzNr="615" StrElement="1832" RefTyp="2" Info="Register-Nr. 5052"/>
+<ReferenzElemente ReferenzNr="616" StrElement="4389" RefTyp="4" Info="Signal: Konstanz Nv"/>
 <StrElement Nr="1" spTrass="16.6667" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="339.5313" Y="-64.5" Z="399.4959"/>
 <b X="345.0313" Y="-113.5" Z="399.1725"/>
@@ -635,7 +636,7 @@
 <NachGegen Nr="1090"/>
 </StrElement>
 <StrElement Nr="2" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="352.5938" Y="-189" Z="398.675"/>
+<g X="352.5412" Y="-189.0042" Z="398.675"/>
 <b X="352.8758" Y="-192.2558" Z="398.6536"/>
 <InfoGegenRichtung vMax="16.6667" km="413.9131"/>
 <NachNorm Nr="4272"/>
@@ -917,7 +918,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.15"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_2.lod.ls3"/>
 </SignalFrame>
@@ -1724,9 +1725,9 @@
 </StrElement>
 <StrElement Nr="159" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="329.0938" Y="-489.5" Z="397.8928"/>
-<b X="347.25" Y="-410" Z="398.1275"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0815" pos="1"/>
+<b X="338.1719" Y="-449.75" Z="398.0101"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0407" pos="1"/>
+<NachNorm Nr="4394"/>
 <NachGegen Nr="158"/>
 </StrElement>
 <StrElement Nr="160" spTrass="27.7778" Fkt="2">
@@ -2078,12 +2079,11 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0651" pos="1"/>
 </StrElement>
-<StrElement Nr="208" spTrass="27.7778" Anschluss="1" Fkt="2">
+<StrElement Nr="208" spTrass="27.7778" Fkt="2">
 <g X="346" Y="-337" Z="398.1"/>
-<b X="345.7188" Y="-390" Z="397.9372"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.053" pos="1"/>
-<NachNorm Nr="224"/>
+<b X="345.8594" Y="-363.5" Z="398.0186"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0265" pos="1"/>
+<NachNorm Nr="4393"/>
 <NachGegen Nr="225"/>
 </StrElement>
 <StrElement Nr="209" spTrass="27.7778" Fkt="2">
@@ -2163,30 +2163,34 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.0017" pos="1"/>
 <NachGegen Nr="219"/>
 </StrElement>
-<StrElement Nr="221" spTrass="27.7778" Fkt="2">
+<StrElement Nr="221" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="344.3125" Y="-398" Z="397.9194"/>
 <b X="344.9375" Y="-396" Z="397.9375"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0021" pos="1"/>
+<NachGegen Nr="220"/>
 </StrElement>
-<StrElement Nr="222" spTrass="27.7778" Fkt="2">
+<StrElement Nr="222" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="344.9375" Y="-396" Z="397.9375"/>
 <b X="345.375" Y="-394" Z="397.9313"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.002" pos="1"/>
+<NachGegen Nr="221"/>
 </StrElement>
-<StrElement Nr="223" spTrass="27.7778" Fkt="2">
+<StrElement Nr="223" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="345.375" Y="-394" Z="397.9313"/>
 <b X="345.625" Y="-392" Z="397.9487"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.002" pos="1"/>
+<NachGegen Nr="222"/>
 </StrElement>
-<StrElement Nr="224" spTrass="27.7778" Anschluss="1" Fkt="2">
+<StrElement Nr="224" spTrass="27.7778" Anschluss="257" Fkt="2">
 <g X="345.625" Y="-392" Z="397.9487"/>
 <b X="345.7188" Y="-390" Z="397.9372"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.002" pos="1"/>
-<NachNorm Nr="208"/>
+<NachNorm Nr="4393"/>
+<NachGegen Nr="223"/>
 </StrElement>
 <StrElement Nr="225" spTrass="27.7778" Fkt="2">
 <g X="346" Y="-337" Z="398.1"/>
@@ -2235,17 +2239,17 @@
 </StrElement>
 <StrElement Nr="232" spTrass="27.7778" Fkt="2">
 <g X="341.8125" Y="-316.5" Z="398.2428"/>
-<b X="340.5313" Y="-314" Z="398.2494"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0028" pos="1"/>
-<NachNorm Nr="233"/>
+<b X="341.1719" Y="-315.25" Z="398.2461"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0014" pos="1"/>
+<NachNorm Nr="4392"/>
 </StrElement>
 <StrElement Nr="233" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="340.5313" Y="-314" Z="398.2494"/>
 <b X="339.125" Y="-311.5" Z="398.2525"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0029" pos="1"/>
-<NachGegen Nr="232"/>
+<NachNorm Nr="234"/>
+<NachGegen Nr="4392"/>
 </StrElement>
 <StrElement Nr="234" spTrass="27.7778" Fkt="2">
 <g X="339.125" Y="-311.5" Z="398.2525"/>
@@ -2267,6 +2271,7 @@
 <b X="333.9375" Y="-304" Z="398.2412"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0031" pos="1"/>
+<NachNorm Nr="238"/>
 <NachGegen Nr="235"/>
 </StrElement>
 <StrElement Nr="237" spTrass="27.7778" Anschluss="256" Fkt="2">
@@ -2298,19 +2303,22 @@
 <b X="324.2813" Y="-292.5" Z="398.2266"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0025" pos="1"/>
+<NachNorm Nr="241"/>
 <NachGegen Nr="239"/>
 </StrElement>
 <StrElement Nr="241" spTrass="27.7778" Fkt="2">
 <g X="324.2813" Y="-292.5" Z="398.2266"/>
-<b X="322.9375" Y="-290" Z="398.2013"/>
+<b X="322.7" Y="-290" Z="398.2013"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0028" pos="1"/>
+<NachNorm Nr="242"/>
 </StrElement>
 <StrElement Nr="242" spTrass="27.7778" Fkt="2">
-<g X="322.9375" Y="-290" Z="398.2013"/>
+<g X="322.7" Y="-290" Z="398.2013"/>
 <b X="321.7188" Y="-288" Z="398.1972"/>
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0023" pos="1"/>
+<NachNorm Nr="243"/>
 </StrElement>
 <StrElement Nr="243" spTrass="27.7778" Fkt="2">
 <g X="321.7188" Y="-288" Z="398.1972"/>
@@ -2674,10 +2682,9 @@
 </StrElement>
 <StrElement Nr="291" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="340.25" Y="-172" Z="397.4375"/>
-<b X="340.5313" Y="-166.5" Z="397.5219"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0055" pos="1"/>
-<NachNorm Nr="292"/>
+<b X="340.3907" Y="-169.25" Z="397.4797"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0027" pos="1"/>
+<NachNorm Nr="4391"/>
 <NachGegen Nr="290"/>
 </StrElement>
 <StrElement Nr="292" spTrass="27.7778" Anschluss="256" Fkt="2">
@@ -2686,7 +2693,7 @@
 <InfoNormRichtung vMax="27.7778"/>
 <InfoGegenRichtung vMax="27.7778" km="-0.0055" pos="1"/>
 <NachNorm Nr="293"/>
-<NachGegen Nr="291"/>
+<NachGegen Nr="4391"/>
 </StrElement>
 <StrElement Nr="293" spTrass="27.7778" Anschluss="256" Fkt="2">
 <g X="340.6563" Y="-161" Z="397.5309"/>
@@ -8398,101 +8405,18 @@
 </StrElement>
 <StrElement Nr="1109" Ueberh="0.0407" kr="-0.003234" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="333.9291" Y="15.0342" Z="400.0219"/>
-<b X="334.0837" Y="21.6811" Z="400.0728"/>
-<InfoNormRichtung vMax="16.6667" km="413.7072"/>
-<InfoGegenRichtung vMax="16.6667" km="413.7005" pos="1"/>
-<NachNorm Nr="1110"/>
+<b X="334.0064" Y="18.3576" Z="400.0474"/>
+<InfoGegenRichtung vMax="16.6667" km="413.7038" pos="1"/>
+<NachNorm Nr="4389"/>
 <NachGegen Nr="1108"/>
 </StrElement>
 <StrElement Nr="1110" Ueberh="0.044" kr="-0.003619" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.0837" Y="21.6811" Z="400.0728"/>
 <b X="334.3875" Y="28.3228" Z="400.1311"/>
 <InfoNormRichtung vMax="16.6667" km="413.7003"/>
-<InfoGegenRichtung vMax="16.6667" km="413.6937" pos="1">
-<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw 1" Signalname="Nv" SignalTyp="6" BoundingR="10">
-<p X="331.3366" Y="21.8068" Z="400.0728"/>
-<phi Z="-1.616506"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_egli-VSig-Standard-3begr-Gas.Lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="2.75"/>
-<phi/>
-<sk/>
-<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="1.5"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2k.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
-<VsigBegriff VsigGeschw="-1"/>
-<VsigBegriff/>
-<VsigBegriff VsigGeschw="2.7778"/>
-<VsigBegriff VsigGeschw="5.5556"/>
-<VsigBegriff VsigGeschw="8.3333"/>
-<VsigBegriff VsigGeschw="11.1111"/>
-<VsigBegriff VsigGeschw="13.8889"/>
-<VsigBegriff VsigGeschw="16.6667"/>
-<VsigBegriff VsigGeschw="19.4444"/>
-<VsigBegriff VsigGeschw="22.2222"/>
-<VsigBegriff VsigGeschw="25"/>
-<VsigBegriff VsigGeschw="27.7778"/>
-<VsigBegriff VsigGeschw="30.5556"/>
-<VsigBegriff VsigGeschw="33.3333"/>
-<VsigBegriff VsigGeschw="36.1111"/>
-<VsigBegriff VsigGeschw="38.8889"/>
-<VsigBegriff VsigGeschw="41.6667"/>
-<VsigBegriff VsigGeschw="-2"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
-<Ereignis Er="1000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="57" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-</Signal>
-</InfoGegenRichtung>
+<InfoGegenRichtung vMax="16.6667" km="413.6937" pos="1"/>
 <NachNorm Nr="1111"/>
-<NachGegen Nr="1109"/>
+<NachGegen Nr="4389"/>
 </StrElement>
 <StrElement Nr="1111" Ueberh="0.0472" kr="-0.003936" spTrass="16.6667" Anschluss="257" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="334.3875" Y="28.3228" Z="400.1311"/>
@@ -43783,6 +43707,7 @@
 <g X="339.2392" Y="-1260.873" Z="401.6712"/>
 <b X="347.7547" Y="-1275.4105" Z="401.7666"/>
 <InfoGegenRichtung vMax="11.1111" km="414.9899">
+<Ereignis Er="21"/>
 <Signal SignalTyp="1" BoundingR="10">
 <p X="346.2782" Y="-1268.3392" Z="405.1212"/>
 <phi Z="2.100682"/>
@@ -49043,10 +48968,10 @@
 <InfoGegenRichtung vMax="27.7778" km="-0.001" pos="1"/>
 </StrElement>
 <StrElement Nr="3740" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
-<g X="391.9448" Y="153.033" Z="395.9214"/>
-<b X="378.3246" Y="132.7729" Z="395.8282"/>
-<InfoNormRichtung vMax="27.7778"/>
-<InfoGegenRichtung vMax="27.7778" km="-0.0244" pos="1"/>
+<g X="391.9448" Y="153.033" Z="395.23"/>
+<b X="385.1347" Y="142.9029" Z="395.23"/>
+<InfoGegenRichtung vMax="27.7778" km="-0.0122" pos="1"/>
+<NachNorm Nr="4390"/>
 </StrElement>
 <StrElement Nr="3741" spTrass="27.7778" Fkt="2" Oberbau="B55 SKL-Oberbau">
 <g X="378.3246" Y="132.7729" Z="395.8282"/>
@@ -54547,7 +54472,7 @@
 <b X="329.0842" Y="12.1679" Z="400.0383"/>
 <InfoNormRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Inselgasse" Stellwerk="BÜ Inselgasse" Signalname="BÜ Inselgasse" SignalTyp="4" BoundingR="10">
-<p X="338.0774" Y="11.8175" Z="400.0383"/>
+<p X="336.079" Y="11.8953" Z="400.0383"/>
 <phi Z="3.102651"/>
 <SignalFrame>
 <p Y="-3.55"/>
@@ -54636,7 +54561,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54648,7 +54573,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54686,7 +54611,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54698,7 +54623,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54907,7 +54832,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54919,7 +54844,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -54951,7 +54876,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -54963,7 +54888,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -55035,7 +54960,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.15"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_2.lod.ls3"/>
 </SignalFrame>
@@ -55101,7 +55026,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.15"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_2.lod.ls3"/>
 </SignalFrame>
@@ -55529,6 +55454,129 @@
 <g X="208.9016" Y="-958.8981" Z="399.4768"/>
 <b X="201.4584" Y="-952.2198" Z="399.3671"/>
 <NachGegen Nr="4368"/>
+</StrElement>
+<StrElement Nr="4389" Ueberh="0.0407" kr="-0.003234" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="334.0064" Y="18.3576" Z="400.0474"/>
+<b X="334.0837" Y="21.6811" Z="400.0728"/>
+<InfoNormRichtung vMax="16.6667" km="413.7039"/>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Konstanz" Stellwerk="Konstanz Stw 2" Signalname="Nv" SignalTyp="6" BoundingR="10">
+<p X="331.2571" Y="18.4215" Z="400.0474"/>
+<phi Z="-1.594052"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSig\DB_egli_VSig-Mast.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\ls3-VSIG\DB_egli-VSig-Standard-3begr-Gas.Lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="2.75"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="1.5"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne2k.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<VsigBegriff VsigGeschw="-1"/>
+<VsigBegriff/>
+<VsigBegriff VsigGeschw="2.7778"/>
+<VsigBegriff VsigGeschw="5.5556"/>
+<VsigBegriff VsigGeschw="8.3333"/>
+<VsigBegriff VsigGeschw="11.1111"/>
+<VsigBegriff VsigGeschw="13.8889"/>
+<VsigBegriff VsigGeschw="16.6667"/>
+<VsigBegriff VsigGeschw="19.4444"/>
+<VsigBegriff VsigGeschw="22.2222"/>
+<VsigBegriff VsigGeschw="25"/>
+<VsigBegriff VsigGeschw="27.7778"/>
+<VsigBegriff VsigGeschw="30.5556"/>
+<VsigBegriff VsigGeschw="33.3333"/>
+<VsigBegriff VsigGeschw="36.1111"/>
+<VsigBegriff VsigGeschw="38.8889"/>
+<VsigBegriff VsigGeschw="41.6667"/>
+<VsigBegriff VsigGeschw="-2"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1">
+<Ereignis Er="1000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="57" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="53" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="51" MatrixGeschw="-1">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="1110"/>
+<NachGegen Nr="1109"/>
+</StrElement>
+<StrElement Nr="4390" spTrass="27.7778" Anschluss="256" Fkt="2" Oberbau="B55 SKL-Oberbau">
+<g X="385.1347" Y="142.9029" Z="395.23"/>
+<b X="378.3246" Y="132.7729" Z="395.23"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachGegen Nr="3740"/>
+</StrElement>
+<StrElement Nr="4391" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="340.3907" Y="-169.25" Z="397.4797"/>
+<b X="340.5313" Y="-166.5" Z="397.5219"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="292"/>
+<NachGegen Nr="291"/>
+</StrElement>
+<StrElement Nr="4392" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="341.1719" Y="-315.25" Z="398.2461"/>
+<b X="340.5313" Y="-314" Z="398.2494"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="233"/>
+<NachGegen Nr="232"/>
+</StrElement>
+<StrElement Nr="4393" spTrass="27.7778" Anschluss="257" Fkt="2">
+<g X="345.8594" Y="-363.5" Z="398.0186"/>
+<b X="345.7188" Y="-390" Z="397.9372"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachNorm Nr="224"/>
+<NachGegen Nr="208"/>
+</StrElement>
+<StrElement Nr="4394" spTrass="27.7778" Anschluss="256" Fkt="2">
+<g X="338.1719" Y="-449.75" Z="398.0101"/>
+<b X="347.25" Y="-410" Z="398.1275"/>
+<InfoNormRichtung vMax="27.7778"/>
+<NachGegen Nr="159"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="798.1303">
 <FahrstrStart Ref="103">
@@ -56296,9 +56344,6 @@
 <FahrstrVSignal Ref="455" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
-<FahrstrVSignal Ref="466" FahrstrSignalSpalte="5">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
-</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Konstanz P3 -&gt; Konstanz-Petershausen F" FahrstrStrecke="720b" RglGgl="1" FahrstrTyp="TypZug" Laenge="1119.2178">
 <FahrstrStart Ref="132">
@@ -56380,9 +56425,6 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrVSignal Ref="473" FahrstrSignalSpalte="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
-</FahrstrVSignal>
-<FahrstrVSignal Ref="466" FahrstrSignalSpalte="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -56536,9 +56578,6 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrVSignal Ref="474" FahrstrSignalSpalte="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
-</FahrstrVSignal>
-<FahrstrVSignal Ref="466" FahrstrSignalSpalte="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -56818,7 +56857,7 @@
 <FahrstrVSignal Ref="144" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
-<FahrstrVSignal Ref="558">
+<FahrstrVSignal Ref="616">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -56853,7 +56892,7 @@
 <FahrstrVSignal Ref="131" FahrstrSignalSpalte="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
-<FahrstrVSignal Ref="558">
+<FahrstrVSignal Ref="616">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
@@ -57287,9 +57326,6 @@
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
 <FahrstrVSignal Ref="468" FahrstrSignalSpalte="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
-</FahrstrVSignal>
-<FahrstrVSignal Ref="466">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrVSignal>
 </Fahrstrasse>
