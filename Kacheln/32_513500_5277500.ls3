@@ -2,25 +2,25 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="32" BoundingR="171" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="179" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_513125_5277625.ls3"/>
 <p X="-375" Y="125"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="178" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_513375_5277625.ls3"/>
 <p X="-125" Y="125"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="180" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_513125_5277875.ls3"/>
 <p X="-375" Y="375"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="178" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_513375_5277875.ls3"/>
 <p X="-125" Y="375"/>
 <phi/>
@@ -720,12 +720,6 @@
 <Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m20_SH20_Standard_k.lod.ls3"/>
 <p X="-216.0569" Y="292.0377" Z="401.374"/>
 <phi Z="-1.430474"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0005_0061\000456_006085_Westerland\Objekte\AWLA_Werbeuhr\Werbeuhr.lod.ls3"/>
-<p X="-211.7057" Y="234.3088" Z="401.6293"/>
-<phi Z="-1.366188"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -3332,6 +3326,306 @@
 <phi X="0.022705" Z="3.166938"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-236.9811" Y="384.3174" Z="400.4746"/>
+<phi Z="0.612757"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-249.4793" Y="375.5308" Z="400.5084"/>
+<phi Z="-2.528836"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-254.6984" Y="372.0779" Z="400.5211"/>
+<phi Z="0.662098"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-234.7864" Y="369.5037" Z="400.8495"/>
+<phi Z="1.550095"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vineyard\grape-vine01-0degree.lod.ls3"/>
+<p X="-240.213" Y="371.599" Z="400.6474"/>
+<phi Z="-1.584712"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vineyard\grape-vine01-0degree.lod.ls3"/>
+<p X="-242.299" Y="371.6927" Z="400.6474"/>
+<phi Z="-1.584712"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vineyard\grape-vine01-0degree.lod.ls3"/>
+<p X="-244.4435" Y="371.6576" Z="400.6474"/>
+<phi Z="-1.584712"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vineyard\grape-vine01-0degree.lod.ls3"/>
+<p X="-246.6349" Y="371.7279" Z="400.6474"/>
+<phi Z="-1.584712"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush03-5m.lod.ls3"/>
+<p X="-237.4607" Y="377.0979" Z="400.7538"/>
+<phi Z="-1.535094"/>
+<sk X="0.5" Y="0.5" Z="0.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
+<p X="-235.281" Y="376.5003" Z="400.6952"/>
+<phi Z="-1.535094"/>
+<sk X="1" Y="1" Z="4"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-166.9275" Y="381.7699" Z="399.653"/>
+<phi Z="5.271755"/>
+<sk X="1" Y="1" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
+<p X="-172.2333" Y="390.2448" Z="399.8142"/>
+<phi Z="2.130162"/>
+<sk X="1" Y="1" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-189.1789" Y="374.2704" Z="400.4489"/>
+<phi Z="1.620733"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-190.4268" Y="399.2391" Z="400.4303"/>
+<phi Z="1.620733"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-178.196" Y="373.3444" Z="400.011"/>
+<phi Z="-0.999347"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-157.8801" Y="356.6676" Z="399.5533"/>
+<phi Z="-0.999347"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-184.0912" Y="356.8668" Z="400.3017"/>
+<phi Z="-3.079952"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-167.0936" Y="352.0219" Z="399.7031"/>
+<phi Z="-0.139606"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
+<p X="-191.5052" Y="410.5244" Z="400.2312"/>
+<phi Z="2.853261"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-262.5983" Y="537.9881" Z="399.9147"/>
+<phi Z="-1.596526"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-262.5006" Y="486.1022" Z="400.2612"/>
+<phi Z="-3.13035"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-261.1924" Y="412.4565" Z="400.489"/>
+<phi Z="3.172909"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
+<p X="-278.6054" Y="426.7108" Z="400.4128"/>
+<phi Z="0.210777"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-208.0509" Y="417.1083" Z="400.4453"/>
+<phi Z="1.62342"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-208.8477" Y="439.3055" Z="400.2635"/>
+<phi Z="1.571516"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-208.0069" Y="464.5197" Z="400.0791"/>
+<phi Z="1.493854"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-204.9076" Y="489.5829" Z="399.8936"/>
+<phi Z="1.427872"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-221.1494" Y="489.6224" Z="399.8888"/>
+<phi Z="-1.542077"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-220.1924" Y="469.1771" Z="400.069"/>
+<phi Z="-1.466817"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-217.5566" Y="444.5602" Z="400.2462"/>
+<phi Z="-1.413673"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-228.6516" Y="495.0326" Z="399.8898"/>
+<phi Z="-1.56495"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-227.748" Y="470.106" Z="400.0747"/>
+<phi Z="-1.492156"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-222.7682" Y="417.4719" Z="400.4487"/>
+<phi Z="4.826254"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-243.1278" Y="498.9423" Z="399.9053"/>
+<phi Z="-1.580903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-247.1336" Y="470.9388" Z="400.0894"/>
+<phi Z="-1.540363"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-245.3042" Y="446.1526" Z="400.2696"/>
+<phi Z="-1.492927"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
+<p X="-243.3594" Y="421.2288" Z="400.4497"/>
+<phi Z="-1.492924"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\Uhrturm\Uhrturm.lod.ls3"/>
+<p X="-211.7057" Y="234.3088" Z="401.6293"/>
+<phi Z="-1.366188"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Elektrant\Mehrspannungselektrant.lod.ls3"/>
+<p X="-202.1185" Y="245.4583" Z="401.85"/>
+<phi Z="-1.336077"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Elektrant\Mehrspannungselektrant.lod.ls3"/>
+<p X="-207.2595" Y="244.3041" Z="401.8676"/>
+<phi Z="-1.336077"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\Lautsprecher_rund_doppelt_aufgestaendert.lod.ls3"/>
+<p X="-250.5255" Y="422.5642" Z="400.4507"/>
+<phi Z="1.586958"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\Lautsprecher_rund_doppelt_aufgestaendert.lod.ls3"/>
+<p X="-208.8689" Y="434.1267" Z="400.0216"/>
+<phi Z="1.595128"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\Lautsprecher_rund_doppelt_aufgestaendert.lod.ls3"/>
+<p X="-227.7461" Y="262.0425" Z="401.6423"/>
+<phi Z="-1.707827"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\Lautsprecher_rund_doppelt_aufgestaendert.lod.ls3"/>
+<p X="-204.61" Y="234.3334" Z="401.5302"/>
+<phi Z="-1.453243"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\Lautsprecher_rund_doppelt_aufgestaendert.lod.ls3"/>
+<p X="-212.4567" Y="322.9642" Z="401.1573"/>
+<phi Z="-1.203096"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\Lautsprecher_rund_doppelt_aufgestaendert.lod.ls3"/>
+<p X="-162.7485" Y="207.8078" Z="401.5115"/>
+<phi Z="-1.03136"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\Lautsprecher_rund_doppelt_aufgestaendert.lod.ls3"/>
+<p X="-93.2108" Y="126.5089" Z="402.5382"/>
+<phi Z="-0.802129"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Elektrant\Mehrspannungselektrant.lod.ls3"/>
+<p X="-245.1495" Y="441.2648" Z="400.362"/>
+<phi Z="-1.492927"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Vorheizanlage\Zugvorheizanlage.lod.ls3"/>
+<p X="-184.6474" Y="193.8697" Z="402.2132"/>
+<phi Z="1.820132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Vorheizanlage\Zugvorheizanlage.lod.ls3"/>
+<p X="-199.5787" Y="189.8985" Z="402.2058"/>
+<phi Z="1.819705"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5277500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="594" MeshI="1278">
 <RenderFlags TexVoreinstellung="3"/>
@@ -3681,10 +3975,10 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="5" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Terrain\Default\gravel02.dds"/>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
@@ -3760,6 +4054,30 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="12" MeshI="30">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="36" MeshI="150">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\potato-field.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="42" MeshI="180">
+<RenderFlags TexVoreinstellung="8"/>
+<Textur>
+<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

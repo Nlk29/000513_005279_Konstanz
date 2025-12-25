@@ -1904,42 +1904,6 @@
 <phi Z="1.657701"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
-<p X="-22.6999" Y="-15.0914" Z="397.9127"/>
-<phi Z="-1.669334"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
-<p X="-23.1236" Y="-18.7298" Z="397.8959"/>
-<phi Z="-1.669334"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
-<p X="-23.6411" Y="-21.8292" Z="397.8783"/>
-<phi Z="-1.669334"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
-<p X="-24.2406" Y="-24.741" Z="397.8952"/>
-<phi Z="-1.669334"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
-<p X="-25.4849" Y="-27.6719" Z="397.8353"/>
-<phi Z="-2.053086"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
-<p X="-27.2679" Y="-30.6031" Z="397.8824"/>
-<phi Z="-2.303432"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
 <p X="-4.8779" Y="-20.9776" Z="397.7974"/>
@@ -2474,6 +2438,36 @@
 <phi Z="-3.397126"/>
 <sk X="1.0847" Y="1.0847" Z="1.0847"/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-9.0295" Y="125.4662" Z="398.1029"/>
+<phi Z="-1.490893"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-7.0341" Y="100.546" Z="398.0454"/>
+<phi Z="-1.490893"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="-2.4018" Y="76.3896" Z="397.9256"/>
+<phi Z="-1.087346"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="15.3582" Y="61.2826" Z="397.8344"/>
+<phi Z="-0.155545"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
+<p X="5.6622" Y="65.7999" Z="397.8715"/>
+<phi Z="2.723605"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="Detail_32_513375_5278625.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="8" MeterProTex="50" MeshV="1408" MeshI="4032">
 <RenderFlags TexVoreinstellung="1"/>
@@ -2611,6 +2605,51 @@
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Fahrleitung" MeterProTex="10" MeterProTex2="10" MeshV="27" MeshI="90">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="18" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="120" MeshI="360">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="120" MeshI="360">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="120" MeshI="360">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="120" MeshI="360">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="120" MeshI="360">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="180" MeshI="720">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 </Landschaft>

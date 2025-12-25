@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1" Beschreibung="Fallblattanzeiger Krone, blau, 2 Zeilen, LOD3;">
+<AutorEintrag AutorID="12" AutorName="Immo Birnbaum" AutorEmail="Immo.Birnbaum@freenet.de"/>
+</Info>
+<Landschaft>
+<lsb Dateiname="Fallblatt_Krone2Zeilen.lod3.lsb"/>
+<SubSet Cd="00FFFFFF" MeterProTex="10" MeterProTex2="10" MeshV="64" MeshI="180">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="FBA_Krone2Zeilen_LOD2_LOD3.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>
