@@ -898,7 +898,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras03.lod.ls3"/>
-<p X="-105.5913" Y="16.2429" Z="400.3119"/>
+<p X="-105.1694" Y="14.1804" Z="400.3119"/>
 <phi Z="-2.062217"/>
 <sk X="0.9249" Y="0.9249" Z="0.9249"/>
 </Verknuepfte>

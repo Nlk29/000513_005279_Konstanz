@@ -1637,7 +1637,7 @@
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-169.1403" Y="25.8942" Z="404.5238"/>
-<phi X="-0.003099" Z="0.068632"/>
+<phi X="-0.0031" Z="0.068632"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -1727,19 +1727,19 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
 <p X="-206.27" Y="-267.4219" Z="398.1075"/>
-<phi Z="-1.746807"/>
+<phi Z="-1.746808"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-206.2126" Y="-269.4699" Z="405.0786"/>
-<phi X="-0.010562" Z="0.033122"/>
+<phi X="-0.010563" Z="0.033123"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-206.2141" Y="-269.4798" Z="404.1759"/>
-<phi X="-0.009231" Z="0.033206"/>
+<phi X="-0.009231" Z="0.033207"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -1811,7 +1811,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
 <p X="-228.9416" Y="-370.1097" Z="398.9125"/>
-<phi Z="-1.747072"/>
+<phi Z="-1.747073"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -1823,7 +1823,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
 <p X="-241.7224" Y="-443.1008" Z="399.5006"/>
-<phi Z="-1.706931"/>
+<phi Z="-1.70693"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
@@ -1835,19 +1835,19 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m20_SH20_Ausfaedelung_k.lod.ls3"/>
 <p X="-241.5218" Y="-458.8911" Z="399.5583"/>
-<phi Z="1.503703"/>
+<phi Z="1.503702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-241.684" Y="-445.1472" Z="406.5529"/>
-<phi X="-0.051221" Z="0.022667"/>
+<phi X="-0.05122" Z="0.022667"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-241.6851" Y="-445.1594" Z="405.5134"/>
-<phi X="0.018562" Z="0.022769"/>
+<phi X="0.018562" Z="0.02277"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -1883,7 +1883,7 @@
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-229.1962" Y="-372.1538" Z="404.9469"/>
-<phi X="0.007762" Z="-0.122367"/>
+<phi X="0.007761" Z="-0.122367"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -1895,7 +1895,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Mehrgleisausleger\Rohrausleger\Haengesaeule2m95.lod.ls3"/>
 <p X="-234.5352" Y="-478.5387" Z="408.0216"/>
-<phi Z="-1.636142"/>
+<phi Z="-1.636141"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -1979,7 +1979,7 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m40_SH20_Ausfaedelung_k.lod.ls3"/>
 <p X="-239.2042" Y="-478.2575" Z="399.7403"/>
-<phi Z="-1.636142"/>
+<phi Z="-1.636141"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -1997,7 +1997,7 @@
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-241.9578" Y="-493.6462" Z="405.6454"/>
-<phi X="0.013133" Z="2.974079"/>
+<phi X="0.013134" Z="2.974079"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -2027,7 +2027,7 @@
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-212.5473" Y="-370.3935" Z="405.7881"/>
-<phi X="0.027003" Z="3.065391"/>
+<phi X="0.027004" Z="3.065392"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -2087,7 +2087,7 @@
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_3m00_SH20_Standard_k.lod.ls3"/>
 <p X="-224.2115" Y="-460.9347" Z="399.5376"/>
-<phi Z="-1.636142"/>
+<phi Z="-1.636141"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -2105,13 +2105,13 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m20_SH20_Standard_l.lod.ls3"/>
 <p X="-209.7965" Y="-370.3723" Z="398.8558"/>
-<phi Z="1.395339"/>
+<phi Z="1.395338"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
 <p X="-210.9039" Y="-411.3579" Z="399.1494"/>
-<phi Z="-1.724372"/>
+<phi Z="-1.724371"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -2123,7 +2123,7 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m40_SH20_Kurve.lod.ls3"/>
 <p X="-224.7319" Y="-459.6981" Z="399.5142"/>
-<phi Z="-1.636142"/>
+<phi Z="-1.636141"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -2159,277 +2159,277 @@
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-316.95" Y="-177.9901" Z="203.4587"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-316.4492" Y="-179.8447" Z="204.0152"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-314.3005" Y="-187.8031" Z="206.4035"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-313.7998" Y="-189.6577" Z="206.96"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-313.4969" Y="-190.7796" Z="207.2967"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-312.9962" Y="-192.6342" Z="207.8532"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-310.5524" Y="-201.6856" Z="210.5695"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-310.0517" Y="-203.5402" Z="211.126"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-309.5357" Y="-205.4513" Z="211.6995"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-309.035" Y="-207.3059" Z="212.2561"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-270.3049" Y="-350.7564" Z="255.3043"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-269.8042" Y="-352.6111" Z="255.8608"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-270.2016" Y="-351.1389" Z="255.4191"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-269.7009" Y="-352.9936" Z="255.9756"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-266.7858" Y="-363.7909" Z="259.2158"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-266.285" Y="-365.6455" Z="259.7723"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-264.0225" Y="-374.0255" Z="262.2871"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-263.5218" Y="-375.8801" Z="262.8437"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-262.2318" Y="-380.6582" Z="264.2775"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-261.731" Y="-382.5128" Z="264.8341"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-261.6836" Y="-382.6884" Z="264.8868"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-261.1829" Y="-384.543" Z="265.4433"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-260.4356" Y="-387.3108" Z="266.2739"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-259.9349" Y="-389.1654" Z="266.8304"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-259.5472" Y="-390.6013" Z="267.2614"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-259.0465" Y="-392.456" Z="267.8179"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-258.7888" Y="-393.4102" Z="268.1043"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-258.2881" Y="-395.2649" Z="268.6609"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-258.1013" Y="-395.9569" Z="268.8685"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-257.6006" Y="-397.8115" Z="269.4251"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-257.3555" Y="-398.7193" Z="269.6975"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-256.8547" Y="-400.5739" Z="270.2541"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-255.1911" Y="-406.7356" Z="272.1031"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-254.6904" Y="-408.5902" Z="272.6597"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-251.6965" Y="-419.679" Z="275.9873"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-251.1958" Y="-421.5337" Z="276.5439"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-251.2438" Y="-421.3561" Z="276.4906"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-250.743" Y="-423.2107" Z="277.0471"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-247.3461" Y="-435.7926" Z="280.8229"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-246.8453" Y="-437.6472" Z="281.3794"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-243.3465" Y="-450.6064" Z="285.2684"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-242.8458" Y="-452.461" Z="285.8249"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-243.0004" Y="-451.8882" Z="285.653"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-242.4997" Y="-453.7428" Z="286.2095"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Einzelteile\QTW-Seitenhalter.lod.ls3"/>
 <p X="-234.8298" Y="-482.1508" Z="294.7346"/>
-<phi X="0.281997" Z="3.405294"/>
+<phi X="0.281996" Z="3.405294"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" GruppenName="Fahrleitung" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
 <p X="-234.3291" Y="-484.0055" Z="295.2911"/>
-<phi X="-0.281997" Z="0.263702"/>
+<phi X="-0.281996" Z="0.263702"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -2441,7 +2441,7 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH20\Re75_Ausleger_2m00_SH20_Kurve.lod.ls3"/>
 <p X="-234.4039" Y="-336.0721" Z="398.6572"/>
-<phi Z="1.395079"/>
+<phi Z="1.395078"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -2477,13 +2477,13 @@
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
 <p X="-256.0677" Y="-423.8998" Z="399.3261"/>
-<phi Z="-1.68021"/>
+<phi Z="-1.680209"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
 <p X="-230.0019" Y="-311.1294" Z="398.4658"/>
-<phi Z="-1.764675"/>
+<phi Z="-1.764674"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="27" SichtbarBis="3000" Vorlade="1">
@@ -2501,7 +2501,7 @@
 <Verknuepfte Flags="16" BoundingR="27" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Oberpostamt\OberpostamtFluegel.lod.ls3"/>
 <p X="-236.7343" Y="43.6836" Z="397.46"/>
-<phi Z="1.584461"/>
+<phi Z="1.58446"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
@@ -2525,7 +2525,7 @@
 <Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Werkstatt\Werkstatt.lod.ls3"/>
 <p X="-288.9921" Y="-380.5742" Z="399.1135"/>
-<phi Z="3.293224"/>
+<phi Z="3.293223"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
@@ -2663,7 +2663,7 @@
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Pine\Pine01-08m.lod.ls3"/>
 <p X="-136.3691" Y="488.9673" Z="399.7133"/>
-<phi Z="-0.744534"/>
+<phi Z="-0.744535"/>
 <sk X="0.9615" Y="0.9615" Z="0.9615"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
@@ -2681,7 +2681,7 @@
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\sycamore\sycamore01-08m.lod.ls3"/>
 <p X="-135.3061" Y="461.2744" Z="399.7758"/>
-<phi Z="-1.080098"/>
+<phi Z="-1.080099"/>
 <sk X="1.3795" Y="1.3795" Z="1.3795"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
@@ -2693,13 +2693,13 @@
 <Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Pine\Pine01-08m.lod.ls3"/>
 <p X="-133.6269" Y="443.3647" Z="399.7785"/>
-<phi Z="-1.277603"/>
+<phi Z="-1.277604"/>
 <sk X="1.4719" Y="1.4719" Z="1.4719"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Birch\Birch01-13m.lod.ls3"/>
 <p X="-124.7579" Y="423.5482" Z="399.7761"/>
-<phi Z="-0.235186"/>
+<phi Z="-0.235187"/>
 <sk X="1.4395" Y="1.4395" Z="1.4395"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
@@ -2711,7 +2711,7 @@
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\sycamore\Sycamore01-12m.lod.ls3"/>
 <p X="-121.3388" Y="413.6195" Z="399.7769"/>
-<phi Z="0.033265"/>
+<phi Z="0.033264"/>
 <sk X="0.7753" Y="0.7753" Z="0.7753"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
@@ -2921,55 +2921,55 @@
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-03m.lod.ls3"/>
 <p X="-162.1715" Y="169.3781" Z="398.1896"/>
-<phi Z="2.428899"/>
+<phi Z="2.4289"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
 <p X="-168.0405" Y="173.1396" Z="398.1593"/>
-<phi Z="2.428899"/>
+<phi Z="2.4289"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush04-3m.lod.ls3"/>
 <p X="-172.925" Y="178.9285" Z="398.1422"/>
-<phi Z="2.428899"/>
+<phi Z="2.4289"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
 <p X="-163.9685" Y="171.5411" Z="398.2017"/>
-<phi Z="2.335646"/>
+<phi Z="2.335647"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
 <p X="-168.9776" Y="177.0938" Z="398.1819"/>
-<phi Z="2.335646"/>
+<phi Z="2.335647"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush02-1m5.lod.ls3"/>
 <p X="-171.2209" Y="180.8067" Z="398.1663"/>
-<phi Z="2.335646"/>
+<phi Z="2.335647"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
 <p X="-164.6558" Y="175.3247" Z="398.1959"/>
-<phi Z="2.32864"/>
+<phi Z="2.328639"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
 <p X="-168.0926" Y="178.9563" Z="398.1872"/>
-<phi Z="2.32864"/>
+<phi Z="2.328639"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
 <p X="-171.5293" Y="182.5879" Z="398.1748"/>
-<phi Z="2.32864"/>
+<phi Z="2.328639"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -2992,7 +2992,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Maple\Maple01-15m.lod.ls3"/>
-<p X="-147.9023" Y="197.0742" Z="398.2406"/>
+<p X="-147.5039" Y="197.0742" Z="398.2406"/>
 <phi Z="3.125686"/>
 <sk X="0.7" Y="0.7" Z="0.7"/>
 </Verknuepfte>
@@ -3005,7 +3005,7 @@
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
 <p X="-174.5391" Y="218.8125" Z="398.3666"/>
-<phi Z="3.792422"/>
+<phi Z="3.792423"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -3095,7 +3095,7 @@
 <Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
 <p X="-148.395" Y="169.871" Z="399.022"/>
-<phi Z="-1.516207"/>
+<phi Z="-1.516208"/>
 <sk X="0.7" Y="0.7" Z="1"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
@@ -3119,7 +3119,7 @@
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
 <p X="-148.2034" Y="132.8822" Z="398.4743"/>
-<phi Z="-1.575112"/>
+<phi Z="-1.575113"/>
 <sk X="1" Y="0.7" Z="0.7"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -3167,13 +3167,13 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0056\000391_005625_Eitorf\Objekte\KEIT68_Baumkuebel\KEIT68_Baumkuebel.lod.ls3"/>
 <p X="-124.9831" Y="101.063" Z="397.6274"/>
-<phi Z="-1.559489"/>
+<phi Z="-1.559488"/>
 <sk X="0.7" Y="0.7" Z="0.7"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Beech\Beech01-20m.lod.ls3"/>
 <p X="-124.9831" Y="101.063" Z="397.8243"/>
-<phi Z="-1.559489"/>
+<phi Z="-1.559488"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -3197,19 +3197,19 @@
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
 <p X="-125.84" Y="32.692" Z="398.6015"/>
-<phi Z="1.395484"/>
+<phi Z="1.395483"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
 <p X="-124.0958" Y="42.5387" Z="398.6015"/>
-<phi Z="1.395484"/>
+<phi Z="1.395483"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\hedge_1m_10m.lod.ls3"/>
 <p X="-122.3516" Y="52.3854" Z="398.6015"/>
-<phi Z="1.395484"/>
+<phi Z="1.395483"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -3221,31 +3221,31 @@
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras06.lod.ls3"/>
 <p X="-127.2681" Y="51.193" Z="397.6685"/>
-<phi Z="-2.279933"/>
+<phi Z="-2.279932"/>
 <sk X="1.4656" Y="1.4656" Z="1.4656"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
 <p X="-125.5074" Y="47.3626" Z="397.6559"/>
-<phi Z="1.879387"/>
+<phi Z="1.879386"/>
 <sk X="0.9695" Y="0.9695" Z="0.9695"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
 <p X="-127.1286" Y="51.525" Z="397.6679"/>
-<phi Z="1.637083"/>
+<phi Z="1.637082"/>
 <sk X="1.3394" Y="1.3394" Z="1.3394"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras07.lod.ls3"/>
 <p X="-129.6622" Y="57.1191" Z="397.6764"/>
-<phi Z="1.537786"/>
+<phi Z="1.537785"/>
 <sk X="1.4534" Y="1.4534" Z="1.4534"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras02.lod.ls3"/>
 <p X="-125.8403" Y="59.9277" Z="397.6773"/>
-<phi Z="-1.39547"/>
+<phi Z="-1.395469"/>
 <sk X="1.1364" Y="1.1364" Z="1.1364"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -3263,7 +3263,7 @@
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras03.lod.ls3"/>
 <p X="-129.3894" Y="18.9283" Z="397.291"/>
-<phi Z="1.238148"/>
+<phi Z="1.238149"/>
 <sk X="0.8192" Y="0.8192" Z="0.8192"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -3275,7 +3275,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras03.lod.ls3"/>
 <p X="-133.76" Y="-13.6413" Z="397.286"/>
-<phi Z="0.691823"/>
+<phi Z="0.691822"/>
 <sk X="0.3821" Y="0.3821" Z="0.3821"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -3293,7 +3293,7 @@
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
 <p X="-126.4688" Y="55.323" Z="397.8715"/>
-<phi Z="1.880974"/>
+<phi Z="1.880975"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -3389,43 +3389,43 @@
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
 <p X="-170.4357" Y="-65.8058" Z="398.1069"/>
-<phi Z="1.392608"/>
+<phi Z="1.392609"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
 <p X="-168.7519" Y="-56.4563" Z="398.0934"/>
-<phi Z="1.392608"/>
+<phi Z="1.392609"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
 <p X="-167.0681" Y="-47.1067" Z="398.0916"/>
-<phi Z="1.392608"/>
+<phi Z="1.392609"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
 <p X="-165.3842" Y="-37.7571" Z="398.0781"/>
-<phi Z="1.392608"/>
+<phi Z="1.392609"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
 <p X="-163.7003" Y="-28.4075" Z="398.0763"/>
-<phi Z="1.392608"/>
+<phi Z="1.392609"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
 <p X="-162.0165" Y="-19.0579" Z="398.0628"/>
-<phi Z="1.392608"/>
+<phi Z="1.392609"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000398_005705_Hoerde\Objekte\Do-Aplerbeck-Sued-1_Bahnsteig\03_03_Bstg_2_3_Teil_1.lod.ls3"/>
 <p X="-160.3326" Y="-9.7083" Z="398.061"/>
-<phi Z="1.392608"/>
+<phi Z="1.392609"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="25" SichtbarBis="3000" Vorlade="1">
@@ -3617,7 +3617,7 @@
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Blackberry01_5x3.lod.ls3"/>
 <p X="-146.7374" Y="-98.3656" Z="397.7996"/>
-<phi Z="4.831453"/>
+<phi Z="4.831454"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
@@ -3731,13 +3731,13 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-169.9646" Y="10.7599" Z="403.1439"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-174.0241" Y="-8.8217" Z="403.1772"/>
-<phi Z="-1.752781"/>
+<phi Z="-1.752782"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -3803,19 +3803,19 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-161.9256" Y="-14.0396" Z="402.4178"/>
-<phi Z="-1.748985"/>
+<phi Z="-1.748986"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-165.4705" Y="-33.7229" Z="402.2735"/>
-<phi Z="-1.748985"/>
+<phi Z="-1.748986"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-169.0155" Y="-53.4062" Z="402.1292"/>
-<phi Z="-1.748985"/>
+<phi Z="-1.748986"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -3845,37 +3845,37 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-186.7642" Y="-151.818" Z="402.0907"/>
-<phi Z="-1.747845"/>
+<phi Z="-1.747844"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-190.2867" Y="-171.5053" Z="402.2195"/>
-<phi Z="-1.747845"/>
+<phi Z="-1.747844"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-193.8092" Y="-191.1927" Z="402.3484"/>
-<phi Z="-1.747845"/>
+<phi Z="-1.747844"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-160.3509" Y="-14.3232" Z="402.4178"/>
-<phi Z="-4.861125"/>
+<phi Z="-4.861124"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-163.8958" Y="-34.0065" Z="402.2735"/>
-<phi Z="-4.861125"/>
+<phi Z="-4.861124"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-167.4408" Y="-53.6898" Z="402.1292"/>
-<phi Z="-4.861125"/>
+<phi Z="-4.861124"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -3905,31 +3905,31 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-185.1892" Y="-152.0998" Z="402.0907"/>
-<phi Z="-4.859985"/>
+<phi Z="-4.859984"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-188.7117" Y="-171.7871" Z="402.2195"/>
-<phi Z="-4.859985"/>
+<phi Z="-4.859984"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_Wand.lod.ls3"/>
 <p X="-192.2342" Y="-191.4745" Z="402.3484"/>
-<phi Z="-4.859985"/>
+<phi Z="-4.859984"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="73" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000391_005707_Do_Dortmunderfeld\Objekte\NR_28_Portalkran\Portalkran.lod.ls3"/>
 <p X="-45.5119" Y="-227.7407" Z="397.8153"/>
 <phi Z="3.481412"/>
-<sk X="0.8" Y="1" Z="1"/>
+<sk X="0.8" Y="1" Z="0.8"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-227.6804" Y="-272.0667" Z="398.123"/>
-<phi Z="-0.181728"/>
+<phi Z="-0.181727"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -3941,7 +3941,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-236.2251" Y="-354.0581" Z="398.7857"/>
-<phi Z="2.813231"/>
+<phi Z="2.813232"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -3959,7 +3959,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-285.6133" Y="-436.6172" Z="399.4863"/>
-<phi Z="1.847709"/>
+<phi Z="1.847708"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -3989,7 +3989,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-52.836" Y="-226.7502" Z="397.8184"/>
-<phi Z="-4.2932"/>
+<phi Z="-4.293199"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4007,7 +4007,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-133.8471" Y="-290.3673" Z="398.3097"/>
-<phi Z="-3.721479"/>
+<phi Z="-3.721478"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4025,13 +4025,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-188.9446" Y="-396.8269" Z="399.0939"/>
-<phi Z="3.08054"/>
+<phi Z="3.080539"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-140.5719" Y="-277.9217" Z="398.1079"/>
-<phi Z="2.847424"/>
+<phi Z="2.847425"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4073,13 +4073,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-155.2152" Y="-78.6202" Z="397.7748"/>
-<phi Z="-1.746292"/>
+<phi Z="-1.746293"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-164.402" Y="-131.2858" Z="397.792"/>
-<phi Z="-1.746288"/>
+<phi Z="-1.746287"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4109,19 +4109,19 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-205.1445" Y="-358.1914" Z="398.7784"/>
-<phi Z="-1.74629"/>
+<phi Z="-1.746289"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-212.8205" Y="-401.1436" Z="399.1505"/>
-<phi Z="-1.737658"/>
+<phi Z="-1.737659"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-206.6414" Y="-232.4449" Z="397.8525"/>
-<phi Z="-0.198757"/>
+<phi Z="-0.198756"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4163,13 +4163,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-200.8342" Y="-485.6496" Z="399.7075"/>
-<phi Z="1.39488"/>
+<phi Z="1.394879"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-196.459" Y="-461.0354" Z="399.5213"/>
-<phi Z="1.39488"/>
+<phi Z="1.394879"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4205,37 +4205,37 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-226.8985" Y="-455.0754" Z="399.5199"/>
-<phi Z="-1.636144"/>
+<phi Z="-1.636143"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-228.4019" Y="-482.6345" Z="399.7049"/>
-<phi Z="-1.636142"/>
+<phi Z="-1.636141"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-208.8277" Y="-471.2669" Z="399.6115"/>
-<phi Z="1.392669"/>
+<phi Z="1.39267"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-202.6261" Y="-436.8208" Z="399.3509"/>
-<phi Z="1.392669"/>
+<phi Z="1.39267"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-196.4249" Y="-402.3764" Z="399.0904"/>
-<phi Z="1.392667"/>
+<phi Z="1.392666"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-190.8795" Y="-371.0826" Z="398.8299"/>
-<phi Z="1.392667"/>
+<phi Z="1.392666"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4247,31 +4247,31 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-177.8203" Y="-299.0394" Z="398.3088"/>
-<phi Z="1.39266"/>
+<phi Z="1.392659"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-171.6435" Y="-264.5849" Z="398.0482"/>
-<phi Z="1.394535"/>
+<phi Z="1.394536"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-163.4552" Y="-215.5266" Z="397.8635"/>
-<phi Z="1.394524"/>
+<phi Z="1.394523"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-159.7434" Y="-195.6706" Z="397.8213"/>
-<phi Z="1.394524"/>
+<phi Z="1.394523"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2neon.lod.ls3"/>
 <p X="-153.6028" Y="-161.2157" Z="397.8015"/>
-<phi Z="1.393779"/>
+<phi Z="1.39378"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4283,13 +4283,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-130.4831" Y="-87.6221" Z="397.7755"/>
-<phi Z="-0.50164"/>
+<phi Z="-0.501641"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastlampe_11m_Zug.lod.ls3"/>
 <p X="-107.4026" Y="-60.4352" Z="397.7652"/>
-<phi Z="2.278485"/>
+<phi Z="2.278486"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4427,13 +4427,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
 <p X="-149.1431" Y="44.7477" Z="398.2352"/>
-<phi Z="-1.76419"/>
+<phi Z="-1.764189"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
 <p X="-152.2827" Y="30.0823" Z="398.2081"/>
-<phi Z="-1.795077"/>
+<phi Z="-1.795076"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4445,19 +4445,19 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
 <p X="-159.4294" Y="60.7532" Z="398.093"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
 <p X="-162.769" Y="46.1299" Z="398.2139"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bnstg_Leuchte_Leuchtstoff.lod.ls3"/>
 <p X="-166.1087" Y="31.5063" Z="398.1825"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4607,49 +4607,49 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
 <p X="-161.828" Y="50.2501" Z="398.2245"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
 <p X="-162.0507" Y="49.2752" Z="398.2216"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
 <p X="-162.2733" Y="48.3003" Z="398.2188"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
 <p X="-162.496" Y="47.3254" Z="398.2159"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
 <p X="-162.9413" Y="45.3756" Z="398.2101"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
 <p X="-163.1639" Y="44.4007" Z="398.2072"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
 <p X="-163.3866" Y="43.4258" Z="398.2044"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Blumenkuebel\blumenkuebel_beton01_1x1m.lod.ls3"/>
 <p X="-163.6092" Y="42.4509" Z="398.2015"/>
-<phi Z="-1.795325"/>
+<phi Z="-1.795324"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4703,7 +4703,7 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\schotter\schotterhuegel.lod.ls3"/>
 <p X="-143.9729" Y="159.8488" Z="397.9848"/>
-<phi Z="-0.037033"/>
+<phi Z="-0.037032"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4781,7 +4781,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\druckrolle_I_rechtskurve.lod.ls3"/>
 <p X="-166.9742" Y="477.9821" Z="400.2786"/>
-<phi Z="1.646009"/>
+<phi Z="1.64601"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4817,19 +4817,19 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-150.421" Y="318.818" Z="399.2278"/>
-<phi Z="1.660444"/>
+<phi Z="1.660443"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-151.3162" Y="328.7778" Z="399.2934"/>
-<phi Z="1.660444"/>
+<phi Z="1.660443"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-152.2673" Y="338.7178" Z="399.359"/>
-<phi Z="1.666764"/>
+<phi Z="1.666763"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4841,43 +4841,43 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-155.2728" Y="368.5372" Z="399.5556"/>
-<phi Z="1.679409"/>
+<phi Z="1.679408"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-156.3568" Y="378.4783" Z="399.6212"/>
-<phi Z="1.679409"/>
+<phi Z="1.679408"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-157.4473" Y="388.4109" Z="399.6868"/>
-<phi Z="1.682573"/>
+<phi Z="1.682572"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-158.5627" Y="398.3485" Z="399.7523"/>
-<phi Z="1.682573"/>
+<phi Z="1.682572"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-159.6782" Y="408.2861" Z="399.8179"/>
-<phi Z="1.682573"/>
+<phi Z="1.682572"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-160.7935" Y="418.2232" Z="399.8835"/>
-<phi Z="1.682573"/>
+<phi Z="1.682572"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-161.909" Y="428.1608" Z="399.9491"/>
-<phi Z="1.682573"/>
+<phi Z="1.682572"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4889,13 +4889,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-164.1266" Y="448.0439" Z="400.0807"/>
-<phi Z="1.679615"/>
+<phi Z="1.679616"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-165.1779" Y="458.007" Z="400.1464"/>
-<phi Z="1.671283"/>
+<phi Z="1.671284"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4907,7 +4907,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
 <p X="-166.9742" Y="477.9821" Z="400.2786"/>
-<phi Z="1.646009"/>
+<phi Z="1.64601"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4931,7 +4931,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\9-10_Doppeldraht\rollenhalter_86cm_5hauben.lod.ls3"/>
 <p X="-144.495" Y="148.2404" Z="398.0884"/>
-<phi Z="-1.598148"/>
+<phi Z="-1.598147"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4949,13 +4949,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\9-10_Doppeldraht\rollenhalter_86cm_5hauben.lod.ls3"/>
 <p X="-148.7407" Y="98.8302" Z="398.0963"/>
-<phi Z="-1.742281"/>
+<phi Z="-1.74228"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\9-10_Doppeldraht\druckrolle_V_rechtskurve.lod.ls3"/>
 <p X="-145.3062" Y="128.3419" Z="398.3121"/>
-<phi Z="-1.631425"/>
+<phi Z="-1.631426"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4979,7 +4979,7 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
 <p X="-144.4691" Y="-13.3548" Z="397.7502"/>
-<phi Z="1.401333"/>
+<phi Z="1.401334"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -4991,7 +4991,7 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-2m-anbau_I.lod.ls3"/>
 <p X="-135.0881" Y="46.8565" Z="397.7725"/>
-<phi X="0.000013" Y="-0.002496" Z="1.553707"/>
+<phi X="0.000012" Y="-0.002496" Z="1.553708"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
@@ -5021,13 +5021,13 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
 <p X="-147.7108" Y="55.4" Z="397.8845"/>
-<phi Z="1.332799"/>
+<phi Z="1.3328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_dummy_signalantrieb.lod.ls3"/>
 <p X="-147.4475" Y="56.751" Z="397.8845"/>
-<phi Z="1.332799"/>
+<phi Z="1.3328"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -5112,6 +5112,1242 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnmeisterei\Flachmast_oFuss.lod.ls3"/>
 <p X="-229.3195" Y="-252.7586" Z="397.8956"/>
 <phi Y="1.53589" Z="2.754911"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
+<p X="-191.3425" Y="-226.2028" Z="397.8525"/>
+<phi Z="-1.746778"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
+<p X="-153.4445" Y="-324.7914" Z="398.4659"/>
+<phi Z="1.05194"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
+<p X="-142.1219" Y="82.0772" Z="397.9554"/>
+<phi Z="-1.634058"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
+<p X="-138.9748" Y="182.5494" Z="398.0962"/>
+<phi Z="-1.592292"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000465_005296_Fuetzen\ObjekteFuetzen\BW-Fuetzen\Bockkran.lod.ls3"/>
+<p X="-281.1489" Y="-414.4648" Z="399.3291"/>
+<phi Z="1.705504"/>
+<sk X="1" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\BW\Dampf\Kohlenhunt_700mm\Kohlenhunt.lod.ls3"/>
+<p X="-274.6496" Y="-413.7219" Z="399.3127"/>
+<phi Z="1.7077"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\BW\Dampf\Kohlenhunt_700mm\Kohlenhunt.lod.ls3"/>
+<p X="-276.8375" Y="-408.0043" Z="399.3127"/>
+<phi Z="1.145158"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\BW\Diesel\Tankstelle\DB_Energie_Tank_A_140000m3.lod.ls3"/>
+<p X="-259.3692" Y="-349.9846" Z="399.172"/>
+<phi Z="-1.6418"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Fernsprecher\F_Wellblechbude.lod.ls3"/>
+<p X="-154.8346" Y="393.3532" Z="399.2229"/>
+<phi Z="1.67941"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Oelfass\oelfass_226_rt_ws.lod.ls3"/>
+<p X="-145.5555" Y="-149.0499" Z="398.989"/>
+<phi Z="4.488453"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Steine-Paletten\Pflasterstein-Palette01_grau.lod.ls3"/>
+<p X="-145.6106" Y="-152.7073" Z="398.9855"/>
+<phi Z="4.755733"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Roll-Container\RollcontainerA.lod.ls3"/>
+<p X="-146.4719" Y="-154.4335" Z="399.023"/>
+<phi Z="4.4536"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Ladegut\Kabeltrommel\Kabeltrommel_Holz_100cm_beladen.lod.ls3"/>
+<p X="-146.3332" Y="-157.4961" Z="398.9878"/>
+<phi Z="6.129815"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Laeutewerk\Spindellaeutewerk\Spindellaeutewerk.lod.ls3"/>
+<p X="-145.0164" Y="150.5892" Z="397.9275"/>
+<phi Z="3.104527"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\haengend_wand\Schild_zweiseitig_2m40.lod.ls3"/>
+<p X="-145.5735" Y="160.9817" Z="399.4919"/>
+<phi Z="-0.021571"/>
+<sk X="0.8" Y="1" Z="0.8"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\haengend\Schild_zweiseitig-haengend_2m40.lod.ls3"/>
+<p X="-159.1534" Y="-3.0852" Z="398.2602"/>
+<phi Z="-0.187792"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\haengend\Schild_zweiseitig-haengend_2m40.lod.ls3"/>
+<p X="-166.1339" Y="26.5078" Z="398.6464"/>
+<phi Z="2.854153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\haengend\Schild_zweiseitig-haengend_2m40.lod.ls3"/>
+<p X="-194.485" Y="-199.3347" Z="398.2982"/>
+<phi Z="2.965618"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\haengend\Schild_zweiseitig-haengend_2m40.lod.ls3"/>
+<p X="-209.1529" Y="-208.0023" Z="399.04"/>
+<phi Z="2.964916"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\hausanschluss_4.lod.ls3"/>
+<p X="-156.0528" Y="-240.8112" Z="406.739"/>
+<phi Z="4.538422"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-139.3117" Y="-206.6914" Z="397.4489"/>
+<phi Z="1.942222"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-141.5236" Y="-193.039" Z="397.4489"/>
+<phi Z="1.806602"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-135.5647" Y="-152.0556" Z="397.4489"/>
+<phi Z="1.421267"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-127.776" Y="-112.9178" Z="397.4489"/>
+<phi Z="1.27367"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-122.8272" Y="-73.3093" Z="397.6486"/>
+<phi Z="1.470688"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-118.7169" Y="-33.5257" Z="397.5552"/>
+<phi Z="1.391589"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-113.6534" Y="6.0739" Z="397.6589"/>
+<phi Z="1.518351"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-112.605" Y="26.0463" Z="399.1736"/>
+<phi Z="1.518351"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-107.7071" Y="45.9369" Z="401.5867"/>
+<phi Z="11.45806"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-103.8005" Y="125.3193" Z="397.7684"/>
+<phi Z="1.548653"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-107.7423" Y="45.9369" Z="397.2742"/>
+<phi Y="3.141593" Z="4.804572"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-128.1061" Y="91.5156" Z="397.3578"/>
+<phi Y="3.141593" Z="4.48548"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-143.9843" Y="-227.9258" Z="397.9528"/>
+<phi Z="0.874174"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\hausanschluss_4.lod.ls3"/>
+<p X="-145.788" Y="150.9178" Z="402.7903"/>
+<phi Z="1.550093"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-128.1413" Y="91.6914" Z="401.6117"/>
+<phi Z="5.275786"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-158.9658" Y="66.8507" Z="397.9312"/>
+<phi Z="1.267802"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\hausanschluss_4.lod.ls3"/>
+<p X="-169.7761" Y="37.8344" Z="402.04"/>
+<phi Z="7.656524"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-152.246" Y="96.1211" Z="397.9312"/>
+<phi Z="7.747625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-146.0898" Y="142.0898" Z="397.2686"/>
+<phi Z="1.56549"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-147.4531" Y="120.9531" Z="397.9313"/>
+<phi Z="7.729627"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-152.2297" Y="96.2449" Z="404.596"/>
+<phi Z="4.606032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-128.0944" Y="91.5859" Z="405.1117"/>
+<phi Z="1.599141"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-145.3791" Y="132.2991" Z="401.6117"/>
+<phi Z="7.793353"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-145.4143" Y="132.2991" Z="397.7445"/>
+<phi Y="3.141593" Z="-1.631426"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-147.7147" Y="153.6564" Z="400.0298"/>
+<phi Z="1.543444"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-146.8202" Y="187.1054" Z="398.1269"/>
+<phi Z="8.327303"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-159.0312" Y="206.1015" Z="398.2412"/>
+<phi Z="8.485554"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_4.lod.ls3"/>
+<p X="-161.707" Y="226.9258" Z="397.5519"/>
+<phi Z="11.08283"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\hausanschluss_2-2.lod.ls3"/>
+<p X="-158.6601" Y="245.4297" Z="402.3162"/>
+<phi Z="-1.570796"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-146.8554" Y="187.1874" Z="404.4863"/>
+<phi Z="1.555697"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-131.0179" Y="177.3557" Z="401.3664"/>
+<phi Y="3.141593" Z="-1.5867"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-131.0179" Y="177.4494" Z="404.7569"/>
+<phi Z="1.533752"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-212.1895" Y="-228.2871" Z="400.5699"/>
+<phi X="3.141593" Z="1.394085"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-212.1737" Y="-228.1938" Z="404.3831"/>
+<phi Z="2.964882"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-162.0336" Y="-236.0019" Z="400.5699"/>
+<phi X="3.141593" Z="4.536641"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau02.lod.ls3"/>
+<p X="-162.0524" Y="-236.1062" Z="404.3831"/>
+<phi Z="-3.335412"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Personen\1950\Bahnpersonal\Fahrdienstleiter_Uniform_Muetze_1.lod.ls3"/>
+<p X="-197.0136" Y="-130.1707" Z="398.1699"/>
+<phi Z="-0.186916"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\People\2000\Photographers\Photographer_female_1.lod.ls3"/>
+<p X="-197.2709" Y="-219.6866" Z="404.4784"/>
+<phi Z="-1.531903"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_bus_polizei.lod.ls3"/>
+<p X="-220.3174" Y="-235.3512" Z="397.9228"/>
+<phi Y="-0.007364" Z="-1.752387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_T3\VW_T3_Polizei.lod.ls3"/>
+<p X="-224.9327" Y="-234.7229" Z="397.9268"/>
+<phi Y="-0.009817" Z="-1.747507"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T2\vw_t2_pritsche_kommunal.lod.ls3"/>
+<p X="-227.3721" Y="-234.4137" Z="397.9111"/>
+<phi Z="-1.747479"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_doka_db_plane.lod.ls3"/>
+<p X="-214.9737" Y="-223.9957" Z="397.7822"/>
+<phi Z="-0.176683"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\vw_kaefer\vw_1300_post.lod.ls3"/>
+<p X="-222.5586" Y="-234.109" Z="397.9258"/>
+<phi Y="-0.007364" Z="-1.747465"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_T3\Anbauteile\Blaulicht_Polizei_2fach.lod.ls3"/>
+<p X="-224.6658" Y="-233.2279" Z="399.8119"/>
+<phi Y="-0.009817" Z="-1.747507"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_schwarz.lod.ls3"/>
+<p X="-240.2072" Y="-216.0456" Z="397.8965"/>
+<phi Z="0.608722"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\DKW\F93\DKW_F93_bg.lod.ls3"/>
+<p X="-235.8124" Y="-202.1211" Z="397.91"/>
+<phi Z="1.41483"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\Hanomag\Kurier\hanomag-kurier_schultheiss.lod.ls3"/>
+<p X="-222.3281" Y="-222.5039" Z="397.8097"/>
+<phi Y="0.007364" Z="6.108576"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Ford_Taunus76\CH_Taunus76_rot.lod.ls3"/>
+<p X="-231.6562" Z="397.88"/>
+<phi Z="4.537779"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Ford_Taunus76\CH_Taunus76_rot.lod.ls3"/>
+<p X="-209.1484" Y="-51.5313" Z="397.7461"/>
+<phi Z="7.679014"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_W123\D_W123_creme.lod.ls3"/>
+<p X="-229.9687" Y="-167.8398" Z="397.8849"/>
+<phi Z="7.677993"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Opel_KadettD\D_KadettD_Caravan_gruen.lod.ls3"/>
+<p X="-226.4179" Y="-148.6914" Z="397.8849"/>
+<phi Z="7.677993"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\vw_kaefer\vw_1300_hb.lod.ls3"/>
+<p X="-222.082" Y="-122.9922" Z="397.8849"/>
+<phi Z="7.677993"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\vw_kaefer\vw_1300_bl.lod.ls3"/>
+<p X="-218.6953" Y="-105.4727" Z="397.8263"/>
+<phi Z="7.677993"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_kst_miele.lod.ls3"/>
+<p X="-204.3867" Y="-24.168" Z="397.7091"/>
+<phi Z="7.677993"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T2\vw_t2_kst_jacobs.lod.ls3"/>
+<p X="-201.7304" Y="-9.8008" Z="397.7091"/>
+<phi Z="7.679014"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1980-89\Mercedes_814_LN2\LN2_Tarpaulin_blue.lod.ls3"/>
+<p X="-193.5273" Y="36.6406" Z="397.5352"/>
+<phi Z="4.537422"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1980-89\Volvo_740\Volvo745_940.lod.ls3"/>
+<p X="-188.6563" Y="57.1172" Z="397.49"/>
+<phi Z="7.518884"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\vw_kaefer\vw_1300_ws.lod.ls3"/>
+<p X="-170.2616" Y="80.0859" Z="397.7193"/>
+<phi Y="-0.00491" Z="7.13905"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Citroen_2CV\Citroen_2CV_1956_blau.lod.ls3"/>
+<p X="-152.2616" Y="105.832" Z="397.9185"/>
+<phi Z="1.30992"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_blauweiss.lod.ls3"/>
+<p X="-154.0313" Y="99.3477" Z="397.8803"/>
+<phi Z="7.294612"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_Golf1\vw_golf1_4t_gn.lod.ls3"/>
+<p X="-151.4335" Y="120.4336" Z="397.96"/>
+<phi Z="1.56549"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_T3\VW_T3_Krankenwagen_DRK.lod.ls3"/>
+<p X="-152.4648" Y="172.9531" Z="398.1833"/>
+<phi Y="-0.007364" Z="1.857561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_T3\Anbauteile\Blaulichtbalken_cremeweiss.lod.ls3"/>
+<p X="-152.0365" Y="171.501" Z="400.0722"/>
+<phi Y="-0.007364" Z="1.857561"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1980-89\Volvo_740\Volvo745_940.lod.ls3"/>
+<p X="-151.2226" Y="136.125" Z="398.0303"/>
+<phi Y="-0.00491" Z="1.56549"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_kst_bl.lod.ls3"/>
+<p X="-160.8598" Y="90.4689" Z="397.8248"/>
+<phi Y="-0.007364" Z="0.82641"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\MAN_200\SG240.lod.ls3"/>
+<p X="-165.8633" Y="200.5429" Z="398.269"/>
+<phi Z="2.173101"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Renault_16\D_Renault_16_TS_1971_gruen.lod.ls3"/>
+<p X="-177.8163" Y="206.457" Z="398.2266"/>
+<phi Y="-0.007364" Z="5.276376"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_gruen.lod.ls3"/>
+<p X="-169.0613" Y="195.5273" Z="398.2374"/>
+<phi Z="5.39786"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\vw_kaefer\vw_1300_br.lod.ls3"/>
+<p X="-157.45" Y="172.2519" Z="398.155"/>
+<phi Z="4.917785"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T2\vw_t2_hochdach_post.lod.ls3"/>
+<p X="-156.7714" Y="114.3035" Z="397.9553"/>
+<phi Z="-1.576102"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot_Sparkasse.lod.ls3"/>
+<p X="-156.6132" Y="135.014" Z="398.042"/>
+<phi Y="0.001717" Z="-1.576102"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Ford_Taunus76\D_Taunus76_rot.lod.ls3"/>
+<p X="-163.6023" Y="94.5875" Z="397.8618"/>
+<phi Y="0.0054" Z="4.04275"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Opel_KadettD\D_KadettD_beige.lod.ls3"/>
+<p X="-184.003" Y="71.5172" Z="397.6313"/>
+<phi Y="0.006381" Z="3.991231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_W123\D_W123_Taxi.lod.ls3"/>
+<p X="-198.9241" Y="36.6203" Z="397.5388"/>
+<phi Y="-0.001963" Z="4.556512"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Renault_16\D_Renault_16_TS_1971_gelb.lod.ls3"/>
+<p X="-206.2304" Y="-2.9817" Z="397.6547"/>
+<phi Y="-0.00319" Z="4.553376"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_blauweiss.lod.ls3"/>
+<p X="-212.1917" Y="-37.4735" Z="397.7461"/>
+<phi Y="-0.00049" Z="4.537422"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Citroen_2CV\Citroen_2CV_1981_charleston.lod.ls3"/>
+<p X="-214.7347" Y="-52.7289" Z="397.7602"/>
+<phi Y="-0.003927" Z="4.537422"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\DKW\F93\DKW_F93_bg.lod.ls3"/>
+<p X="-220.3534" Y="-82.5942" Z="397.804"/>
+<phi Z="4.5364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot.lod.ls3"/>
+<p X="-203.1559" Y="-55.0453" Z="398.0712"/>
+<phi Y="0.000246" Z="7.677993"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot.lod.ls3"/>
+<p X="-199.8793" Y="-36.7922" Z="397.9364"/>
+<phi Y="0.001227" Z="7.679014"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot.lod.ls3"/>
+<p X="-197.5415" Y="-23.5781" Z="397.9329"/>
+<phi Z="7.679014"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Wartehaus01.lod.ls3"/>
+<p X="-197.3089" Y="-54.8196" Z="398.1422"/>
+<phi Z="4.537422"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Wartehaus01.lod.ls3"/>
+<p X="-196.1523" Y="-48.2172" Z="398.1422"/>
+<phi Z="-1.745764"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Bushaltestelle_Schild_NfR.lod.ls3"/>
+<p X="-196.8636" Y="-51.2571" Z="398.1305"/>
+<phi Z="-1.745764"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Bushaltestelle_Fahrplan.lod.ls3"/>
+<p X="-196.8636" Y="-51.257" Z="399.1305"/>
+<phi Z="1.395829"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Bushaltestelle_Fahrplan.lod.ls3"/>
+<p X="-196.8636" Y="-51.257" Z="399.1305"/>
+<phi Z="-1.745764"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Bushaltestelle_Schild_NfR.lod.ls3"/>
+<p X="-198.012" Y="-58.7102" Z="398.1305"/>
+<phi Z="-1.745764"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Bushaltestelle_Fahrplan.lod.ls3"/>
+<p X="-198.012" Y="-58.7102" Z="399.1305"/>
+<phi Z="1.395829"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bushaltestelle\Bushaltestelle_Fahrplan.lod.ls3"/>
+<p X="-198.012" Y="-58.7102" Z="399.1305"/>
+<phi Z="-1.745764"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_kst_knorr.lod.ls3"/>
+<p X="-225.9374" Y="-116.0078" Z="397.8615"/>
+<phi Z="4.5364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_Golf1\vw_golf1_4t_rt.lod.ls3"/>
+<p X="-229.5585" Y="-135.7774" Z="397.8849"/>
+<phi Z="4.5364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_gruen.lod.ls3"/>
+<p X="-234.246" Y="-163.4453" Z="397.8732"/>
+<phi Z="4.5364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_pritsche_gn.lod.ls3"/>
+<p X="-238.2422" Y="-184.5821" Z="397.8683"/>
+<phi Z="4.537779"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_kst_doornkaat.lod.ls3"/>
+<p X="-241.1718" Y="-202.0899" Z="397.8683"/>
+<phi Z="4.537779"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1980-89\Volvo_740\Volvo745_940.lod.ls3"/>
+<p X="-245.4688" Y="-213.7773" Z="397.8737"/>
+<phi Z="3.935848"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1980-89\Mercedes_814_LN2\LN2_Flatbed_orange.lod.ls3"/>
+<p X="-263.3672" Y="-211.9375" Z="397.9021"/>
+<phi Z="6.113834"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\vw_kaefer\vw_1300_ws.lod.ls3"/>
+<p X="-254.2265" Y="-218.6289" Z="397.8904"/>
+<phi Z="6.143287"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Opel_KadettD\D_KadettD_beige.lod.ls3"/>
+<p X="-177.7423" Y="239.1692" Z="397.7675"/>
+<phi Z="1.290496"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_bus_tk_ws.lod.ls3"/>
+<p X="-168.0598" Y="272.8032" Z="397.5637"/>
+<phi Z="1.290496"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\DKW\F93\DKW_F93_bg.lod.ls3"/>
+<p X="-159.3146" Y="307.0167" Z="397.4201"/>
+<phi Z="1.401964"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot_Koenigsbacher.lod.ls3"/>
+<p X="-159.5165" Y="377.5321" Z="397.8324"/>
+<phi Z="1.687821"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Opel_KadettD\D_KadettD_beige.lod.ls3"/>
+<p X="-167.7097" Y="447.0443" Z="398.7554"/>
+<phi Z="1.688746"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_bus_tk_ws.lod.ls3"/>
+<p X="-171.1013" Y="426.8025" Z="398.7087"/>
+<phi Z="-1.452847"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\DKW\F93\DKW_F93_bg.lod.ls3"/>
+<p X="-169.2471" Y="408.914" Z="398.1939"/>
+<phi Z="-1.453774"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_Golf1\vw_golf1_2t_or.lod.ls3"/>
+<p X="-162.3508" Y="339.6114" Z="397.5337"/>
+<phi Z="-1.559433"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot_Koenigsbacher.lod.ls3"/>
+<p X="-165.7023" Y="305.4669" Z="397.4205"/>
+<phi Z="-1.77256"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Citroen_2CV\Citroen_2CV_1970_blau.lod.ls3"/>
+<p X="-174.5724" Y="271.8688" Z="397.5794"/>
+<phi Z="-1.851096"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\ConstructionTrailer\ConstructionTrailer.lod.ls3"/>
+<p X="-151.2031" Y="-229.513" Z="397.5043"/>
+<phi Z="7.678014"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Bauzaun\Bauzaun-Euro2_350cm.lod.ls3"/>
+<p X="-153.9488" Y="-227.2489" Z="397.5992"/>
+<phi Z="7.678014"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="TERRAIN\DEUTSCHLAND\BAUSTELLE\BAUZAUN\Bauzaun-Euro2_350cm.lod.ls3"/>
+<p X="-154.5703" Y="-230.7441" Z="397.5992"/>
+<phi Z="2.936909"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="TERRAIN\DEUTSCHLAND\BAUSTELLE\BAUZAUN\Bauzaun-Euro2_350cm.lod.ls3"/>
+<p X="-151.0944" Y="-231.4656" Z="397.5124"/>
+<phi Z="2.952617"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="TERRAIN\DEUTSCHLAND\BAUSTELLE\BAUZAUN\Bauzaun-Euro2_350cm.lod.ls3"/>
+<p X="-153.9401" Y="-227.1996" Z="397.5992"/>
+<phi Z="-2.58444"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Bauzaun\Standfuss_Beton.lod.ls3"/>
+<p X="-150.943" Y="-225.3913" Z="397.5992"/>
+<phi Z="-2.58444"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Bauzaun\Standfuss_Beton.lod.ls3"/>
+<p X="-153.8996" Y="-227.2576" Z="397.5992"/>
+<phi Z="-1.746764"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Bauzaun\Standfuss_Beton.lod.ls3"/>
+<p X="-154.6107" Y="-230.6861" Z="397.5992"/>
+<phi Z="-0.963329"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Bauzaun\Standfuss_Beton.lod.ls3"/>
+<p X="-151.1535" Y="-231.5044" Z="397.5992"/>
+<phi Z="6.078502"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Bauzaun\Standfuss_Beton.lod.ls3"/>
+<p X="-147.6661" Y="-232.1722" Z="397.5124"/>
+<phi Z="6.09421"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Warnleuchten\Warnleuchte_gelb.lod.ls3"/>
+<p X="-154.6049" Y="-230.6949" Z="399.2504"/>
+<phi Z="2.965625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Warnleuchten\Warnleuchte_gelb.lod.ls3"/>
+<p X="-153.9945" Y="-227.2489" Z="399.2281"/>
+<phi Z="2.965625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Warnleuchten\Warnleuchte_gelb.lod.ls3"/>
+<p X="-147.6567" Y="-232.1231" Z="399.1635"/>
+<phi Z="5.710838"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1992\Zeichen101_Gefahrenstelle\Zeichen101_1992_mittel.lod.ls3"/>
+<p X="-154.3412" Y="-229.3625" Z="399.0558"/>
+<phi Z="2.965625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-182.7603" Y="-95.6789" Z="397.7808"/>
+<phi Z="1.395598"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-185.0969" Y="-95.2535" Z="397.7808"/>
+<phi Z="1.395598"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-187.4606" Y="-94.8316" Z="397.7808"/>
+<phi Z="1.395598"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-189.7891" Y="-94.4167" Z="397.7808"/>
+<phi Z="1.395598"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-164.6561" Y="2.6112" Z="397.7495"/>
+<phi Z="1.338961"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-166.8944" Y="3.1385" Z="397.7495"/>
+<phi Z="1.338961"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-169.2266" Y="3.6954" Z="397.7495"/>
+<phi Z="1.337835"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-171.5479" Y="4.2657" Z="397.7506"/>
+<phi Z="1.333971"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-190.7425" Y="-140.7597" Z="397.7961"/>
+<phi Z="1.394111"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-193.0276" Y="-140.3495" Z="397.7961"/>
+<phi Z="1.394111"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-195.3854" Y="-139.9218" Z="397.7961"/>
+<phi Z="1.394111"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-197.7386" Y="-139.4976" Z="397.7961"/>
+<phi Z="1.394111"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-194.2724" Y="-160.9198" Z="397.8046"/>
+<phi Z="1.394104"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-196.6255" Y="-160.4921" Z="397.8046"/>
+<phi Z="1.394104"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-198.9834" Y="-160.0714" Z="397.8046"/>
+<phi Z="1.394104"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-201.3342" Y="-159.6495" Z="397.8046"/>
+<phi Z="1.394104"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-208.5446" Y="-209.9336" Z="397.8213"/>
+<phi Z="1.39412"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-206.229" Y="-210.3461" Z="397.8213"/>
+<phi Z="1.39412"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-203.8747" Y="-210.7586" Z="397.8213"/>
+<phi Z="1.39412"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-201.5227" Y="-211.1781" Z="397.8213"/>
+<phi Z="1.39412"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-199.1673" Y="-211.5965" Z="397.8213"/>
+<phi Z="1.39412"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-158.8279" Y="52.1597" Z="397.8789"/>
+<phi Z="1.343886"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-156.4912" Y="51.6218" Z="397.8789"/>
+<phi Z="1.343886"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-154.1533" Y="51.0863" Z="397.8789"/>
+<phi Z="1.343886"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisabstand4m.ls3"/>
+<p X="-151.8201" Y="50.5484" Z="397.8789"/>
+<phi Z="1.343886"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Baustelle\Schubkarre\schubkarre.lod.ls3"/>
+<p X="-155.4931" Y="-226.3344" Z="397.5162"/>
+<phi Y="0.130081" Z="1.82189"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Industrie\Absetzcontainer_mitDeckel\Absetzcontainer_mitDeckel_blau.lod.ls3"/>
+<p X="-142.5555" Y="-222.4438" Z="397.4576"/>
+<phi Z="2.965625"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\Zu23\Schild_zweiseitig-haengend_2m40.lod.ls3"/>
+<p X="-185.498" Y="-66.4985" Z="398.2279"/>
+<phi Z="2.966377"/>
+<sk X="1.2" Y="1" Z="1.2"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Post\Postbriefkasten_EB7K.lod.ls3"/>
+<p X="-192.5155" Y="-69.1016" Z="398.1247"/>
+<phi Z="4.548611"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Reklame\Plakatwand_doppelseitig_Format_18-1.lod.ls3"/>
+<p X="-150.4073" Y="39.4101" Z="398.5123"/>
+<phi Z="-1.808781"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Reklame\Plakat_Zusi_ETCS.lod.ls3"/>
+<p X="-150.4073" Y="39.4101" Z="398.5123"/>
+<phi Z="1.332812"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Reklame\Plakat_Zusi_Hohenzollernbruecke.lod.ls3"/>
+<p X="-150.4073" Y="39.4101" Z="398.5123"/>
+<phi Z="1.332812"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Litfassaeule\Litfasssaeule_1.lod.ls3"/>
+<p X="-197.8616" Y="-64.9657" Z="398.1485"/>
+<phi Z="-1.747481"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schachtdeckel\runddeckel01_mit-schacht.lod.ls3"/>
+<p X="-170.3358" Y="500.0027" Z="399.515"/>
+<phi Z="1.62009"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schachtdeckel\runddeckel01_mit-schacht.lod.ls3"/>
+<p X="-131.6295" Y="176.6236" Z="397.9087"/>
+<phi Z="1.549135"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Schaltschrank\MFG18V.lod.ls3"/>
+<p X="-127.4669" Y="50.476" Z="398.0184"/>
+<phi Z="4.678543"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Telefone\1978_Bundespost\TelH78.lod.ls3"/>
+<p X="-188.7921" Y="-69.3203" Z="398.1623"/>
+<phi Z="-0.175215"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Telefone\1978_Bundespost\TelH78.lod.ls3"/>
+<p X="-219.5605" Y="-237.0879" Z="397.9472"/>
+<phi Z="-1.747464"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zivilschutz\Einheitssirene_E57\Einheitssirene_E57.lod.ls3"/>
+<p X="-123.1232" Y="4.6133" Z="406.7859"/>
+<phi Z="1.409161"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-130.3122" Y="39.7376" Z="397.8611"/>
+<phi Z="4.682004"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-129.4352" Y="40.6114" Z="399.0611"/>
+<phi Z="-1.601181"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-118.5303" Y="-22.5817" Z="397.7481"/>
+<phi Z="4.534118"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-117.5342" Y="-21.8467" Z="398.9481"/>
+<phi Z="-1.749068"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-60.4564" Y="-37.2228" Z="397.7538"/>
+<phi Z="3.438663"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-59.347" Y="-37.7721" Z="398.9538"/>
+<phi Z="-2.844522"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-144.7879" Y="-133.7528" Z="397.7926"/>
+<phi Z="4.446206"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-143.7311" Y="-133.1081" Z="398.9926"/>
+<phi Z="-1.836979"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-106.8056" Y="-115.2426" Z="397.7831"/>
+<phi Z="4.53827"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-105.8125" Y="-114.5035" Z="398.9831"/>
+<phi Z="-1.744916"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-28.2714" Y="-214.9444" Z="397.8108"/>
+<phi Z="3.486779"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-27.1368" Y="-215.4397" Z="399.0108"/>
+<phi Z="-2.796407"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-4.0829" Y="-213.2819" Z="397.8085"/>
+<phi Z="3.449032"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-2.9679" Y="-213.8196" Z="399.0085"/>
+<phi Z="-2.834153"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-25.9439" Y="-229.5876" Z="397.8153"/>
+<phi Z="3.449505"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-24.8286" Y="-230.1248" Z="399.0153"/>
+<phi Z="-2.83368"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-136.3152" Y="-312.5538" Z="398.3335"/>
+<phi Z="3.8782"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-135.0775" Y="-312.5788" Z="399.5335"/>
+<phi Z="-2.404985"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-162.9298" Y="-367.7253" Z="398.7929"/>
+<phi Z="4.467313"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-161.8868" Y="-367.0584" Z="399.9929"/>
+<phi Z="-1.815872"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-167.6497" Y="-368.7129" Z="398.789"/>
+<phi Z="4.424347"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-166.5791" Y="-368.0914" Z="399.989"/>
+<phi Z="-1.858839"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-175.8994" Y="-387.3587" Z="398.9781"/>
+<phi Z="4.508744"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-174.885" Y="-386.6492" Z="400.1781"/>
+<phi Z="-1.774442"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-185.1895" Y="-414.3755" Z="399.1866"/>
+<phi Z="4.499682"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="967" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-184.1687" Y="-413.6752" Z="400.3866"/>
+<phi Z="-1.783503"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
@@ -6021,7 +7257,7 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Bruchstein-bewachsen.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="1.3" MeterProTex2="10" MeshV="50" MeshI="126">
+<SubSet Cd="00FFFFFF" TypLs3="10" TypGF="1" MeterProTex="1.3" MeterProTex2="10" MeshV="51" MeshI="132">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Asphalt\Industrie-Asphalt.dds"/>
@@ -6796,6 +8032,210 @@
 <RenderFlags TexVoreinstellung="8"/>
 <Textur>
 <Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="144" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="144" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="120" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="120" MeshI="120">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="72" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="72" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="72" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="72" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

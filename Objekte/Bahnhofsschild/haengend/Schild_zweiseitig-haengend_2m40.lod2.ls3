@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1">
+<AutorEintrag AutorID="3" AutorName="Klaus Zimmermann" AutorEmail="klaus@ahrenszimmermann.de"/>
+</Info>
+<Landschaft>
+<lsb Dateiname="Schild_zweiseitig-haengend_2m40.lod2.lsb"/>
+<SubSet Cd="00FFFFFF" MeshV="24" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\schild_1Zeile_2m40.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

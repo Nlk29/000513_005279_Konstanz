@@ -242,12 +242,6 @@
 <phi Z="-1.594051"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\Lampenaufsatz_Flachmast.lod.ls3"/>
-<p X="-168.9949" Y="-483.959" Z="407.8219"/>
-<phi Z="1.547542"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="10" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0056\000359_005645_Koeln-Deutz\Objekte\Bruecken\Bogenbruecke_1gl.lod.ls3"/>
 <p X="-151.5" Y="-488.5392" Z="399.7"/>
@@ -1532,24 +1526,6 @@
 <phi Z="4.728858"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Cherry\Cherry01-05m.lod.ls3"/>
-<p X="-500" Y="-500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Cherry\Cherry01-05m.lod.ls3"/>
-<p X="-500" Y="-500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Ash\Ash01-08m.lod.ls3"/>
-<p X="-500" Y="-500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\blechkanal-1m_I.lod.ls3"/>
 <p X="-168.3329" Y="-491.9227" Z="399.7258"/>
@@ -1674,6 +1650,210 @@
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Hemmschuh\Doppelhemmschuh-S49-S54.lod.ls3"/>
 <p X="-500" Y="-500"/>
 <phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
+<p X="-166.0721" Y="-488.0276" Z="400.0186"/>
+<phi Z="1.568264"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\Lampenaufsatz_Flachmast.lod.ls3"/>
+<p X="-168.9949" Y="-483.959" Z="407.8219"/>
+<phi Z="1.547542"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-167.7137" Y="-491.4958" Z="402.6337"/>
+<phi X="3.141593" Z="2.606475"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau04.lod.ls3"/>
+<p X="-167.9011" Y="-491.4372" Z="407.4775"/>
+<phi Z="7.83919"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-162.8885" Y="-482.884" Z="402.6337"/>
+<phi X="3.141593" Z="1.587265"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Lampenaufsaetze\LampeAnbau04.lod.ls3"/>
+<p X="-162.8885" Y="-482.8957" Z="407.4775"/>
+<phi Z="3.131063"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Personen\1950\Bahnpersonal\Zugschaffner_DB_1960_vorne_1.lod.ls3"/>
+<p X="-168.8153" Y="-499.8139" Z="399.7177"/>
+<phi Z="1.604553"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\1992_LSA_Peitschenmast_3Str_2Spur_r.lod.ls3"/>
+<p X="-150.0195" Y="-385.1055" Z="400.0106"/>
+<phi Z="7.455968"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_gelb.lod.ls3"/>
+<p X="-152.7176" Y="-384.2986" Z="405.5356"/>
+<phi Z="1.172783"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_gelb.lod.ls3"/>
+<p X="-150.1522" Y="-385.3755" Z="402.8356"/>
+<phi Z="0.99825"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\1992_LSA_Peitschenmast_3Str_2Spur_r.lod.ls3"/>
+<p X="-133.0352" Y="-328.5977" Z="401.5297"/>
+<phi Z="4.158364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_gruen.lod.ls3"/>
+<p X="-132.862" Y="-328.3514" Z="404.0047"/>
+<phi Z="-2.299355"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_gruen.lod.ls3"/>
+<p X="-130.4951" Y="-329.8139" Z="406.7047"/>
+<phi Z="-2.124822"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_rot.lod.ls3"/>
+<p X="-127.9438" Y="-331.3923" Z="407.4047"/>
+<phi Z="-2.124822"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\1992_LSA_Peitschenmast_3Str_2Spur_r.lod.ls3"/>
+<p X="-171.7148" Y="-348.5352" Z="401.0737"/>
+<phi Z="5.547271"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_rot.lod.ls3"/>
+<p X="-168.0453" Y="-344.0333" Z="406.9487"/>
+<phi Z="-0.735915"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_gruen.lod.ls3"/>
+<p X="-170.0591" Y="-346.257" Z="406.2487"/>
+<phi Z="-0.735915"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_gruen.lod.ls3"/>
+<p X="-171.9256" Y="-348.3203" Z="403.5487"/>
+<phi Z="-0.910447"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_schwarz.lod.ls3"/>
+<p X="-160.6405" Y="-356.1484" Z="401.0057"/>
+<phi Z="-0.910447"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_schwarz.lod.ls3"/>
+<p X="-136.0508" Y="-353.2578" Z="400.9784"/>
+<phi Z="1.016362"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Opel_KadettD\D_KadettD_beige.lod.ls3"/>
+<p X="-175.2965" Y="-483.6033" Z="400.0608"/>
+<phi Z="1.617647"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\DKW\F93\DKW_F93_bg.lod.ls3"/>
+<p X="-166.7451" Y="-415.4897" Z="399.747"/>
+<phi Z="1.273096"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\Opel_Rekord-P1\Opel_Rekord-P1_blauweiss.lod.ls3"/>
+<p X="-160.7365" Y="-383.2706" Z="400.205"/>
+<phi Y="0.014726" Z="-1.992696"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1950-59\DKW\F93\DKW_F93_bg.lod.ls3"/>
+<p X="-173.2733" Y="-414.5416" Z="399.7162"/>
+<phi Y="0.017181" Z="-1.868497"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Opel_KadettD\D_KadettD_beige.lod.ls3"/>
+<p X="-180.1086" Y="-451.1412" Z="399.8424"/>
+<phi Z="-1.69003"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Lichtsignalanlage\Bauteile\Optiken\Blende_rot.lod.ls3"/>
+<p X="-155.4831" Y="-383.1358" Z="405.8856"/>
+<phi Z="1.172783"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\VW_T1\vw_t1_kst_post.lod.ls3"/>
+<p X="-124.9492" Y="-325.4102" Z="400.999"/>
+<phi Z="4.158364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1960-69\vw_kaefer\vw_1300_bl.lod.ls3"/>
+<p X="-121.1605" Y="-319.4019" Z="400.99"/>
+<phi Z="4.158364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\VW_Golf1\vw_golf1_4t_bl.lod.ls3"/>
+<p X="-117.264" Y="-313.1641" Z="400.99"/>
+<phi Z="4.158364"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot_Koenigsbacher.lod.ls3"/>
+<p X="-145.9141" Y="-344.9063" Z="401.23"/>
+<phi Z="3.592017"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\General\Vehicles\1970-79\Renault_16\D_Renault_16_TS_1971_weiss.lod.ls3"/>
+<p X="-164.4687" Y="-339.9102" Z="401.0783"/>
+<phi Z="8.688862"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\Schotterweg_2m\bue_holzbohlen2m_gleisrand.ls3"/>
+<p X="-500" Y="-500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Mobilfunk\Mobilfunkantenne_dreifach.lod.ls3"/>
+<p X="-115.6908" Y="-433.0515" Z="408.5621"/>
+<phi Z="1.289612"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zivilschutz\Einheitssirene_E57\Einheitssirene_E57.lod.ls3"/>
+<p X="-88.1356" Y="-405.2629" Z="404.6037"/>
+<phi Z="-2.13519"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -1981,6 +2161,18 @@
 <RenderFlags TexVoreinstellung="8"/>
 <Textur>
 <Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

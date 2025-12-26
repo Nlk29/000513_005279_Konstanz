@@ -3626,6 +3626,246 @@
 <phi Z="1.819705"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="70" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Sounds\BUe_Glocke.lod.ls3"/>
+<p X="-221.5907" Y="401.2129" Z="400.5955"/>
+<phi Z="-1.351545"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\haengend_wand\Schild_zweiseitig_2m40.lod.ls3"/>
+<p X="-217.9989" Y="409.5941" Z="402.2913"/>
+<phi Z="-2.986845"/>
+<sk X="0.6" Y="1" Z="0.6"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Objekte\Bahnhofsschild\stehend\Schild_einseitig-stehend_2m40.lod.ls3"/>
+<p X="-229.5303" Y="340.9766" Z="401.0999"/>
+<phi Z="2.337678"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_links.lod.ls3"/>
+<p X="-234.6701" Y="386.6637" Z="400.6108"/>
+<phi Z="2.155915"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Lautsprecher\Lautsprecher_rund_doppelt_Mastmontage.lod.ls3"/>
+<p X="-234.6909" Y="386.6499" Z="403.4108"/>
+<phi Z="-1.586016"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Bahnuebergangslaterne\Bahnuebergangslaterne_6m_links.lod.ls3"/>
+<p X="-198.8971" Y="422.8037" Z="400.3492"/>
+<phi Z="-1.560291"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_gelb.lod.ls3"/>
+<p X="-289.6159" Y="460.8042" Z="400.1616"/>
+<phi Z="9.569033"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_gruen.lod.ls3"/>
+<p X="-289.5063" Y="460.0739" Z="400.1774"/>
+<phi Z="9.569033"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonne_240l_schwarz.lod.ls3"/>
+<p X="-289.3932" Y="459.3276" Z="400.1733"/>
+<phi Z="9.569033"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Muelltonnen\Muelltonnenbox_Waschbeton_doppelt.lod.ls3"/>
+<p X="-290.7995" Y="466.7339" Z="400.1616"/>
+<phi Z="9.569033"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-366.9764" Y="150.8729" Z="402.5018"/>
+<phi Z="0.372469"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-368.124" Y="151.3372" Z="403.7018"/>
+<phi Z="0.372469"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-250.1565" Y="175.3048" Z="402.3198"/>
+<phi Z="7.687203"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-251.1441" Y="174.5583" Z="403.5198"/>
+<phi Z="1.404018"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-245.2969" Y="172.4211" Z="402.3316"/>
+<phi Z="1.404538"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-246.2841" Y="171.6742" Z="403.5316"/>
+<phi Z="1.404538"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-240.273" Y="171.6334" Z="402.3298"/>
+<phi Z="7.684847"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-241.2623" Y="170.8894" Z="403.5298"/>
+<phi Z="1.401662"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-236.0684" Y="171.1767" Z="402.3285"/>
+<phi Z="1.402302"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-237.0573" Y="170.4319" Z="403.5285"/>
+<phi Z="1.402302"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-193.8846" Y="179.7747" Z="402.2058"/>
+<phi Z="1.819705"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-194.4867" Y="178.693" Z="403.4058"/>
+<phi Z="1.819705"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-187.3193" Y="177.0193" Z="402.2132"/>
+<phi Z="1.820132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-187.921" Y="175.9374" Z="403.4132"/>
+<phi Z="1.820133"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-182.1283" Y="176.8703" Z="402.2095"/>
+<phi Z="1.818427"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-182.7317" Y="175.7893" Z="403.4095"/>
+<phi Z="1.818427"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-151.1443" Y="155.675" Z="402.2917"/>
+<phi Z="2.239692"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-151.253" Y="154.4419" Z="403.4917"/>
+<phi Z="2.239692"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-128.24" Y="140.7344" Z="402.3685"/>
+<phi Z="2.281518"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-128.2971" Y="139.4978" Z="403.5685"/>
+<phi Z="2.281518"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-116.3967" Y="134.4905" Z="402.4061"/>
+<phi Z="2.322066"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-116.4036" Y="133.2526" Z="403.6061"/>
+<phi Z="2.322066"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-103.4371" Y="127.1609" Z="402.4167"/>
+<phi Z="2.344951"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-103.4156" Y="125.9231" Z="403.6167"/>
+<phi Z="2.344951"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-82.7354" Y="112.8355" Z="402.5382"/>
+<phi Z="2.339464"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-82.7208" Y="111.5975" Z="403.7382"/>
+<phi Z="2.339464"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-82.8946" Y="118.7498" Z="402.4948"/>
+<phi Z="2.348227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-82.8691" Y="117.5121" Z="403.6948"/>
+<phi Z="2.348227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahl_einfach_rost.lod.ls3"/>
+<p X="-112.1312" Y="157.1123" Z="402.1854"/>
+<phi Z="2.299489"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1399" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\signalscheiben\sh2-scheibe_verwittert.lod.ls3"/>
+<p X="-112.166" Y="155.8749" Z="403.3854"/>
+<phi Z="2.299489"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_513500_5277500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="594" MeshI="1278">
 <RenderFlags TexVoreinstellung="3"/>
@@ -4078,6 +4318,90 @@
 <RenderFlags TexVoreinstellung="8"/>
 <Textur>
 <Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="72" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="72" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="72" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="72" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="96" MeshI="96">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="48" MeshI="48">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="9" TypGF="3" MeterProTex="0.5" MeterProTex2="10" MeshV="24" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
