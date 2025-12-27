@@ -2,12 +2,6 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Kacheln\0_500_500.ls3"/>
-<p X="500" Y="500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <lsb Dateiname="KonstanzKof.lod1.lsb"/>
 <SubSet Cd="FFFFFFFF" MeshV="29" MeshI="63">
 <RenderFlags TexVoreinstellung="1"/>

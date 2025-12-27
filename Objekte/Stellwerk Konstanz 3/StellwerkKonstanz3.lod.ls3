@@ -8,7 +8,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="1000" Vorlade="1" LODbit="12">
+<Verknuepfte Flags="16" BoundingR="25" SichtbarBis="300" Vorlade="1" LODbit="12">
 <Datei Dateiname="StellwerkKonstanz3.lod1.ls3"/>
 <p/>
 <phi/>

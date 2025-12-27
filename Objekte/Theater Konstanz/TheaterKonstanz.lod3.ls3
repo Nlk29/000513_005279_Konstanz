@@ -21,46 +21,37 @@
 <SubSet Cd="FFFFFFFF" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Schriftzug Theater.dds"/>
+<Datei Dateiname="SchriftzugTheater.dds"/>
 </Textur>
-</SubSet>
-<SubSet Cd="FFA3A3A3" MeshV="8">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Cd="FFA3A3A3" MeshV="8">
-<RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="20" MeshI="33">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Ecke Theater.dds"/>
+<Datei Dateiname="EckeTheater.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="FFFFFFFF" zBias="-2" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="4"/>
 <Textur>
-<Datei Dateiname="Relief Theater.dds"/>
+<Datei Dateiname="ReliefTheater.dds"/>
 </Textur>
-</SubSet>
-<SubSet Cd="FFA3A3A3" MeshV="18" MeshI="3">
-<RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="210" MeshI="396">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Ecke Theater.dds"/>
+<Datei Dateiname="EckeTheater.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="58" MeshI="150">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Tür Theater.dds"/>
+<Datei Dateiname="TuerTheater.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="64" MeshI="144">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
-<Datei Dateiname="Fenster Theater.dds"/>
+<Datei Dateiname="FensterTheater.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

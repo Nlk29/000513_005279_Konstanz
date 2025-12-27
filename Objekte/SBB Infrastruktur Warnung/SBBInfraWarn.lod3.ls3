@@ -2,7 +2,7 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<lsb Dateiname="SBBInfraWarn.lsb"/>
+<lsb Dateiname="SBBInfraWarn.lod3.lsb"/>
 <SubSet Cd="FFFFFFFF" TypLs3="16" MeshV="8" MeshI="12">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>

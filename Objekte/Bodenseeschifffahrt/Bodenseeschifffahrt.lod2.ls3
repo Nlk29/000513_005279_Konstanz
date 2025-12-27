@@ -15,12 +15,6 @@
 <SubSet Cd="FF232323" MeshV="28" MeshI="54">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Cd="FFA3A3A3" MeshV="14" MeshI="30">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="..\..\..\niklas\Documents\Zusiobjekte\Bodenseeschifffahrt\Bodenseeschifffahrt_lod2\texture6.jpg"/>
-</Textur>
-</SubSet>
 <SubSet Cd="FFFFFFFF" MeshV="40" MeshI="96">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
