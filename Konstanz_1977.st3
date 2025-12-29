@@ -9031,44 +9031,33 @@
 <NachNorm Nr="4419"/>
 <NachGegen Nr="4420"/>
 </StrElement>
-<StrElement Nr="1121" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<StrElement Nr="1121" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="359.9204" Y="-227.2309" Z="398.4212"/>
-<b X="356.433" Y="-188.6354" Z="398.6753"/>
-<InfoNormRichtung vMax="11.1111" km="413.9516"/>
-<InfoGegenRichtung vMax="11.1111" km="413.9128" pos="1"/>
-<NachNorm Nr="1122"/>
+<b X="359.2905" Y="-220.2594" Z="398.4671"/>
+<InfoGegenRichtung vMax="11.1111" km="413.9446" pos="1"/>
+<NachNorm Nr="4454"/>
 <NachGegen Nr="1136"/>
 </StrElement>
-<StrElement Nr="1122" kr="0.00022" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<StrElement Nr="1122" kr="0.00022" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="356.4317" Y="-188.6346" Z="398.6753"/>
-<b X="354.6633" Y="-169.7308" Z="398.7996"/>
-<InfoNormRichtung vMax="11.1111" km="413.9099"/>
-<InfoGegenRichtung vMax="11.1111" km="413.8909" pos="1"/>
-<NachNorm Nr="1123"/>
-<NachGegen Nr="1121"/>
+<b X="356.1523" Y="-185.6477" Z="398.6949"/>
+<InfoGegenRichtung vMax="11.1111" km="413.9069" pos="1"/>
+<NachNorm Nr="4455"/>
+<NachGegen Nr="4462"/>
 </StrElement>
-<StrElement Nr="1123" kr="0.000277" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<StrElement Nr="1123" kr="0.000277" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="354.6633" Y="-169.7308" Z="398.7996"/>
-<b X="352.7753" Y="-150.8386" Z="398.9239"/>
-<InfoNormRichtung vMax="11.1111" km="413.8917"/>
-<InfoGegenRichtung vMax="11.1111" km="413.8727" pos="1"/>
-<NachNorm Nr="1124"/>
-<NachGegen Nr="1122"/>
+<b X="354.365" Y="-166.7457" Z="398.8192"/>
+<InfoGegenRichtung vMax="11.1111" km="413.8887" pos="1"/>
+<NachNorm Nr="4456"/>
+<NachGegen Nr="4455"/>
 </StrElement>
-<StrElement Nr="1124" kr="0.000167" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<StrElement Nr="1124" kr="0.000167" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="352.7753" Y="-150.8386" Z="398.9239"/>
-<b X="350.7677" Y="-131.9587" Z="399.0482"/>
-<InfoNormRichtung vMax="11.1111" km="413.8734"/>
-<InfoGegenRichtung vMax="11.1111" km="413.8545" pos="1"/>
-<NachNorm Nr="1125"/>
-<NachGegen Nr="1123"/>
-</StrElement>
-<StrElement Nr="1125" kr="0.000333" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="350.7677" Y="-131.9587" Z="399.0482"/>
-<b X="348.6407" Y="-113.0919" Z="399.1725"/>
-<InfoNormRichtung vMax="11.1111" km="413.8552"/>
-<InfoGegenRichtung vMax="11.1111" km="413.8362" pos="1"/>
-<NachGegen Nr="1124"/>
+<b X="351.9299" Y="-142.8886" Z="398.9762"/>
+<InfoGegenRichtung vMax="11.1111" km="413.8655" pos="1"/>
+<NachNorm Nr="4463"/>
+<NachGegen Nr="4464"/>
 </StrElement>
 <StrElement Nr="1126" kr="0.001158" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="363.0482" Y="-279.4206" Z="398.116"/>
@@ -9142,7 +9131,7 @@
 <NachNorm Nr="1135"/>
 <NachGegen Nr="1133"/>
 </StrElement>
-<StrElement Nr="1135" kr="0.000673" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<StrElement Nr="1135" kr="0.000673" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="360.44" Y="-233.2088" Z="398.3821"/>
 <b X="360.1613" Y="-229.9403" Z="398.4035"/>
 <InfoNormRichtung vMax="11.1111" km="413.9575"/>
@@ -9150,7 +9139,7 @@
 <NachNorm Nr="1136"/>
 <NachGegen Nr="1134"/>
 </StrElement>
-<StrElement Nr="1136" kr="0.000621" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<StrElement Nr="1136" kr="0.000621" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="360.1613" Y="-229.9403" Z="398.4035"/>
 <b X="359.9208" Y="-227.2309" Z="398.4212"/>
 <InfoNormRichtung vMax="11.1111" km="413.9543"/>
@@ -12849,7 +12838,7 @@
 <NachNorm Nr="1400"/>
 <NachGegen Nr="1398"/>
 </StrElement>
-<StrElement Nr="1400" kr="0.001295" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
+<StrElement Nr="1400" kr="0.001295" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="369.7099" Y="-459.5992" Z="397.854"/>
 <b X="369.7968" Y="-456.7397" Z="397.8611"/>
 <InfoNormRichtung vMax="11.1111" km="414.1792"/>
@@ -12857,7 +12846,7 @@
 <NachNorm Nr="1401"/>
 <NachGegen Nr="1399"/>
 </StrElement>
-<StrElement Nr="1401" kr="0.002592" spTrass="11.1111" Anschluss="256" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
+<StrElement Nr="1401" kr="0.002592" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Drahthoehe="5.5">
 <g X="369.7968" Y="-456.7397" Z="397.8611"/>
 <b X="369.8867" Y="-452.4934" Z="397.8715"/>
 <InfoNormRichtung vMax="11.1111" km="414.1764"/>
@@ -14574,7 +14563,7 @@
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
+<p X="1.6" Y="-2.07"/>
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
@@ -36313,17 +36302,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-4.75"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="-0.05" pos="1">
@@ -36351,17 +36334,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-4.75"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="4282"/>
@@ -41680,17 +41657,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
@@ -41718,17 +41689,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="4274"/>
@@ -41766,17 +41731,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-3.55"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
@@ -41804,17 +41763,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-3.55"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="4276"/>
@@ -41851,23 +41804,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-10.725"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1" Y="10.725"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="215"/>
-<MatrixEintrag Signalbild="235" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="43" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
@@ -41901,23 +41842,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-10.725"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-1" Y="10.725"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="215"/>
-<MatrixEintrag Signalbild="235" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="43" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachNorm Nr="4279"/>
@@ -41954,23 +41883,17 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
 <Signal NameBetriebsstelle="BÜ Hafenstraße" Stellwerk="BÜ Hafenstraße" Signalname="BÜ Hafenstraße" SignalFlags="8" SignalTyp="4" BoundingR="10">
 <p X="288.25" Y="-722.5" Z="398.065"/>
-<phi Z="-0.173968"/>
+<phi Z="-0.173967"/>
 <KoppelSignal ReferenzNr="24">
 <Datei NurInfo="1"/>
 </KoppelSignal>
@@ -41992,17 +41915,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-8m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-4.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 <NachGegen Nr="4280"/>
@@ -42039,17 +41956,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-3.55"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
@@ -42077,17 +41988,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-6m.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-3.55"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="23"/>
-<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="7"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 </StrElement>
@@ -42122,17 +42027,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-10.725"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="87"/>
-<MatrixEintrag Signalbild="107" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="43" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1">
@@ -42166,17 +42065,11 @@
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
-<SignalFrame>
-<p X="-1" Y="-10.725"/>
-<phi/>
-<sk/>
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Andreaskreuz-einzeln.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff/>
 <HsigBegriff HsigGeschw="-1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="87"/>
-<MatrixEintrag Signalbild="107" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="23"/>
+<MatrixEintrag Signalbild="43" MatrixGeschw="-1"/>
 </Signal>
 </InfoGegenRichtung>
 </StrElement>
@@ -43462,6 +43355,75 @@
 <g X="448.5035" Y="-534.6547" Z="397.752"/>
 <b X="496.8076" Y="-521.7429" Z="398"/>
 <NachGegen Nr="1527"/>
+</StrElement>
+<StrElement Nr="4454" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="359.2905" Y="-220.2594" Z="398.4671"/>
+<b X="357.9519" Y="-205.4451" Z="398.5646"/>
+<NachNorm Nr="4465"/>
+<NachGegen Nr="1121"/>
+</StrElement>
+<StrElement Nr="4455" kr="0.00022" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="356.1523" Y="-185.6477" Z="398.6949"/>
+<b X="354.6633" Y="-169.7308" Z="398.7996"/>
+<InfoNormRichtung vMax="11.1111" km="413.9069"/>
+<NachNorm Nr="1123"/>
+<NachGegen Nr="1122"/>
+</StrElement>
+<StrElement Nr="4456" kr="0.000277" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="354.365" Y="-166.7457" Z="398.8192"/>
+<b X="353.8678" Y="-161.7706" Z="398.852"/>
+<NachNorm Nr="4457"/>
+<NachGegen Nr="1123"/>
+</StrElement>
+<StrElement Nr="4457" kr="0.000277" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="353.8678" Y="-161.7706" Z="398.852"/>
+<b X="353.3215" Y="-156.3046" Z="398.8879"/>
+<NachNorm Nr="4464"/>
+<NachGegen Nr="4456"/>
+</StrElement>
+<StrElement Nr="4458" kr="0.000333" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="350.5997" Y="-130.4682" Z="399.058"/>
+<b X="349.2553" Y="-118.544" Z="399.1366"/>
+<NachNorm Nr="4461"/>
+<NachGegen Nr="4460"/>
+</StrElement>
+<StrElement Nr="4460" kr="0.000167" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="351.0846" Y="-134.9386" Z="399.0286"/>
+<b X="350.5997" Y="-130.4682" Z="399.058"/>
+<NachNorm Nr="4458"/>
+<NachGegen Nr="4463"/>
+</StrElement>
+<StrElement Nr="4461" kr="0.000333" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="349.2553" Y="-118.544" Z="399.1366"/>
+<b X="348.6407" Y="-113.0919" Z="399.1725"/>
+<InfoNormRichtung vMax="11.1111" km="413.8417"/>
+<NachGegen Nr="4458"/>
+</StrElement>
+<StrElement Nr="4462" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="356.6133" Y="-190.6308" Z="398.6622"/>
+<b X="356.433" Y="-188.6354" Z="398.6753"/>
+<InfoNormRichtung vMax="11.1111" km="413.9149"/>
+<NachNorm Nr="1122"/>
+<NachGegen Nr="4465"/>
+</StrElement>
+<StrElement Nr="4463" kr="0.000167" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="351.9299" Y="-142.8886" Z="398.9762"/>
+<b X="351.0846" Y="-134.9386" Z="399.0286"/>
+<NachNorm Nr="4460"/>
+<NachGegen Nr="1124"/>
+</StrElement>
+<StrElement Nr="4464" kr="0.000277" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="353.3215" Y="-156.3046" Z="398.8879"/>
+<b X="352.7753" Y="-150.8386" Z="398.9239"/>
+<InfoNormRichtung vMax="11.1111" km="413.8782"/>
+<NachNorm Nr="1124"/>
+<NachGegen Nr="4457"/>
+</StrElement>
+<StrElement Nr="4465" spTrass="11.1111" Anschluss="256" Fkt="2" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="357.9519" Y="-205.4451" Z="398.5646"/>
+<b X="356.6133" Y="-190.6308" Z="398.6622"/>
+<NachNorm Nr="4462"/>
+<NachGegen Nr="4454"/>
 </StrElement>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N1" FahrstrTyp="TypZug" Laenge="798.1307">
 <FahrstrStart Ref="103">

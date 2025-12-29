@@ -1828,7 +1828,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Vehicles\1970-79\Mercedes_O307\Mercedes_O307_DB_rot_Koenigsbacher.lod.ls3"/>
-<p X="-145.9141" Y="-344.9063" Z="401.23"/>
+<p X="-145.9141" Y="-343.7032" Z="401.23"/>
 <phi Z="3.592017"/>
 <sk/>
 </Verknuepfte>
@@ -1862,16 +1862,178 @@
 <phi Z="1.136441"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\Trees\Beech\Beech01-15m.lod.ls3"/>
-<p X="-500" Y="-500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000565_005804_Lehrte_West\Objekte\LehrteZentrum_Strassenlaternen\Strassenlaterne_Design_5m_2-armig.lod.ls3"/>
 <p X="-500" Y="-500"/>
 <phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="7" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenbeleuchtung_Haengend_26m.lod.ls3"/>
+<p X="-177.7548" Y="-490.6507" Z="407.0349"/>
+<phi Z="1.617648"/>
+<sk X="1" Y="0.48" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenbeleuchtung_Haengend_26m.lod.ls3"/>
+<p X="-177.9059" Y="-462.2453" Z="406.9344"/>
+<phi Z="1.508378"/>
+<sk X="1" Y="0.565" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenbeleuchtung_Haengend_26m.lod.ls3"/>
+<p X="-175.0452" Y="-437.4449" Z="406.6779"/>
+<phi Z="1.400594"/>
+<sk X="1" Y="0.58" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenbeleuchtung_Haengend_26m.lod.ls3"/>
+<p X="-169.0918" Y="-413.1806" Z="406.7642"/>
+<phi Z="1.273095"/>
+<sk X="1" Y="0.57" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="8" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Strassenbeleuchtung\Strassenbeleuchtung_Haengend_26m.lod.ls3"/>
+<p X="-160.2139" Y="-389.8432" Z="407.1036"/>
+<phi Z="1.148898"/>
+<sk X="1" Y="0.56" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-171.4478" Y="-490.4477" Z="404.7693"/>
+<phi X="3.141593" Z="1.617648"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-170.5876" Y="-462.8072" Z="404.6219"/>
+<phi X="3.141593" Z="1.508378"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-167.7268" Y="-438.8074" Z="404.256"/>
+<phi X="3.141593" Z="1.400594"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-161.9992" Y="-415.4597" Z="404.4517"/>
+<phi X="3.141593" Z="1.273095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-153.6056" Y="-392.9218" Z="404.8692"/>
+<phi X="3.141593" Z="1.148898"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-184.0305" Y="-491.0411" Z="404.7693"/>
+<phi X="3.141593" Z="1.617648"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-185.2399" Y="-461.9334" Z="404.6219"/>
+<phi X="3.141593" Z="1.508378"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-182.426" Y="-436.2699" Z="404.256"/>
+<phi X="3.141593" Z="1.400594"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-176.1219" Y="-411.1515" Z="404.4517"/>
+<phi X="3.141593" Z="1.273095"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Telegrafenmasten\telegrafenmast_2.lod.ls3"/>
+<p X="-166.8693" Y="-386.9676" Z="404.8692"/>
+<phi X="3.141593" Z="1.148898"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-160.3352" Y="-500.4063" Z="399.7299"/>
+<phi Z="1.679628"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-160.4663" Y="-498.4746" Z="399.7635"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-160.6006" Y="-496.4791" Z="399.7976"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-160.735" Y="-494.4836" Z="399.8318"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-160.8694" Y="-492.4881" Z="399.866"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_1x_4m.lod.ls3"/>
+<p X="-161" Y="-490.49" Z="399.8659"/>
+<phi Z="7.921224"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-163.4595" Y="-498.6761" Z="399.7635"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-163.5939" Y="-496.6807" Z="399.7976"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-163.7282" Y="-494.6852" Z="399.8318"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-163.9408" Y="-491.4866" Z="399.866"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_1x_4m.lod.ls3"/>
+<p X="-163.8626" Y="-492.6897" Z="399.8659"/>
+<phi Z="1.638038"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4c_Betonmast_1953.lod.ls3"/>
+<p X="-169.9001" Y="-490.5196" Z="400.0383"/>
+<phi Z="3.102653"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Strassen\Verkehrszeichen\1953_West\Zeichen4d_bis_4g_Warnkreuze\Zeichen4c_Betonmast_1953.lod.ls3"/>
+<p X="-163.0952" Y="-485.362" Z="399.9602"/>
+<phi Z="6.244245"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -2191,6 +2353,15 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\Rillenschienen\rillenschiene.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="13" MeshI="33">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
