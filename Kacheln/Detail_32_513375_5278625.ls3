@@ -2440,8 +2440,8 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Trees\Appletree\Appletree01-06m.lod.ls3"/>
-<p X="-7.0341" Y="100.546" Z="398.0454"/>
-<phi Z="-1.490893"/>
+<p X="-144.5273" Y="160.1877" Z="398.6899"/>
+<phi X="-0.017453" Y="-0.034907" Z="-0.020703"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
