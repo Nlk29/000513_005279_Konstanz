@@ -2,29 +2,38 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<lsb Dateiname="Christuskirche.lod3.lsb"/>
-<SubSet Cd="FFFFFFFF" MeshV="108" MeshI="180">
+<lsb Dateiname="Christuskirche.lod2.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="1019" MeshI="2052">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0005_0060\000504_006037_Husum\Objekte\AHM_EG_Nord\Husum_Nord_EG_Dach.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="633" MeshI="1497">
+<SubSet Cd="FFFFFFFF" MeshV="711" MeshI="1701">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="WandGelb.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FF737373" MeshV="248" MeshI="528">
-<RenderFlags TexVoreinstellung="1"/>
-</SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="533" MeshI="1611">
+<SubSet Cd="FFFFFFFF" MeshV="300" MeshI="450">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Stw_Nw\FensterStw.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="FFFFFFFF" MeshV="288" MeshI="540">
+<SubSet Cd="00646464" Ca="00969696" MeshV="1752" MeshI="2997">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\WALL\Wall_Concrete.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="422" MeshI="642">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Dach.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="FFFFFFFF" MeshV="577" MeshI="1257">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Routes\Deutschland\32U_0006_0058\000565_005804_Lehrte_West\Objekte\LehrteZentrum02\LehrteNZ_West\LehrteZentrum_West_Holzdecke.dds"/>

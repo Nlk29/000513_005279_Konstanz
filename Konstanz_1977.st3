@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
 <Info DateiTyp="Strecke" Version="A.6" MinVersion="A.1"/>
-<Strecke Himmelsmodell="2">
+<Strecke RekTiefe="20" Himmelsmodell="2">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.ls3"/>
 <HintergrundDatei/>
 <BefehlsKonfiguration/>
@@ -116,7 +116,6 @@
 <ReferenzElemente ReferenzNr="103" StrElement="1082" StrNorm="1" RefTyp="4" Info="Signal: Konstanz A"/>
 <ReferenzElemente ReferenzNr="104" StrElement="1082" StrNorm="1" RefTyp="2" Info="Register-Nr. 5004"/>
 <ReferenzElemente ReferenzNr="105" StrElement="1082" RefTyp="2" Info="Register-Nr. 5004"/>
-<ReferenzElemente ReferenzNr="106" StrElement="1103" StrNorm="1" RefTyp="4" Info="Signal: Konstanz-Petershausen Fv "/>
 <ReferenzElemente ReferenzNr="107" StrElement="1137" StrNorm="1" RefTyp="3" Info="Weiche  2"/>
 <ReferenzElemente ReferenzNr="108" StrElement="1137" StrNorm="1" RefTyp="2" Info="Register-Nr. 5005"/>
 <ReferenzElemente ReferenzNr="109" StrElement="1137" RefTyp="2" Info="Register-Nr. 5005"/>
@@ -517,7 +516,6 @@
 <ReferenzElemente ReferenzNr="504" StrElement="1185" StrNorm="1" RefTyp="5" Info="Auflösepunkt"/>
 <ReferenzElemente ReferenzNr="505" StrElement="1185" StrNorm="1" RefTyp="2" Info="Register-Nr. 5008"/>
 <ReferenzElemente ReferenzNr="506" StrElement="1185" RefTyp="2" Info="Register-Nr. 5008"/>
-<ReferenzElemente ReferenzNr="507" StrElement="1064" RefTyp="1" Info="Modulgrenze nach Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3"/>
 <ReferenzElemente ReferenzNr="508" StrElement="1229" StrNorm="1" RefTyp="5" Info="Auflösepunkt"/>
 <ReferenzElemente ReferenzNr="509" StrElement="1229" StrNorm="1" RefTyp="2" Info="Register-Nr. 5011"/>
 <ReferenzElemente ReferenzNr="510" StrElement="1229" RefTyp="2" Info="Register-Nr. 5011"/>
@@ -918,7 +916,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.15"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_2.lod.ls3"/>
 </SignalFrame>
@@ -7826,9 +7824,6 @@
 <Ereignis Er="31" Wert="2"/>
 </InfoGegenRichtung>
 <NachNorm Nr="1065"/>
-<NachGegenModul Nr="555">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</NachGegenModul>
 </StrElement>
 <StrElement Nr="1065" Ueberh="-0.0105" kr="0.00082" spTrass="16.6667" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="4.95">
 <g X="380.4779" Y="160.3863" Z="401.6588"/>
@@ -41103,7 +41098,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -41115,7 +41110,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -41153,7 +41148,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -41165,7 +41160,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -41374,7 +41369,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -41386,7 +41381,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -41418,7 +41413,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -41430,7 +41425,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -41502,7 +41497,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.15"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_2.lod.ls3"/>
 </SignalFrame>
@@ -41568,7 +41563,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.15"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_2.lod.ls3"/>
 </SignalFrame>
@@ -42181,9 +42176,6 @@
 <FahrstrSignal Ref="103">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="425">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N2" FahrstrTyp="TypZug" Laenge="799.1731">
 <FahrstrStart Ref="103">
@@ -42258,9 +42250,6 @@
 <FahrstrSignal Ref="103" FahrstrSignalZeile="6">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="425" FahrstrSignalSpalte="5">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N3" FahrstrTyp="TypZug" Laenge="799.3324">
 <FahrstrStart Ref="103">
@@ -42338,9 +42327,6 @@
 <FahrstrSignal Ref="103" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="425" FahrstrSignalSpalte="5">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz Hs5II" FahrstrTyp="TypZug" Laenge="970.8504">
 <FahrstrStart Ref="103">
@@ -42424,9 +42410,6 @@
 <FahrstrSignal Ref="103" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="425" FahrstrSignalSpalte="5">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz N4" FahrstrTyp="TypZug" Laenge="800.6414">
 <FahrstrStart Ref="103">
@@ -42519,9 +42502,6 @@
 <FahrstrSignal Ref="103" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="425" FahrstrSignalSpalte="5">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz Hs6II" FahrstrTyp="TypZug" Laenge="1011.8561">
 <FahrstrStart Ref="103">
@@ -42596,9 +42576,6 @@
 <FahrstrSignal Ref="103" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="425" FahrstrSignalSpalte="5">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Konstanz A -&gt; Konstanz Hs7" FahrstrTyp="TypZug" Laenge="1250.2554">
 <FahrstrStart Ref="103">
@@ -42721,9 +42698,6 @@
 <FahrstrSignal Ref="103" FahrstrSignalZeile="5">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005279_Konstanz\Konstanz_1977.st3" NurInfo="1"/>
 </FahrstrSignal>
-<FahrstrVSignal Ref="425" FahrstrSignalSpalte="5">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000513_005280_Konstanz-Petershausen\Konstanz-Petershausen_1987.st3" NurInfo="1"/>
-</FahrstrVSignal>
 </Fahrstrasse>
 <Fahrstrasse FahrstrName="Konstanz Hs1 -&gt; Konstanz-Petershausen F" FahrstrStrecke="720b" RglGgl="1" FahrstrTyp="TypZug" Laenge="1001.3148">
 <FahrstrStart Ref="113">
