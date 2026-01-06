@@ -9536,11 +9536,17 @@
 <phi Z="-1.747488"/>
 <sk X="1.4" Y="1.4" Z="1.4"/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="729" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiguhr\DB_1998\Bahnsteiguhr_60cm-rund_haengend.lod.ls3"/>
 <p X="-199.9867" Y="-164.8147" Z="403.3284"/>
 <phi Z="-1.747483"/>
 <sk X="1.4" Y="1.4" Z="1.4"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="339" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
+<p X="-162.2026" Y="482.0568" Z="399.7882"/>
+<phi X="-0.036816" Y="-0.007364" Z="1.64601"/>
+<sk X="1" Y="0.8" Z="1"/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5278500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeterProTex2="10" MeshV="1370" MeshI="2808">
@@ -10909,12 +10915,6 @@
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="48" MeshI="210">
-<RenderFlags TexVoreinstellung="8"/>
-<Textur>
-<Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" BeleuchtungTyp="2" MeterProTex="1.5" MeterProTex2="10" MeshV="119" MeshI="555">
 <RenderFlags TexVoreinstellung="8"/>
 <Textur>
 <Datei Dateiname="TERRAIN\GENERAL\BUSHES\hedge.dds"/>
