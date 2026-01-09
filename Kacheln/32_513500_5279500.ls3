@@ -2908,7 +2908,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\03_14_Medien\03_14_Medien.lod.ls3"/>
-<p X="-264.7118" Y="-276.6451" Z="399.3135"/>
+<p X="-264.7118" Y="-276.6451" Z="398.792"/>
 <phi Z="-2.321834"/>
 <sk/>
 </Verknuepfte>
@@ -2936,7 +2936,7 @@
 <phi Z="-0.481056"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="316" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="28" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_13_WH_1\Hagen_Gbf_13_E-WH_1.lod.ls3"/>
 <p X="-351.5224" Y="-233.0083" Z="397.5095"/>
 <phi Z="-3.63983"/>
@@ -3307,6 +3307,36 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="1" TypGF="6" MeterProTex="10" MeshV="398" MeshI="1524">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="12" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="19" MeshI="63">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\river_10m_water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\General\Water\water01.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="26" MeshI="66">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
