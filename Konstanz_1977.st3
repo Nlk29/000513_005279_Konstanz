@@ -7,6 +7,18 @@
 <BefehlsKonfiguration/>
 <Kachelpfad Dateiname="Kacheln\" NurInfo="1"/>
 <UTM UTM_WE="513" UTM_NS="5279" UTM_Zone="32" UTM_Zone2="T"/>
+<Huellkurve>
+      <PunktXYZ X="1228.333" Y="-369.8702" />
+      <PunktXYZ X="-460.8148" Y="701.0082" />
+      <PunktXYZ X="-625.4426" Y="347.0106" />
+      <PunktXYZ X="-1086.809" Y="-540.1991" />
+      <PunktXYZ X="-1155.682" Y="-626.079" />
+      <PunktXYZ X="-585.8881" Y="-1447.866" />
+      <PunktXYZ X="85.88579" Y="-1260.191" />
+      <PunktXYZ X="158.6692" Y="-1446.477" />
+      <PunktXYZ X="352.3183" Y="-1463.866" />
+      <PunktXYZ X="496.0859" Y="-1324.83" />
+    </Huellkurve>
 <SkyDome>
 <HimmelTex Dateiname="_Setup\sky\sky.dds"/>
 <SonneTex Dateiname="_Setup\sky\sun.dds"/>
@@ -757,7 +769,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.15"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_2.lod.ls3"/>
 </SignalFrame>
@@ -921,7 +933,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.15"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_2.lod.ls3"/>
 </SignalFrame>
@@ -1467,7 +1479,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-9.1179" Y="2.7162" Z="0.2095"/>
-<phi Z="3.241995"/>
+<phi Z="-3.04119"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-03a.lod.ls3"/>
 </SignalFrame>
@@ -1527,19 +1539,19 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-19.6105" Y="-17.6595" Z="0.2171"/>
-<phi Z="3.213256"/>
+<phi Z="-3.06993"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05b.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-10.933" Y="-57.1719" Z="0.2299"/>
-<phi Z="3.351084"/>
+<phi Z="-2.932101"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09a.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-13.0861" Y="-4.476" Z="0.2122"/>
-<phi Z="3.31232"/>
+<phi Z="-2.970865"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06a.lod.ls3"/>
 </SignalFrame>
@@ -1557,7 +1569,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-14.356" Y="-47.5106" Z="0.2269"/>
-<phi Z="3.361693"/>
+<phi Z="-2.921493"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\1975\Adults\man01-a.lod.ls3"/>
 </SignalFrame>
@@ -1581,7 +1593,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-4.5761" Y="12.7299" Z="0.2059"/>
-<phi Z="3.211945"/>
+<phi Z="-3.07124"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\1975\Adults\woman02-c.lod.ls3"/>
 </SignalFrame>
@@ -1593,7 +1605,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-28.9185" Y="-89.3464" Z="0.2419"/>
-<phi Z="3.168866"/>
+<phi Z="-3.11432"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-10b.lod.ls3"/>
 </SignalFrame>
@@ -1623,7 +1635,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-32.5658" Y="-99.4922" Z="0.2456"/>
-<phi Z="3.424333"/>
+<phi Z="-2.858852"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-07a.lod.ls3"/>
 </SignalFrame>
@@ -1635,7 +1647,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-37.4249" Y="-120.6072" Z="0.253"/>
-<phi Z="3.31297"/>
+<phi Z="-2.970216"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-06a.lod.ls3"/>
 </SignalFrame>
@@ -1653,7 +1665,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-6.7767" Y="-3.7085" Z="0.2116"/>
-<phi Z="3.354163"/>
+<phi Z="-2.929023"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-b.lod.ls3"/>
 </SignalFrame>
@@ -1707,7 +1719,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-4.6169" Y="1.5792" Z="0.2097"/>
-<phi Z="3.403425"/>
+<phi Z="-2.879761"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\1975\Adults\man01-c.lod.ls3"/>
 </SignalFrame>
@@ -1725,19 +1737,19 @@
 </SignalFrame>
 <SignalFrame>
 <p X="0.8079" Y="58.2271" Z="0.2869"/>
-<phi Z="3.148826"/>
+<phi Z="-3.13436"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-03b.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-16.0375" Y="-4.9855" Z="0.2126"/>
-<phi Z="3.440312"/>
+<phi Z="-2.842874"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-09b.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="-8.5334" Y="-14.6617" Z="0.2154"/>
-<phi Z="3.160653"/>
+<phi Z="-3.122532"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-c.lod.ls3"/>
 </SignalFrame>
@@ -1767,7 +1779,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-20.2681" Y="-55.4224" Z="0.2299"/>
-<phi Z="3.205047"/>
+<phi Z="-3.078139"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\1975\Travellers\travellers01-c.lod.ls3"/>
 </SignalFrame>
@@ -1785,13 +1797,13 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-0.3542" Y="-7.1421" Z="0.2123"/>
-<phi Z="3.332197"/>
+<phi Z="-2.950989"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-05b.lod.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p X="1.0486" Y="2.3719" Z="0.209"/>
-<phi Z="3.346822"/>
+<phi Z="-2.936363"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\1975\Adults\woman02-a.lod.ls3"/>
 </SignalFrame>
@@ -1809,7 +1821,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-21.5929" Y="-130.2617" Z="0.2556"/>
-<phi Z="3.190083"/>
+<phi Z="-3.093102"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\Travellers_2000_Pram_1.lod.ls3"/>
 </SignalFrame>
@@ -1821,7 +1833,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-12.7208" Y="-69.7947" Z="0.2343"/>
-<phi Z="3.44791"/>
+<phi Z="-2.835275"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-08b.lod.ls3"/>
 </SignalFrame>
@@ -2321,7 +2333,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="-5.0529" Y="-26.6924" Z="0.0725"/>
-<phi Z="3.294649"/>
+<phi Z="-2.988537"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\1975\Adults\woman02-a.lod.ls3"/>
 </SignalFrame>
@@ -2333,7 +2345,7 @@
 </SignalFrame>
 <SignalFrame>
 <p X="8.9424" Y="41.4788" Z="0.1774"/>
-<phi Z="3.353242"/>
+<phi Z="-2.929944"/>
 <sk/>
 <Datei Dateiname="Terrain\General\People\2000\Travellers\travellers_2000-01a.lod.ls3"/>
 </SignalFrame>
@@ -42345,7 +42357,7 @@
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2097268" WeichenbaugruppeNr="6619234" WeichenbaugruppePos0="1">
 <p X="0.15"/>
-<phi Z="-3.141593"/>
+<phi Z="3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_schwarz.lod.ls3"/>
 </SignalFrame>
@@ -42385,7 +42397,7 @@
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2097268" WeichenbaugruppeNr="6619234" WeichenbaugruppePos0="1">
 <p X="0.15"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Nebensignale\DB_Ne5_schwarz.lod.ls3"/>
 </SignalFrame>
@@ -42568,7 +42580,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -42580,7 +42592,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -42606,7 +42618,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -42618,7 +42630,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -42775,7 +42787,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -42787,7 +42799,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>
@@ -42813,7 +42825,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\schrankenbock_links.Lod.ls3"/>
 </SignalFrame>
@@ -42825,7 +42837,7 @@
 </SignalFrame>
 <SignalFrame>
 <p Y="10.725" Z="1"/>
-<phi Z="3.141593"/>
+<phi Z="-3.141593"/>
 <sk/>
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnuebergaenge\mechanisch_DB\Bauteile_DB\Schrankenbaum-10m-bew.Lod.ls3"/>
 </SignalFrame>

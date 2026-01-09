@@ -855,12 +855,6 @@
 <sk X="1.3874" Y="1.3874" Z="1.3874"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\General\grasses\gras01.lod.ls3"/>
-<p X="-152.3133" Y="-411.6246" Z="400.2912"/>
-<phi Z="0.50237"/>
-<sk X="1.075" Y="1.075" Z="1.075"/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\grasses\gras06.lod.ls3"/>
 <p X="-149.9965" Y="-407.2136" Z="400.0093"/>
 <phi Z="1.625147"/>
@@ -1372,7 +1366,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\General\Bushes\Bush01-1m5.lod.ls3"/>
-<p X="-130.9417" Y="-362.4725" Z="401.4321"/>
+<p X="-130.6956" Y="-361.6053" Z="401.4321"/>
 <phi Z="-2.087737"/>
 <sk/>
 </Verknuepfte>
@@ -1456,7 +1450,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Drahtzuege\1-2_Doppeldraht\rollenhalter_hoch_1haube_1doppeldraht.lod.ls3"/>
-<p X="-118.6728" Y="-334.0659" Z="402.2054"/>
+<p X="-118.6728" Y="-334.0659" Z="401.9476"/>
 <phi Z="1.006403"/>
 <sk/>
 </Verknuepfte>
@@ -2315,8 +2309,8 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
 <p X="-162.608" Y="-465.4478" Z="400.1"/>
-<phi Z="1.459763"/>
-<sk/>
+<phi Z="1.49167"/>
+<sk X="1.05" Y="1" Z="1"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
@@ -2393,8 +2387,8 @@
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
 <p X="-158.9836" Y="-439.5298" Z="400.308"/>
-<phi Z="1.339931"/>
-<sk/>
+<phi Z="1.393928"/>
+<sk X="1.075" Y="1" Z="1"/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
@@ -2590,7 +2584,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
-<p X="-138.2123" Y="-376.6756" Z="401.0197"/>
+<p X="-138.1889" Y="-376.6756" Z="401.0197"/>
 <phi Z="1.119021"/>
 <sk X="1.1" Y="1" Z="1"/>
 </Verknuepfte>
@@ -2620,7 +2614,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
-<p X="-133.6418" Y="-367.7813" Z="401.1903"/>
+<p X="-132.6691" Y="-366.0001" Z="401.1903"/>
 <phi Z="1.069933"/>
 <sk/>
 </Verknuepfte>
@@ -2628,12 +2622,6 @@
 <Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_Staender.lod.ls3"/>
 <p X="-163.6694" Y="-483.1116" Z="399.8788"/>
 <phi Z="1.513844"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_1x_4m.lod.ls3"/>
-<p X="-131.6574" Y="-364.25" Z="401.1902"/>
-<phi Z="1.066661"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
@@ -2662,31 +2650,31 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
-<p X="-155.8775" Y="-425.8784" Z="400.4536"/>
+<p X="-155.9947" Y="-425.8784" Z="400.4536"/>
 <phi Z="1.339931"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
-<p X="-151.7722" Y="-411.3536" Z="400.6321"/>
+<p X="-151.9597" Y="-411.3536" Z="400.6321"/>
 <phi Z="1.276368"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
-<p X="-146.978" Y="-397.0237" Z="400.8177"/>
+<p X="-147.1069" Y="-396.8714" Z="400.8177"/>
 <phi Z="1.20026"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
-<p X="-141.2196" Y="-383.1076" Z="400.9584"/>
+<p X="-141.4071" Y="-383.1076" Z="400.9584"/>
 <phi Z="1.160439"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
-<p X="-134.6604" Y="-369.5144" Z="401.1562"/>
+<p X="-134.7893" Y="-369.573" Z="401.1562"/>
 <phi Z="1.096113"/>
 <sk/>
 </Verknuepfte>
@@ -2694,6 +2682,264 @@
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Formsignale_Einheitsbauform\Objekte\Aufschuettungen_Formsignale\Aufschuettung_Naturstein.lod.ls3"/>
 <p X="-161.7593" Y="-425.5755" Z="400.7158"/>
 <phi Z="-1.82645"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-112.5102" Y="-338.0172" Z="401"/>
+<phi Z="2.592003"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-110.7877" Y="-339.0723" Z="400.9999"/>
+<phi Z="1.00648"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-111.868" Y="-340.7791" Z="400.9999"/>
+<phi Z="1.00648"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-133.6418" Y="-367.7813" Z="401.1903"/>
+<phi Z="1.069933"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-131.673" Y="-364.2305" Z="401.1903"/>
+<phi Z="1.060116"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-112.9484" Y="-342.4859" Z="400.9999"/>
+<phi Z="0.994209"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-114.0497" Y="-344.1793" Z="400.9998"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-115.1174" Y="-345.894" Z="400.9998"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-116.1852" Y="-347.6088" Z="400.9998"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-117.253" Y="-349.3235" Z="400.9998"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-118.3208" Y="-351.0382" Z="400.9997"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-119.3885" Y="-352.7529" Z="400.9997"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-120.4563" Y="-354.4677" Z="400.9997"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-121.5241" Y="-356.1824" Z="400.9996"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-122.5919" Y="-357.8971" Z="400.9996"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-123.6597" Y="-359.6118" Z="400.9996"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-124.7274" Y="-361.3265" Z="400.9995"/>
+<phi Z="1.013843"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-125.7952" Y="-363.0413" Z="400.9995"/>
+<phi Z="0.68005"/>
+<sk X="1.05" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-114.6196" Y="-336.6696" Z="401"/>
+<phi Z="0.994208"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-115.7208" Y="-338.363" Z="400.9999"/>
+<phi Z="0.994208"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-116.822" Y="-340.0564" Z="400.9999"/>
+<phi Z="0.999117"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-117.9149" Y="-341.7552" Z="400.9999"/>
+<phi Z="0.999117"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-119.0079" Y="-343.454" Z="400.9998"/>
+<phi Z="0.999117"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-120.1008" Y="-345.1528" Z="400.9998"/>
+<phi Z="0.9893"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-121.2103" Y="-346.8408" Z="400.9998"/>
+<phi Z="1.001572"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-122.2991" Y="-348.5422" Z="400.9998"/>
+<phi Z="0.996663"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-123.3961" Y="-350.2383" Z="400.9997"/>
+<phi Z="0.996663"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-124.4932" Y="-351.9344" Z="400.9997"/>
+<phi Z="0.996663"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-125.5903" Y="-353.6306" Z="400.9997"/>
+<phi Z="0.996663"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-126.6874" Y="-355.3267" Z="400.9996"/>
+<phi Z="0.996663"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-127.7845" Y="-357.0228" Z="400.9996"/>
+<phi Z="0.996663"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-128.8815" Y="-358.7189" Z="400.9996"/>
+<phi Z="1.168469"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-129.6725" Y="-360.5776" Z="400.9995"/>
+<phi Z="1.087474"/>
+<sk X="1.1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Zaeune\GitterzaunStahl\GitterzaunStahl_2m.lod.ls3"/>
+<p X="-130.6774" Y="-362.4494" Z="401.187"/>
+<phi Z="1.060115"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-124.521" Y="-351.4421" Z="401.144"/>
+<phi Z="1.004082"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
+<p X="-114.6139" Y="-335.9915" Z="401.211"/>
+<phi Z="0.995001"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\03_14_Medien\03_14_Medien.lod.ls3"/>
+<p X="-238.4117" Y="-301.1985" Z="399.3235"/>
+<phi Z="-2.321833"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000483_005730_Paderborn\Objekte\03_14_Medien\03_14_Medien.lod.ls3"/>
+<p X="-264.7118" Y="-276.6451" Z="399.3135"/>
+<phi Z="-2.321834"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Welkenratherstr\AC_WH_Welkenratherstr11-19.lod.ls3"/>
+<p X="-309.3683" Y="-247.3352" Z="398.8592"/>
+<phi Z="2.626175"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Objekte\AC_WH_Kasinostr\AC_WH_Pfeilstr7.lod.ls3"/>
+<p X="-303.2941" Y="-267.8944" Z="398.0932"/>
+<phi Z="0.908116"/>
+<sk X="1" Y="1" Z="0.9"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Mauerstr\AC_Mauerstr94-98_MFH.lod.ls3"/>
+<p X="-399.9273" Y="-199.4148" Z="399.0315"/>
+<phi Z="-0.481056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="20" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0003_0056\000293_005629_Aachen_West\Objekte\AC_Mauerstr\AC_Mauerstr94-98_MFH.lod.ls3"/>
+<p X="-405.4242" Y="-210.0102" Z="399.0237"/>
+<phi Z="-0.481056"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="316" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000392_005694_Hagen_Gbf\Objekte\Hagen_Gbf_13_WH_1\Hagen_Gbf_13_E-WH_1.lod.ls3"/>
+<p X="-351.5224" Y="-233.0083" Z="397.5095"/>
+<phi Z="-3.63983"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_513500_5279500.lsb"/>
@@ -2768,9 +3014,6 @@
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="10" MeshI="24">
 <RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="Terrain\Default\terrain.dds"/>
-</Textur>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
 </Textur>
@@ -2952,12 +3195,6 @@
 <Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="3" TypGF="1" MeterProTex="4" MeterProTex2="10" MeshV="4" MeshI="6">
-<RenderFlags TexVoreinstellung="1"/>
-<Textur>
-<Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Bruchstein-grau.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="5" MeshI="9">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -3052,6 +3289,24 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="RailwayObjects\Deutschland\Stuetzmauer\Bruchstein-grau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="3" zBias="-2" MeshV="8" MeshI="18">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Pflaster\Kopfsteinpflaster\kopfsteinpflaster_03.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" zBias="-2" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
