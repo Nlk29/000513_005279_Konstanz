@@ -2626,12 +2626,6 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
-<p X="-163.9049" Y="-485.4861" Z="399.8199"/>
-<phi Z="1.513845"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Bahnsteiglaterne_50er_7m.lod.ls3"/>
 <p X="-163.0511" Y="-470.5105" Z="400.0406"/>
 <phi Z="1.513845"/>
 <sk/>
